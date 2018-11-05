@@ -1,0 +1,1203 @@
+CIFAR10 Training Started.....
+Epoch: 0  Batch ( 0 )
+Epoch: 0  Batch ( 128 )
+Epoch: 0  Batch ( 256 )
+Epoch: 0  Batch ( 384 )
+Calculating metrics.....
+Epoch 0. Test Loss:1.9927967, Train Loss: 2.1992404, Train_acc: 0.234, Test_acc: 0.2419
+Epoch: 1  Batch ( 0 )
+Epoch: 1  Batch ( 128 )
+Epoch: 1  Batch ( 256 )
+Epoch: 1  Batch ( 384 )
+Calculating metrics.....
+Epoch 1. Test Loss:1.8206145, Train Loss: 2.0134807, Train_acc: 0.28802, Test_acc: 0.2907
+Epoch: 2  Batch ( 0 )
+Epoch: 2  Batch ( 128 )
+Epoch: 2  Batch ( 256 )
+Epoch: 2  Batch ( 384 )
+Calculating metrics.....
+Epoch 2. Test Loss:1.9619889, Train Loss: 1.9739516, Train_acc: 0.34554, Test_acc: 0.3546
+Epoch: 3  Batch ( 0 )
+Epoch: 3  Batch ( 128 )
+Epoch: 3  Batch ( 256 )
+Epoch: 3  Batch ( 384 )
+Calculating metrics.....
+Epoch 3. Test Loss:1.5403973, Train Loss: 1.8728796, Train_acc: 0.37698, Test_acc: 0.3842
+Epoch: 4  Batch ( 0 )
+Epoch: 4  Batch ( 128 )
+Epoch: 4  Batch ( 256 )
+Epoch: 4  Batch ( 384 )
+Calculating metrics.....
+Epoch 4. Test Loss:1.8722378, Train Loss: 1.7055418, Train_acc: 0.40502, Test_acc: 0.4086
+Epoch: 5  Batch ( 0 )
+Epoch: 5  Batch ( 128 )
+Epoch: 5  Batch ( 256 )
+Epoch: 5  Batch ( 384 )
+Calculating metrics.....
+Epoch 5. Test Loss:1.6509174, Train Loss: 1.3997672, Train_acc: 0.43224, Test_acc: 0.432
+Epoch: 6  Batch ( 0 )
+Epoch: 6  Batch ( 128 )
+Epoch: 6  Batch ( 256 )
+Epoch: 6  Batch ( 384 )
+Calculating metrics.....
+Epoch 6. Test Loss:1.3064952, Train Loss: 1.5114157, Train_acc: 0.45726, Test_acc: 0.4508
+Epoch: 7  Batch ( 0 )
+Epoch: 7  Batch ( 128 )
+Epoch: 7  Batch ( 256 )
+Epoch: 7  Batch ( 384 )
+Calculating metrics.....
+Epoch 7. Test Loss:1.2878385, Train Loss: 1.5404702, Train_acc: 0.48664, Test_acc: 0.4819
+Epoch: 8  Batch ( 0 )
+Epoch: 8  Batch ( 128 )
+Epoch: 8  Batch ( 256 )
+Epoch: 8  Batch ( 384 )
+Calculating metrics.....
+Epoch 8. Test Loss:1.3716012, Train Loss: 1.4348538, Train_acc: 0.49664, Test_acc: 0.4929
+Epoch: 9  Batch ( 0 )
+Epoch: 9  Batch ( 128 )
+Epoch: 9  Batch ( 256 )
+Epoch: 9  Batch ( 384 )
+Calculating metrics.....
+Epoch 9. Test Loss:1.3571179, Train Loss: 1.4928391, Train_acc: 0.52092, Test_acc: 0.5141
+Epoch: 10  Batch ( 0 )
+Epoch: 10  Batch ( 128 )
+Epoch: 10  Batch ( 256 )
+Epoch: 10  Batch ( 384 )
+Calculating metrics.....
+Epoch 10. Test Loss:1.219849, Train Loss: 1.3090724, Train_acc: 0.49712, Test_acc: 0.4912
+Epoch: 11  Batch ( 0 )
+Epoch: 11  Batch ( 128 )
+Epoch: 11  Batch ( 256 )
+Epoch: 11  Batch ( 384 )
+Calculating metrics.....
+Epoch 11. Test Loss:1.221349, Train Loss: 1.2570056, Train_acc: 0.5633, Test_acc: 0.5505
+Epoch: 12  Batch ( 0 )
+Epoch: 12  Batch ( 128 )
+Epoch: 12  Batch ( 256 )
+Epoch: 12  Batch ( 384 )
+Calculating metrics.....
+Epoch 12. Test Loss:1.1374773, Train Loss: 1.2461511, Train_acc: 0.5601, Test_acc: 0.5465
+Epoch: 13  Batch ( 0 )
+Epoch: 13  Batch ( 128 )
+Epoch: 13  Batch ( 256 )
+Epoch: 13  Batch ( 384 )
+Calculating metrics.....
+Epoch 13. Test Loss:1.1592733, Train Loss: 1.468936, Train_acc: 0.58366, Test_acc: 0.5729
+Epoch: 14  Batch ( 0 )
+Epoch: 14  Batch ( 128 )
+Epoch: 14  Batch ( 256 )
+Epoch: 14  Batch ( 384 )
+Calculating metrics.....
+Epoch 14. Test Loss:1.3228551, Train Loss: 1.2742975, Train_acc: 0.57846, Test_acc: 0.567
+Epoch: 15  Batch ( 0 )
+Epoch: 15  Batch ( 128 )
+Epoch: 15  Batch ( 256 )
+Epoch: 15  Batch ( 384 )
+Calculating metrics.....
+Epoch 15. Test Loss:1.1533214, Train Loss: 1.1866256, Train_acc: 0.61392, Test_acc: 0.6007
+Epoch: 16  Batch ( 0 )
+Epoch: 16  Batch ( 128 )
+Epoch: 16  Batch ( 256 )
+Epoch: 16  Batch ( 384 )
+Calculating metrics.....
+Epoch 16. Test Loss:1.02173, Train Loss: 1.3038156, Train_acc: 0.62604, Test_acc: 0.6109
+Epoch: 17  Batch ( 0 )
+Epoch: 17  Batch ( 128 )
+Epoch: 17  Batch ( 256 )
+Epoch: 17  Batch ( 384 )
+Calculating metrics.....
+Epoch 17. Test Loss:1.1161942, Train Loss: 1.127145, Train_acc: 0.61786, Test_acc: 0.6034
+Epoch: 18  Batch ( 0 )
+Epoch: 18  Batch ( 128 )
+Epoch: 18  Batch ( 256 )
+Epoch: 18  Batch ( 384 )
+Calculating metrics.....
+Epoch 18. Test Loss:1.1964217, Train Loss: 1.0299088, Train_acc: 0.63532, Test_acc: 0.6218
+Epoch: 19  Batch ( 0 )
+Epoch: 19  Batch ( 128 )
+Epoch: 19  Batch ( 256 )
+Epoch: 19  Batch ( 384 )
+Calculating metrics.....
+Epoch 19. Test Loss:1.0575529, Train Loss: 1.0499864, Train_acc: 0.62572, Test_acc: 0.6128
+Epoch: 20  Batch ( 0 )
+Epoch: 20  Batch ( 128 )
+Epoch: 20  Batch ( 256 )
+Epoch: 20  Batch ( 384 )
+Calculating metrics.....
+Epoch 20. Test Loss:1.1605606, Train Loss: 1.0694294, Train_acc: 0.63874, Test_acc: 0.6226
+Epoch: 21  Batch ( 0 )
+Epoch: 21  Batch ( 128 )
+Epoch: 21  Batch ( 256 )
+Epoch: 21  Batch ( 384 )
+Calculating metrics.....
+Epoch 21. Test Loss:1.2489132, Train Loss: 1.184878, Train_acc: 0.66446, Test_acc: 0.6453
+Epoch: 22  Batch ( 0 )
+Epoch: 22  Batch ( 128 )
+Epoch: 22  Batch ( 256 )
+Epoch: 22  Batch ( 384 )
+Calculating metrics.....
+Epoch 22. Test Loss:0.92792904, Train Loss: 0.97378093, Train_acc: 0.6638, Test_acc: 0.6491
+Epoch: 23  Batch ( 0 )
+Epoch: 23  Batch ( 128 )
+Epoch: 23  Batch ( 256 )
+Epoch: 23  Batch ( 384 )
+Calculating metrics.....
+Epoch 23. Test Loss:1.1472031, Train Loss: 1.0908645, Train_acc: 0.67892, Test_acc: 0.6554
+Epoch: 24  Batch ( 0 )
+Epoch: 24  Batch ( 128 )
+Epoch: 24  Batch ( 256 )
+Epoch: 24  Batch ( 384 )
+Calculating metrics.....
+Epoch 24. Test Loss:1.0990587, Train Loss: 0.8734868, Train_acc: 0.67626, Test_acc: 0.6529
+Epoch: 25  Batch ( 0 )
+Epoch: 25  Batch ( 128 )
+Epoch: 25  Batch ( 256 )
+Epoch: 25  Batch ( 384 )
+Calculating metrics.....
+Epoch 25. Test Loss:1.0932161, Train Loss: 0.93600714, Train_acc: 0.69486, Test_acc: 0.6679
+Epoch: 26  Batch ( 0 )
+Epoch: 26  Batch ( 128 )
+Epoch: 26  Batch ( 256 )
+Epoch: 26  Batch ( 384 )
+Calculating metrics.....
+Epoch 26. Test Loss:1.1127796, Train Loss: 1.1231787, Train_acc: 0.6896, Test_acc: 0.6672
+Epoch: 27  Batch ( 0 )
+Epoch: 27  Batch ( 128 )
+Epoch: 27  Batch ( 256 )
+Epoch: 27  Batch ( 384 )
+Calculating metrics.....
+Epoch 27. Test Loss:0.8516574, Train Loss: 1.1177247, Train_acc: 0.70498, Test_acc: 0.6755
+Epoch: 28  Batch ( 0 )
+Epoch: 28  Batch ( 128 )
+Epoch: 28  Batch ( 256 )
+Epoch: 28  Batch ( 384 )
+Calculating metrics.....
+Epoch 28. Test Loss:0.9900857, Train Loss: 1.003395, Train_acc: 0.7093, Test_acc: 0.6789
+Epoch: 29  Batch ( 0 )
+Epoch: 29  Batch ( 128 )
+Epoch: 29  Batch ( 256 )
+Epoch: 29  Batch ( 384 )
+Calculating metrics.....
+Epoch 29. Test Loss:1.302762, Train Loss: 0.73786247, Train_acc: 0.71542, Test_acc: 0.684
+Epoch: 30  Batch ( 0 )
+Epoch: 30  Batch ( 128 )
+Epoch: 30  Batch ( 256 )
+Epoch: 30  Batch ( 384 )
+Calculating metrics.....
+Epoch 30. Test Loss:1.3631176, Train Loss: 0.93284255, Train_acc: 0.72696, Test_acc: 0.691
+Epoch: 31  Batch ( 0 )
+Epoch: 31  Batch ( 128 )
+Epoch: 31  Batch ( 256 )
+Epoch: 31  Batch ( 384 )
+Calculating metrics.....
+Epoch 31. Test Loss:0.96198756, Train Loss: 1.0652254, Train_acc: 0.7223, Test_acc: 0.6892
+Epoch: 32  Batch ( 0 )
+Epoch: 32  Batch ( 128 )
+Epoch: 32  Batch ( 256 )
+Epoch: 32  Batch ( 384 )
+Calculating metrics.....
+Epoch 32. Test Loss:1.1968404, Train Loss: 0.86411923, Train_acc: 0.72098, Test_acc: 0.687
+Epoch: 33  Batch ( 0 )
+Epoch: 33  Batch ( 128 )
+Epoch: 33  Batch ( 256 )
+Epoch: 33  Batch ( 384 )
+Calculating metrics.....
+Epoch 33. Test Loss:0.93076664, Train Loss: 0.9274086, Train_acc: 0.73586, Test_acc: 0.6978
+Epoch: 34  Batch ( 0 )
+Epoch: 34  Batch ( 128 )
+Epoch: 34  Batch ( 256 )
+Epoch: 34  Batch ( 384 )
+Calculating metrics.....
+Epoch 34. Test Loss:1.320661, Train Loss: 0.76504505, Train_acc: 0.73624, Test_acc: 0.6938
+Epoch: 35  Batch ( 0 )
+Epoch: 35  Batch ( 128 )
+Epoch: 35  Batch ( 256 )
+Epoch: 35  Batch ( 384 )
+Calculating metrics.....
+Epoch 35. Test Loss:0.9933743, Train Loss: 1.0995907, Train_acc: 0.75264, Test_acc: 0.7106
+Epoch: 36  Batch ( 0 )
+Epoch: 36  Batch ( 128 )
+Epoch: 36  Batch ( 256 )
+Epoch: 36  Batch ( 384 )
+Calculating metrics.....
+Epoch 36. Test Loss:1.1006223, Train Loss: 0.94281805, Train_acc: 0.74868, Test_acc: 0.7057
+Epoch: 37  Batch ( 0 )
+Epoch: 37  Batch ( 128 )
+Epoch: 37  Batch ( 256 )
+Epoch: 37  Batch ( 384 )
+Calculating metrics.....
+Epoch 37. Test Loss:0.9488032, Train Loss: 0.7150534, Train_acc: 0.75814, Test_acc: 0.7123
+Epoch: 38  Batch ( 0 )
+Epoch: 38  Batch ( 128 )
+Epoch: 38  Batch ( 256 )
+Epoch: 38  Batch ( 384 )
+Calculating metrics.....
+Epoch 38. Test Loss:1.0006684, Train Loss: 0.7489358, Train_acc: 0.76452, Test_acc: 0.7194
+Epoch: 39  Batch ( 0 )
+Epoch: 39  Batch ( 128 )
+Epoch: 39  Batch ( 256 )
+Epoch: 39  Batch ( 384 )
+Calculating metrics.....
+Epoch 39. Test Loss:0.7870075, Train Loss: 0.81625384, Train_acc: 0.75538, Test_acc: 0.7102
+Epoch: 40  Batch ( 0 )
+Epoch: 40  Batch ( 128 )
+Epoch: 40  Batch ( 256 )
+Epoch: 40  Batch ( 384 )
+Calculating metrics.....
+Epoch 40. Test Loss:0.794377, Train Loss: 0.95459336, Train_acc: 0.76578, Test_acc: 0.7169
+Epoch: 41  Batch ( 0 )
+Epoch: 41  Batch ( 128 )
+Epoch: 41  Batch ( 256 )
+Epoch: 41  Batch ( 384 )
+Calculating metrics.....
+Epoch 41. Test Loss:0.69274545, Train Loss: 0.9813286, Train_acc: 0.77776, Test_acc: 0.7279
+Epoch: 42  Batch ( 0 )
+Epoch: 42  Batch ( 128 )
+Epoch: 42  Batch ( 256 )
+Epoch: 42  Batch ( 384 )
+Calculating metrics.....
+Epoch 42. Test Loss:1.1958667, Train Loss: 0.71336085, Train_acc: 0.77596, Test_acc: 0.7228
+Epoch: 43  Batch ( 0 )
+Epoch: 43  Batch ( 128 )
+Epoch: 43  Batch ( 256 )
+Epoch: 43  Batch ( 384 )
+Calculating metrics.....
+Epoch 43. Test Loss:0.9928514, Train Loss: 0.91540194, Train_acc: 0.77212, Test_acc: 0.7215
+Epoch: 44  Batch ( 0 )
+Epoch: 44  Batch ( 128 )
+Epoch: 44  Batch ( 256 )
+Epoch: 44  Batch ( 384 )
+Calculating metrics.....
+Epoch 44. Test Loss:0.6347763, Train Loss: 0.81200445, Train_acc: 0.7858, Test_acc: 0.7316
+Epoch: 45  Batch ( 0 )
+Epoch: 45  Batch ( 128 )
+Epoch: 45  Batch ( 256 )
+Epoch: 45  Batch ( 384 )
+Calculating metrics.....
+Epoch 45. Test Loss:0.9797807, Train Loss: 0.8612423, Train_acc: 0.79152, Test_acc: 0.7349
+Epoch: 46  Batch ( 0 )
+Epoch: 46  Batch ( 128 )
+Epoch: 46  Batch ( 256 )
+Epoch: 46  Batch ( 384 )
+Calculating metrics.....
+Epoch 46. Test Loss:1.0008359, Train Loss: 0.7844725, Train_acc: 0.79722, Test_acc: 0.7358
+Epoch: 47  Batch ( 0 )
+Epoch: 47  Batch ( 128 )
+Epoch: 47  Batch ( 256 )
+Epoch: 47  Batch ( 384 )
+Calculating metrics.....
+Epoch 47. Test Loss:0.8651266, Train Loss: 0.69006306, Train_acc: 0.79442, Test_acc: 0.7348
+Epoch: 48  Batch ( 0 )
+Epoch: 48  Batch ( 128 )
+Epoch: 48  Batch ( 256 )
+Epoch: 48  Batch ( 384 )
+Calculating metrics.....
+Epoch 48. Test Loss:1.0285383, Train Loss: 0.8062337, Train_acc: 0.78804, Test_acc: 0.7301
+Epoch: 49  Batch ( 0 )
+Epoch: 49  Batch ( 128 )
+Epoch: 49  Batch ( 256 )
+Epoch: 49  Batch ( 384 )
+Calculating metrics.....
+Epoch 49. Test Loss:0.7498847, Train Loss: 0.6210426, Train_acc: 0.80044, Test_acc: 0.7369
+Epoch: 50  Batch ( 0 )
+Epoch: 50  Batch ( 128 )
+Epoch: 50  Batch ( 256 )
+Epoch: 50  Batch ( 384 )
+Calculating metrics.....
+Epoch 50. Test Loss:1.3144009, Train Loss: 0.589996, Train_acc: 0.8094, Test_acc: 0.746
+Epoch: 51  Batch ( 0 )
+Epoch: 51  Batch ( 128 )
+Epoch: 51  Batch ( 256 )
+Epoch: 51  Batch ( 384 )
+Calculating metrics.....
+Epoch 51. Test Loss:1.0410343, Train Loss: 0.6839014, Train_acc: 0.81284, Test_acc: 0.7452
+Epoch: 52  Batch ( 0 )
+Epoch: 52  Batch ( 128 )
+Epoch: 52  Batch ( 256 )
+Epoch: 52  Batch ( 384 )
+Calculating metrics.....
+Epoch 52. Test Loss:1.1042542, Train Loss: 0.65931976, Train_acc: 0.82148, Test_acc: 0.7523
+Epoch: 53  Batch ( 0 )
+Epoch: 53  Batch ( 128 )
+Epoch: 53  Batch ( 256 )
+Epoch: 53  Batch ( 384 )
+Calculating metrics.....
+Epoch 53. Test Loss:1.0039171, Train Loss: 0.753097, Train_acc: 0.80758, Test_acc: 0.7388
+Epoch: 54  Batch ( 0 )
+Epoch: 54  Batch ( 128 )
+Epoch: 54  Batch ( 256 )
+Epoch: 54  Batch ( 384 )
+Calculating metrics.....
+Epoch 54. Test Loss:0.7988418, Train Loss: 0.9077196, Train_acc: 0.82126, Test_acc: 0.7532
+Epoch: 55  Batch ( 0 )
+Epoch: 55  Batch ( 128 )
+Epoch: 55  Batch ( 256 )
+Epoch: 55  Batch ( 384 )
+Calculating metrics.....
+Epoch 55. Test Loss:1.1612475, Train Loss: 0.75586987, Train_acc: 0.82796, Test_acc: 0.7557
+Epoch: 56  Batch ( 0 )
+Epoch: 56  Batch ( 128 )
+Epoch: 56  Batch ( 256 )
+Epoch: 56  Batch ( 384 )
+Calculating metrics.....
+Epoch 56. Test Loss:0.71584785, Train Loss: 0.64118296, Train_acc: 0.83018, Test_acc: 0.7555
+Epoch: 57  Batch ( 0 )
+Epoch: 57  Batch ( 128 )
+Epoch: 57  Batch ( 256 )
+Epoch: 57  Batch ( 384 )
+Calculating metrics.....
+Epoch 57. Test Loss:0.82703066, Train Loss: 0.73117745, Train_acc: 0.8277, Test_acc: 0.7522
+Epoch: 58  Batch ( 0 )
+Epoch: 58  Batch ( 128 )
+Epoch: 58  Batch ( 256 )
+Epoch: 58  Batch ( 384 )
+Calculating metrics.....
+Epoch 58. Test Loss:1.0848386, Train Loss: 0.53783035, Train_acc: 0.83214, Test_acc: 0.7518
+Epoch: 59  Batch ( 0 )
+Epoch: 59  Batch ( 128 )
+Epoch: 59  Batch ( 256 )
+Epoch: 59  Batch ( 384 )
+Calculating metrics.....
+Epoch 59. Test Loss:0.6060853, Train Loss: 0.62406564, Train_acc: 0.83842, Test_acc: 0.7592
+Epoch: 60  Batch ( 0 )
+Epoch: 60  Batch ( 128 )
+Epoch: 60  Batch ( 256 )
+Epoch: 60  Batch ( 384 )
+Calculating metrics.....
+Epoch 60. Test Loss:0.68168616, Train Loss: 0.7770011, Train_acc: 0.8428, Test_acc: 0.7619
+Epoch: 61  Batch ( 0 )
+Epoch: 61  Batch ( 128 )
+Epoch: 61  Batch ( 256 )
+Epoch: 61  Batch ( 384 )
+Calculating metrics.....
+Epoch 61. Test Loss:0.5871691, Train Loss: 0.58410364, Train_acc: 0.84374, Test_acc: 0.7641
+Epoch: 62  Batch ( 0 )
+Epoch: 62  Batch ( 128 )
+Epoch: 62  Batch ( 256 )
+Epoch: 62  Batch ( 384 )
+Calculating metrics.....
+Epoch 62. Test Loss:0.68094546, Train Loss: 0.5938416, Train_acc: 0.83878, Test_acc: 0.7567
+Epoch: 63  Batch ( 0 )
+Epoch: 63  Batch ( 128 )
+Epoch: 63  Batch ( 256 )
+Epoch: 63  Batch ( 384 )
+Calculating metrics.....
+Epoch 63. Test Loss:0.8122258, Train Loss: 0.6068329, Train_acc: 0.85582, Test_acc: 0.7673
+Epoch: 64  Batch ( 0 )
+Epoch: 64  Batch ( 128 )
+Epoch: 64  Batch ( 256 )
+Epoch: 64  Batch ( 384 )
+Calculating metrics.....
+Epoch 64. Test Loss:0.830324, Train Loss: 0.7261545, Train_acc: 0.85678, Test_acc: 0.7671
+Epoch: 65  Batch ( 0 )
+Epoch: 65  Batch ( 128 )
+Epoch: 65  Batch ( 256 )
+Epoch: 65  Batch ( 384 )
+Calculating metrics.....
+Epoch 65. Test Loss:0.96557987, Train Loss: 0.6574739, Train_acc: 0.8542, Test_acc: 0.7678
+Epoch: 66  Batch ( 0 )
+Epoch: 66  Batch ( 128 )
+Epoch: 66  Batch ( 256 )
+Epoch: 66  Batch ( 384 )
+Calculating metrics.....
+Epoch 66. Test Loss:0.68094385, Train Loss: 0.59472364, Train_acc: 0.86272, Test_acc: 0.7717
+Epoch: 67  Batch ( 0 )
+Epoch: 67  Batch ( 128 )
+Epoch: 67  Batch ( 256 )
+Epoch: 67  Batch ( 384 )
+Calculating metrics.....
+Epoch 67. Test Loss:0.7897609, Train Loss: 0.5732994, Train_acc: 0.86452, Test_acc: 0.7737
+Epoch: 68  Batch ( 0 )
+Epoch: 68  Batch ( 128 )
+Epoch: 68  Batch ( 256 )
+Epoch: 68  Batch ( 384 )
+Calculating metrics.....
+Epoch 68. Test Loss:0.62581813, Train Loss: 0.7606466, Train_acc: 0.86482, Test_acc: 0.7685
+Epoch: 69  Batch ( 0 )
+Epoch: 69  Batch ( 128 )
+Epoch: 69  Batch ( 256 )
+Epoch: 69  Batch ( 384 )
+Calculating metrics.....
+Epoch 69. Test Loss:0.70625544, Train Loss: 0.5666977, Train_acc: 0.8572, Test_acc: 0.7685
+Epoch: 70  Batch ( 0 )
+Epoch: 70  Batch ( 128 )
+Epoch: 70  Batch ( 256 )
+Epoch: 70  Batch ( 384 )
+Calculating metrics.....
+Epoch 70. Test Loss:0.81967384, Train Loss: 0.6247695, Train_acc: 0.87126, Test_acc: 0.774
+Epoch: 71  Batch ( 0 )
+Epoch: 71  Batch ( 128 )
+Epoch: 71  Batch ( 256 )
+Epoch: 71  Batch ( 384 )
+Calculating metrics.....
+Epoch 71. Test Loss:0.62746334, Train Loss: 0.6836122, Train_acc: 0.87768, Test_acc: 0.7747
+Epoch: 72  Batch ( 0 )
+Epoch: 72  Batch ( 128 )
+Epoch: 72  Batch ( 256 )
+Epoch: 72  Batch ( 384 )
+Calculating metrics.....
+Epoch 72. Test Loss:0.86970705, Train Loss: 0.5618254, Train_acc: 0.87702, Test_acc: 0.7771
+Epoch: 73  Batch ( 0 )
+Epoch: 73  Batch ( 128 )
+Epoch: 73  Batch ( 256 )
+Epoch: 73  Batch ( 384 )
+Calculating metrics.....
+Epoch 73. Test Loss:0.846455, Train Loss: 0.5059314, Train_acc: 0.87474, Test_acc: 0.7745
+Epoch: 74  Batch ( 0 )
+Epoch: 74  Batch ( 128 )
+Epoch: 74  Batch ( 256 )
+Epoch: 74  Batch ( 384 )
+Calculating metrics.....
+Epoch 74. Test Loss:0.76108694, Train Loss: 0.3369048, Train_acc: 0.88272, Test_acc: 0.7768
+Epoch: 75  Batch ( 0 )
+Epoch: 75  Batch ( 128 )
+Epoch: 75  Batch ( 256 )
+Epoch: 75  Batch ( 384 )
+Calculating metrics.....
+Epoch 75. Test Loss:1.0299476, Train Loss: 0.54081666, Train_acc: 0.88418, Test_acc: 0.7771
+Epoch: 76  Batch ( 0 )
+Epoch: 76  Batch ( 128 )
+Epoch: 76  Batch ( 256 )
+Epoch: 76  Batch ( 384 )
+Calculating metrics.....
+Epoch 76. Test Loss:0.75137556, Train Loss: 0.4228333, Train_acc: 0.89032, Test_acc: 0.7791
+Epoch: 77  Batch ( 0 )
+Epoch: 77  Batch ( 128 )
+Epoch: 77  Batch ( 256 )
+Epoch: 77  Batch ( 384 )
+Calculating metrics.....
+Epoch 77. Test Loss:0.6271919, Train Loss: 0.63886046, Train_acc: 0.88804, Test_acc: 0.7775
+Epoch: 78  Batch ( 0 )
+Epoch: 78  Batch ( 128 )
+Epoch: 78  Batch ( 256 )
+Epoch: 78  Batch ( 384 )
+Calculating metrics.....
+Epoch 78. Test Loss:1.1007814, Train Loss: 0.779498, Train_acc: 0.8915, Test_acc: 0.7838
+Epoch: 79  Batch ( 0 )
+Epoch: 79  Batch ( 128 )
+Epoch: 79  Batch ( 256 )
+Epoch: 79  Batch ( 384 )
+Calculating metrics.....
+Epoch 79. Test Loss:0.62613136, Train Loss: 0.6372626, Train_acc: 0.8932, Test_acc: 0.7766
+Epoch: 80  Batch ( 0 )
+Epoch: 80  Batch ( 128 )
+Epoch: 80  Batch ( 256 )
+Epoch: 80  Batch ( 384 )
+Calculating metrics.....
+Epoch 80. Test Loss:1.0845859, Train Loss: 0.64686245, Train_acc: 0.89132, Test_acc: 0.7809
+Epoch: 81  Batch ( 0 )
+Epoch: 81  Batch ( 128 )
+Epoch: 81  Batch ( 256 )
+Epoch: 81  Batch ( 384 )
+Calculating metrics.....
+Epoch 81. Test Loss:1.0364857, Train Loss: 0.51779974, Train_acc: 0.89816, Test_acc: 0.7788
+Epoch: 82  Batch ( 0 )
+Epoch: 82  Batch ( 128 )
+Epoch: 82  Batch ( 256 )
+Epoch: 82  Batch ( 384 )
+Calculating metrics.....
+Epoch 82. Test Loss:0.5466522, Train Loss: 0.46977502, Train_acc: 0.89838, Test_acc: 0.7804
+Epoch: 83  Batch ( 0 )
+Epoch: 83  Batch ( 128 )
+Epoch: 83  Batch ( 256 )
+Epoch: 83  Batch ( 384 )
+Calculating metrics.....
+Epoch 83. Test Loss:0.85323256, Train Loss: 0.5212194, Train_acc: 0.90304, Test_acc: 0.7823
+Epoch: 84  Batch ( 0 )
+Epoch: 84  Batch ( 128 )
+Epoch: 84  Batch ( 256 )
+Epoch: 84  Batch ( 384 )
+Calculating metrics.....
+Epoch 84. Test Loss:0.96364343, Train Loss: 0.44344965, Train_acc: 0.89792, Test_acc: 0.7764
+Epoch: 85  Batch ( 0 )
+Epoch: 85  Batch ( 128 )
+Epoch: 85  Batch ( 256 )
+Epoch: 85  Batch ( 384 )
+Calculating metrics.....
+Epoch 85. Test Loss:0.7404385, Train Loss: 0.49313778, Train_acc: 0.90766, Test_acc: 0.7858
+Epoch: 86  Batch ( 0 )
+Epoch: 86  Batch ( 128 )
+Epoch: 86  Batch ( 256 )
+Epoch: 86  Batch ( 384 )
+Calculating metrics.....
+Epoch 86. Test Loss:0.8327669, Train Loss: 0.4147181, Train_acc: 0.907, Test_acc: 0.7823
+Epoch: 87  Batch ( 0 )
+Epoch: 87  Batch ( 128 )
+Epoch: 87  Batch ( 256 )
+Epoch: 87  Batch ( 384 )
+Calculating metrics.....
+Epoch 87. Test Loss:0.74556905, Train Loss: 0.59534717, Train_acc: 0.91624, Test_acc: 0.7884
+Epoch: 88  Batch ( 0 )
+Epoch: 88  Batch ( 128 )
+Epoch: 88  Batch ( 256 )
+Epoch: 88  Batch ( 384 )
+Calculating metrics.....
+Epoch 88. Test Loss:0.96431065, Train Loss: 0.4143959, Train_acc: 0.91532, Test_acc: 0.7849
+Epoch: 89  Batch ( 0 )
+Epoch: 89  Batch ( 128 )
+Epoch: 89  Batch ( 256 )
+Epoch: 89  Batch ( 384 )
+Calculating metrics.....
+Epoch 89. Test Loss:0.7125841, Train Loss: 0.7072, Train_acc: 0.91946, Test_acc: 0.7886
+Epoch: 90  Batch ( 0 )
+Epoch: 90  Batch ( 128 )
+Epoch: 90  Batch ( 256 )
+Epoch: 90  Batch ( 384 )
+Calculating metrics.....
+Epoch 90. Test Loss:1.6549141, Train Loss: 0.5935509, Train_acc: 0.91652, Test_acc: 0.7843
+Epoch: 91  Batch ( 0 )
+Epoch: 91  Batch ( 128 )
+Epoch: 91  Batch ( 256 )
+Epoch: 91  Batch ( 384 )
+Calculating metrics.....
+Epoch 91. Test Loss:0.85115093, Train Loss: 0.5158535, Train_acc: 0.92162, Test_acc: 0.7849
+Epoch: 92  Batch ( 0 )
+Epoch: 92  Batch ( 128 )
+Epoch: 92  Batch ( 256 )
+Epoch: 92  Batch ( 384 )
+Calculating metrics.....
+Epoch 92. Test Loss:1.3077383, Train Loss: 0.5320822, Train_acc: 0.92502, Test_acc: 0.7908
+Epoch: 93  Batch ( 0 )
+Epoch: 93  Batch ( 128 )
+Epoch: 93  Batch ( 256 )
+Epoch: 93  Batch ( 384 )
+Calculating metrics.....
+Epoch 93. Test Loss:0.8907285, Train Loss: 0.51334304, Train_acc: 0.92596, Test_acc: 0.7878
+Epoch: 94  Batch ( 0 )
+Epoch: 94  Batch ( 128 )
+Epoch: 94  Batch ( 256 )
+Epoch: 94  Batch ( 384 )
+Calculating metrics.....
+Epoch 94. Test Loss:0.98423904, Train Loss: 0.54192203, Train_acc: 0.92356, Test_acc: 0.7876
+Epoch: 95  Batch ( 0 )
+Epoch: 95  Batch ( 128 )
+Epoch: 95  Batch ( 256 )
+Epoch: 95  Batch ( 384 )
+Calculating metrics.....
+Epoch 95. Test Loss:1.1600691, Train Loss: 0.5962821, Train_acc: 0.9258, Test_acc: 0.7916
+Epoch: 96  Batch ( 0 )
+Epoch: 96  Batch ( 128 )
+Epoch: 96  Batch ( 256 )
+Epoch: 96  Batch ( 384 )
+Calculating metrics.....
+Epoch 96. Test Loss:1.4146665, Train Loss: 0.6126361, Train_acc: 0.92548, Test_acc: 0.7877
+Epoch: 97  Batch ( 0 )
+Epoch: 97  Batch ( 128 )
+Epoch: 97  Batch ( 256 )
+Epoch: 97  Batch ( 384 )
+Calculating metrics.....
+Epoch 97. Test Loss:0.8000402, Train Loss: 0.391795, Train_acc: 0.93426, Test_acc: 0.7917
+Epoch: 98  Batch ( 0 )
+Epoch: 98  Batch ( 128 )
+Epoch: 98  Batch ( 256 )
+Epoch: 98  Batch ( 384 )
+Calculating metrics.....
+Epoch 98. Test Loss:0.6255717, Train Loss: 0.49128398, Train_acc: 0.92094, Test_acc: 0.7802
+Epoch: 99  Batch ( 0 )
+Epoch: 99  Batch ( 128 )
+Epoch: 99  Batch ( 256 )
+Epoch: 99  Batch ( 384 )
+Calculating metrics.....
+Epoch 99. Test Loss:0.64551353, Train Loss: 0.34613505, Train_acc: 0.93878, Test_acc: 0.7902
+Epoch: 100  Batch ( 0 )
+Epoch: 100  Batch ( 128 )
+Epoch: 100  Batch ( 256 )
+Epoch: 100  Batch ( 384 )
+Calculating metrics.....
+Epoch 100. Test Loss:0.5050636, Train Loss: 0.45550364, Train_acc: 0.93556, Test_acc: 0.787
+Epoch: 101  Batch ( 0 )
+Epoch: 101  Batch ( 128 )
+Epoch: 101  Batch ( 256 )
+Epoch: 101  Batch ( 384 )
+Calculating metrics.....
+Epoch 101. Test Loss:0.65490586, Train Loss: 0.32906932, Train_acc: 0.93586, Test_acc: 0.792
+Epoch: 102  Batch ( 0 )
+Epoch: 102  Batch ( 128 )
+Epoch: 102  Batch ( 256 )
+Epoch: 102  Batch ( 384 )
+Calculating metrics.....
+Epoch 102. Test Loss:0.6778164, Train Loss: 0.54166967, Train_acc: 0.93686, Test_acc: 0.7898
+Epoch: 103  Batch ( 0 )
+Epoch: 103  Batch ( 128 )
+Epoch: 103  Batch ( 256 )
+Epoch: 103  Batch ( 384 )
+Calculating metrics.....
+Epoch 103. Test Loss:0.88262993, Train Loss: 0.3873689, Train_acc: 0.94014, Test_acc: 0.7911
+Epoch: 104  Batch ( 0 )
+Epoch: 104  Batch ( 128 )
+Epoch: 104  Batch ( 256 )
+Epoch: 104  Batch ( 384 )
+Calculating metrics.....
+Epoch 104. Test Loss:1.3282067, Train Loss: 0.6255858, Train_acc: 0.95032, Test_acc: 0.798
+Epoch: 105  Batch ( 0 )
+Epoch: 105  Batch ( 128 )
+Epoch: 105  Batch ( 256 )
+Epoch: 105  Batch ( 384 )
+Calculating metrics.....
+Epoch 105. Test Loss:1.0431458, Train Loss: 0.3106461, Train_acc: 0.94596, Test_acc: 0.7933
+Epoch: 106  Batch ( 0 )
+Epoch: 106  Batch ( 128 )
+Epoch: 106  Batch ( 256 )
+Epoch: 106  Batch ( 384 )
+Calculating metrics.....
+Epoch 106. Test Loss:1.1198902, Train Loss: 0.5763618, Train_acc: 0.94788, Test_acc: 0.7927
+Epoch: 107  Batch ( 0 )
+Epoch: 107  Batch ( 128 )
+Epoch: 107  Batch ( 256 )
+Epoch: 107  Batch ( 384 )
+Calculating metrics.....
+Epoch 107. Test Loss:1.2829932, Train Loss: 0.5706246, Train_acc: 0.93728, Test_acc: 0.786
+Epoch: 108  Batch ( 0 )
+Epoch: 108  Batch ( 128 )
+Epoch: 108  Batch ( 256 )
+Epoch: 108  Batch ( 384 )
+Calculating metrics.....
+Epoch 108. Test Loss:1.270724, Train Loss: 0.41587156, Train_acc: 0.95218, Test_acc: 0.796
+Epoch: 109  Batch ( 0 )
+Epoch: 109  Batch ( 128 )
+Epoch: 109  Batch ( 256 )
+Epoch: 109  Batch ( 384 )
+Calculating metrics.....
+Epoch 109. Test Loss:1.3950163, Train Loss: 0.46501794, Train_acc: 0.9555, Test_acc: 0.7972
+Epoch: 110  Batch ( 0 )
+Epoch: 110  Batch ( 128 )
+Epoch: 110  Batch ( 256 )
+Epoch: 110  Batch ( 384 )
+Calculating metrics.....
+Epoch 110. Test Loss:0.7674095, Train Loss: 0.43485594, Train_acc: 0.9536, Test_acc: 0.7944
+Epoch: 111  Batch ( 0 )
+Epoch: 111  Batch ( 128 )
+Epoch: 111  Batch ( 256 )
+Epoch: 111  Batch ( 384 )
+Calculating metrics.....
+Epoch 111. Test Loss:0.9396275, Train Loss: 0.35608274, Train_acc: 0.95792, Test_acc: 0.7974
+Epoch: 112  Batch ( 0 )
+Epoch: 112  Batch ( 128 )
+Epoch: 112  Batch ( 256 )
+Epoch: 112  Batch ( 384 )
+Calculating metrics.....
+Epoch 112. Test Loss:0.73195016, Train Loss: 0.3392606, Train_acc: 0.95724, Test_acc: 0.7966
+Epoch: 113  Batch ( 0 )
+Epoch: 113  Batch ( 128 )
+Epoch: 113  Batch ( 256 )
+Epoch: 113  Batch ( 384 )
+Calculating metrics.....
+Epoch 113. Test Loss:0.7854602, Train Loss: 0.42422384, Train_acc: 0.96008, Test_acc: 0.7931
+Epoch: 114  Batch ( 0 )
+Epoch: 114  Batch ( 128 )
+Epoch: 114  Batch ( 256 )
+Epoch: 114  Batch ( 384 )
+Calculating metrics.....
+Epoch 114. Test Loss:0.6716693, Train Loss: 0.34335858, Train_acc: 0.96084, Test_acc: 0.7948
+Epoch: 115  Batch ( 0 )
+Epoch: 115  Batch ( 128 )
+Epoch: 115  Batch ( 256 )
+Epoch: 115  Batch ( 384 )
+Calculating metrics.....
+Epoch 115. Test Loss:0.86045593, Train Loss: 0.36783653, Train_acc: 0.96314, Test_acc: 0.7977
+Epoch: 116  Batch ( 0 )
+Epoch: 116  Batch ( 128 )
+Epoch: 116  Batch ( 256 )
+Epoch: 116  Batch ( 384 )
+Calculating metrics.....
+Epoch 116. Test Loss:1.1864873, Train Loss: 0.60575384, Train_acc: 0.9596, Test_acc: 0.7929
+Epoch: 117  Batch ( 0 )
+Epoch: 117  Batch ( 128 )
+Epoch: 117  Batch ( 256 )
+Epoch: 117  Batch ( 384 )
+Calculating metrics.....
+Epoch 117. Test Loss:1.1549938, Train Loss: 0.4001185, Train_acc: 0.95842, Test_acc: 0.7912
+Epoch: 118  Batch ( 0 )
+Epoch: 118  Batch ( 128 )
+Epoch: 118  Batch ( 256 )
+Epoch: 118  Batch ( 384 )
+Calculating metrics.....
+Epoch 118. Test Loss:0.48482737, Train Loss: 0.36754245, Train_acc: 0.96382, Test_acc: 0.7958
+Epoch: 119  Batch ( 0 )
+Epoch: 119  Batch ( 128 )
+Epoch: 119  Batch ( 256 )
+Epoch: 119  Batch ( 384 )
+Calculating metrics.....
+Epoch 119. Test Loss:0.99813, Train Loss: 0.3631789, Train_acc: 0.96748, Test_acc: 0.7994
+Epoch: 120  Batch ( 0 )
+Epoch: 120  Batch ( 128 )
+Epoch: 120  Batch ( 256 )
+Epoch: 120  Batch ( 384 )
+Calculating metrics.....
+Epoch 120. Test Loss:0.9857489, Train Loss: 0.47966367, Train_acc: 0.96982, Test_acc: 0.7976
+Epoch: 121  Batch ( 0 )
+Epoch: 121  Batch ( 128 )
+Epoch: 121  Batch ( 256 )
+Epoch: 121  Batch ( 384 )
+Calculating metrics.....
+Epoch 121. Test Loss:0.90574867, Train Loss: 0.36301014, Train_acc: 0.96492, Test_acc: 0.7917
+Epoch: 122  Batch ( 0 )
+Epoch: 122  Batch ( 128 )
+Epoch: 122  Batch ( 256 )
+Epoch: 122  Batch ( 384 )
+Calculating metrics.....
+Epoch 122. Test Loss:0.7131217, Train Loss: 0.40703517, Train_acc: 0.96918, Test_acc: 0.7963
+Epoch: 123  Batch ( 0 )
+Epoch: 123  Batch ( 128 )
+Epoch: 123  Batch ( 256 )
+Epoch: 123  Batch ( 384 )
+Calculating metrics.....
+Epoch 123. Test Loss:1.6569136, Train Loss: 0.3965068, Train_acc: 0.97068, Test_acc: 0.7963
+Epoch: 124  Batch ( 0 )
+Epoch: 124  Batch ( 128 )
+Epoch: 124  Batch ( 256 )
+Epoch: 124  Batch ( 384 )
+Calculating metrics.....
+Epoch 124. Test Loss:0.7173351, Train Loss: 0.5144667, Train_acc: 0.96992, Test_acc: 0.7926
+Epoch: 125  Batch ( 0 )
+Epoch: 125  Batch ( 128 )
+Epoch: 125  Batch ( 256 )
+Epoch: 125  Batch ( 384 )
+Calculating metrics.....
+Epoch 125. Test Loss:0.84451234, Train Loss: 0.35999814, Train_acc: 0.97318, Test_acc: 0.7964
+Epoch: 126  Batch ( 0 )
+Epoch: 126  Batch ( 128 )
+Epoch: 126  Batch ( 256 )
+Epoch: 126  Batch ( 384 )
+Calculating metrics.....
+Epoch 126. Test Loss:1.2494968, Train Loss: 0.2697478, Train_acc: 0.96462, Test_acc: 0.7938
+Epoch: 127  Batch ( 0 )
+Epoch: 127  Batch ( 128 )
+Epoch: 127  Batch ( 256 )
+Epoch: 127  Batch ( 384 )
+Calculating metrics.....
+Epoch 127. Test Loss:0.7602447, Train Loss: 0.2509591, Train_acc: 0.97586, Test_acc: 0.7992
+Epoch: 128  Batch ( 0 )
+Epoch: 128  Batch ( 128 )
+Epoch: 128  Batch ( 256 )
+Epoch: 128  Batch ( 384 )
+Calculating metrics.....
+Epoch 128. Test Loss:0.65965897, Train Loss: 0.33259255, Train_acc: 0.97482, Test_acc: 0.7946
+Epoch: 129  Batch ( 0 )
+Epoch: 129  Batch ( 128 )
+Epoch: 129  Batch ( 256 )
+Epoch: 129  Batch ( 384 )
+Calculating metrics.....
+Epoch 129. Test Loss:0.82453734, Train Loss: 0.35536253, Train_acc: 0.97676, Test_acc: 0.7951
+Epoch: 130  Batch ( 0 )
+Epoch: 130  Batch ( 128 )
+Epoch: 130  Batch ( 256 )
+Epoch: 130  Batch ( 384 )
+Calculating metrics.....
+Epoch 130. Test Loss:1.0058317, Train Loss: 0.25647825, Train_acc: 0.97394, Test_acc: 0.7935
+Epoch: 131  Batch ( 0 )
+Epoch: 131  Batch ( 128 )
+Epoch: 131  Batch ( 256 )
+Epoch: 131  Batch ( 384 )
+Calculating metrics.....
+Epoch 131. Test Loss:1.3602746, Train Loss: 0.4036432, Train_acc: 0.97556, Test_acc: 0.7948
+Epoch: 132  Batch ( 0 )
+Epoch: 132  Batch ( 128 )
+Epoch: 132  Batch ( 256 )
+Epoch: 132  Batch ( 384 )
+Calculating metrics.....
+Epoch 132. Test Loss:0.8468278, Train Loss: 0.39193347, Train_acc: 0.97972, Test_acc: 0.7985
+Epoch: 133  Batch ( 0 )
+Epoch: 133  Batch ( 128 )
+Epoch: 133  Batch ( 256 )
+Epoch: 133  Batch ( 384 )
+Calculating metrics.....
+Epoch 133. Test Loss:1.4183767, Train Loss: 0.46447143, Train_acc: 0.981, Test_acc: 0.7968
+Epoch: 134  Batch ( 0 )
+Epoch: 134  Batch ( 128 )
+Epoch: 134  Batch ( 256 )
+Epoch: 134  Batch ( 384 )
+Calculating metrics.....
+Epoch 134. Test Loss:0.86484253, Train Loss: 0.33661628, Train_acc: 0.98036, Test_acc: 0.7961
+Epoch: 135  Batch ( 0 )
+Epoch: 135  Batch ( 128 )
+Epoch: 135  Batch ( 256 )
+Epoch: 135  Batch ( 384 )
+Calculating metrics.....
+Epoch 135. Test Loss:0.82216096, Train Loss: 0.430447, Train_acc: 0.9798, Test_acc: 0.7933
+Epoch: 136  Batch ( 0 )
+Epoch: 136  Batch ( 128 )
+Epoch: 136  Batch ( 256 )
+Epoch: 136  Batch ( 384 )
+Calculating metrics.....
+Epoch 136. Test Loss:0.8271449, Train Loss: 0.26428163, Train_acc: 0.9834, Test_acc: 0.7984
+Epoch: 137  Batch ( 0 )
+Epoch: 137  Batch ( 128 )
+Epoch: 137  Batch ( 256 )
+Epoch: 137  Batch ( 384 )
+Calculating metrics.....
+Epoch 137. Test Loss:0.447466, Train Loss: 0.28369838, Train_acc: 0.98236, Test_acc: 0.7991
+Epoch: 138  Batch ( 0 )
+Epoch: 138  Batch ( 128 )
+Epoch: 138  Batch ( 256 )
+Epoch: 138  Batch ( 384 )
+Calculating metrics.....
+Epoch 138. Test Loss:1.1048346, Train Loss: 0.27820224, Train_acc: 0.98358, Test_acc: 0.7955
+Epoch: 139  Batch ( 0 )
+Epoch: 139  Batch ( 128 )
+Epoch: 139  Batch ( 256 )
+Epoch: 139  Batch ( 384 )
+Calculating metrics.....
+Epoch 139. Test Loss:0.781753, Train Loss: 0.21861331, Train_acc: 0.9843, Test_acc: 0.796
+Epoch: 140  Batch ( 0 )
+Epoch: 140  Batch ( 128 )
+Epoch: 140  Batch ( 256 )
+Epoch: 140  Batch ( 384 )
+Calculating metrics.....
+Epoch 140. Test Loss:0.56590486, Train Loss: 0.22946408, Train_acc: 0.9821, Test_acc: 0.7966
+Epoch: 141  Batch ( 0 )
+Epoch: 141  Batch ( 128 )
+Epoch: 141  Batch ( 256 )
+Epoch: 141  Batch ( 384 )
+Calculating metrics.....
+Epoch 141. Test Loss:1.1578666, Train Loss: 0.36961633, Train_acc: 0.98692, Test_acc: 0.8017
+Epoch: 142  Batch ( 0 )
+Epoch: 142  Batch ( 128 )
+Epoch: 142  Batch ( 256 )
+Epoch: 142  Batch ( 384 )
+Calculating metrics.....
+Epoch 142. Test Loss:1.098735, Train Loss: 0.32462955, Train_acc: 0.98466, Test_acc: 0.7972
+Epoch: 143  Batch ( 0 )
+Epoch: 143  Batch ( 128 )
+Epoch: 143  Batch ( 256 )
+Epoch: 143  Batch ( 384 )
+Calculating metrics.....
+Epoch 143. Test Loss:0.81354403, Train Loss: 0.267627, Train_acc: 0.98618, Test_acc: 0.7999
+Epoch: 144  Batch ( 0 )
+Epoch: 144  Batch ( 128 )
+Epoch: 144  Batch ( 256 )
+Epoch: 144  Batch ( 384 )
+Calculating metrics.....
+Epoch 144. Test Loss:0.6923475, Train Loss: 0.37988314, Train_acc: 0.98734, Test_acc: 0.7992
+Epoch: 145  Batch ( 0 )
+Epoch: 145  Batch ( 128 )
+Epoch: 145  Batch ( 256 )
+Epoch: 145  Batch ( 384 )
+Calculating metrics.....
+Epoch 145. Test Loss:1.3556205, Train Loss: 0.36113474, Train_acc: 0.98894, Test_acc: 0.8046
+Epoch: 146  Batch ( 0 )
+Epoch: 146  Batch ( 128 )
+Epoch: 146  Batch ( 256 )
+Epoch: 146  Batch ( 384 )
+Calculating metrics.....
+Epoch 146. Test Loss:1.8781573, Train Loss: 0.25923008, Train_acc: 0.98576, Test_acc: 0.7978
+Epoch: 147  Batch ( 0 )
+Epoch: 147  Batch ( 128 )
+Epoch: 147  Batch ( 256 )
+Epoch: 147  Batch ( 384 )
+Calculating metrics.....
+Epoch 147. Test Loss:1.0023979, Train Loss: 0.2700918, Train_acc: 0.99, Test_acc: 0.8001
+Epoch: 148  Batch ( 0 )
+Epoch: 148  Batch ( 128 )
+Epoch: 148  Batch ( 256 )
+Epoch: 148  Batch ( 384 )
+Calculating metrics.....
+Epoch 148. Test Loss:1.1589738, Train Loss: 0.2364965, Train_acc: 0.98936, Test_acc: 0.7985
+Epoch: 149  Batch ( 0 )
+Epoch: 149  Batch ( 128 )
+Epoch: 149  Batch ( 256 )
+Epoch: 149  Batch ( 384 )
+Calculating metrics.....
+Epoch 149. Test Loss:0.74129874, Train Loss: 0.38869298, Train_acc: 0.99018, Test_acc: 0.8012
+Epoch: 150  Batch ( 0 )
+Epoch: 150  Batch ( 128 )
+Epoch: 150  Batch ( 256 )
+Epoch: 150  Batch ( 384 )
+Calculating metrics.....
+Epoch 150. Test Loss:0.8502908, Train Loss: 0.34398228, Train_acc: 0.98926, Test_acc: 0.7988
+Epoch: 151  Batch ( 0 )
+Epoch: 151  Batch ( 128 )
+Epoch: 151  Batch ( 256 )
+Epoch: 151  Batch ( 384 )
+Calculating metrics.....
+Epoch 151. Test Loss:0.7049596, Train Loss: 0.28616863, Train_acc: 0.98868, Test_acc: 0.8
+Epoch: 152  Batch ( 0 )
+Epoch: 152  Batch ( 128 )
+Epoch: 152  Batch ( 256 )
+Epoch: 152  Batch ( 384 )
+Calculating metrics.....
+Epoch 152. Test Loss:1.0220572, Train Loss: 0.43627587, Train_acc: 0.9908, Test_acc: 0.803
+Epoch: 153  Batch ( 0 )
+Epoch: 153  Batch ( 128 )
+Epoch: 153  Batch ( 256 )
+Epoch: 153  Batch ( 384 )
+Calculating metrics.....
+Epoch 153. Test Loss:1.0806763, Train Loss: 0.29640466, Train_acc: 0.99092, Test_acc: 0.8045
+Epoch: 154  Batch ( 0 )
+Epoch: 154  Batch ( 128 )
+Epoch: 154  Batch ( 256 )
+Epoch: 154  Batch ( 384 )
+Calculating metrics.....
+Epoch 154. Test Loss:0.6331748, Train Loss: 0.42958087, Train_acc: 0.99072, Test_acc: 0.803
+Epoch: 155  Batch ( 0 )
+Epoch: 155  Batch ( 128 )
+Epoch: 155  Batch ( 256 )
+Epoch: 155  Batch ( 384 )
+Calculating metrics.....
+Epoch 155. Test Loss:1.3750081, Train Loss: 0.3803825, Train_acc: 0.99286, Test_acc: 0.8
+Epoch: 156  Batch ( 0 )
+Epoch: 156  Batch ( 128 )
+Epoch: 156  Batch ( 256 )
+Epoch: 156  Batch ( 384 )
+Calculating metrics.....
+Epoch 156. Test Loss:1.0575542, Train Loss: 0.36305204, Train_acc: 0.99218, Test_acc: 0.8004
+Epoch: 157  Batch ( 0 )
+Epoch: 157  Batch ( 128 )
+Epoch: 157  Batch ( 256 )
+Epoch: 157  Batch ( 384 )
+Calculating metrics.....
+Epoch 157. Test Loss:1.0159295, Train Loss: 0.36360675, Train_acc: 0.99256, Test_acc: 0.8004
+Epoch: 158  Batch ( 0 )
+Epoch: 158  Batch ( 128 )
+Epoch: 158  Batch ( 256 )
+Epoch: 158  Batch ( 384 )
+Calculating metrics.....
+Epoch 158. Test Loss:1.8191816, Train Loss: 0.26761755, Train_acc: 0.99274, Test_acc: 0.8024
+Epoch: 159  Batch ( 0 )
+Epoch: 159  Batch ( 128 )
+Epoch: 159  Batch ( 256 )
+Epoch: 159  Batch ( 384 )
+Calculating metrics.....
+Epoch 159. Test Loss:1.0066742, Train Loss: 0.2038568, Train_acc: 0.99278, Test_acc: 0.7979
+Epoch: 160  Batch ( 0 )
+Epoch: 160  Batch ( 128 )
+Epoch: 160  Batch ( 256 )
+Epoch: 160  Batch ( 384 )
+Calculating metrics.....
+Epoch 160. Test Loss:0.6265277, Train Loss: 0.18846741, Train_acc: 0.99306, Test_acc: 0.8017
+Epoch: 161  Batch ( 0 )
+Epoch: 161  Batch ( 128 )
+Epoch: 161  Batch ( 256 )
+Epoch: 161  Batch ( 384 )
+Calculating metrics.....
+Epoch 161. Test Loss:0.59098804, Train Loss: 0.33495122, Train_acc: 0.99162, Test_acc: 0.7996
+Epoch: 162  Batch ( 0 )
+Epoch: 162  Batch ( 128 )
+Epoch: 162  Batch ( 256 )
+Epoch: 162  Batch ( 384 )
+Calculating metrics.....
+Epoch 162. Test Loss:1.5526601, Train Loss: 0.29097965, Train_acc: 0.99404, Test_acc: 0.8016
+Epoch: 163  Batch ( 0 )
+Epoch: 163  Batch ( 128 )
+Epoch: 163  Batch ( 256 )
+Epoch: 163  Batch ( 384 )
+Calculating metrics.....
+Epoch 163. Test Loss:0.58253014, Train Loss: 0.4157149, Train_acc: 0.9945, Test_acc: 0.7969
+Epoch: 164  Batch ( 0 )
+Epoch: 164  Batch ( 128 )
+Epoch: 164  Batch ( 256 )
+Epoch: 164  Batch ( 384 )
+Calculating metrics.....
+Epoch 164. Test Loss:0.5697349, Train Loss: 0.22998746, Train_acc: 0.99354, Test_acc: 0.8003
+Epoch: 165  Batch ( 0 )
+Epoch: 165  Batch ( 128 )
+Epoch: 165  Batch ( 256 )
+Epoch: 165  Batch ( 384 )
+Calculating metrics.....
+Epoch 165. Test Loss:0.7567384, Train Loss: 0.27286202, Train_acc: 0.99488, Test_acc: 0.8021
+Epoch: 166  Batch ( 0 )
+Epoch: 166  Batch ( 128 )
+Epoch: 166  Batch ( 256 )
+Epoch: 166  Batch ( 384 )
+Calculating metrics.....
+Epoch 166. Test Loss:1.2679405, Train Loss: 0.2649391, Train_acc: 0.99594, Test_acc: 0.8014
+Epoch: 167  Batch ( 0 )
+Epoch: 167  Batch ( 128 )
+Epoch: 167  Batch ( 256 )
+Epoch: 167  Batch ( 384 )
+Calculating metrics.....
+Epoch 167. Test Loss:0.8601175, Train Loss: 0.47906238, Train_acc: 0.99578, Test_acc: 0.8026
+Epoch: 168  Batch ( 0 )
+Epoch: 168  Batch ( 128 )
+Epoch: 168  Batch ( 256 )
+Epoch: 168  Batch ( 384 )
+Calculating metrics.....
+Epoch 168. Test Loss:1.0158273, Train Loss: 0.24219432, Train_acc: 0.99358, Test_acc: 0.8026
+Epoch: 169  Batch ( 0 )
+Epoch: 169  Batch ( 128 )
+Epoch: 169  Batch ( 256 )
+Epoch: 169  Batch ( 384 )
+Calculating metrics.....
+Epoch 169. Test Loss:1.400769, Train Loss: 0.2881184, Train_acc: 0.99492, Test_acc: 0.8001
+Epoch: 170  Batch ( 0 )
+Epoch: 170  Batch ( 128 )
+Epoch: 170  Batch ( 256 )
+Epoch: 170  Batch ( 384 )
+Calculating metrics.....
+Epoch 170. Test Loss:1.2782359, Train Loss: 0.27932492, Train_acc: 0.99456, Test_acc: 0.8025
+Epoch: 171  Batch ( 0 )
+Epoch: 171  Batch ( 128 )
+Epoch: 171  Batch ( 256 )
+Epoch: 171  Batch ( 384 )
+Calculating metrics.....
+Epoch 171. Test Loss:0.7214983, Train Loss: 0.2909562, Train_acc: 0.996, Test_acc: 0.8043
+Epoch: 172  Batch ( 0 )
+Epoch: 172  Batch ( 128 )
+Epoch: 172  Batch ( 256 )
+Epoch: 172  Batch ( 384 )
+Calculating metrics.....
+Epoch 172. Test Loss:0.8863198, Train Loss: 0.24390897, Train_acc: 0.99488, Test_acc: 0.7992
+Epoch: 173  Batch ( 0 )
+Epoch: 173  Batch ( 128 )
+Epoch: 173  Batch ( 256 )
+Epoch: 173  Batch ( 384 )
+Calculating metrics.....
+Epoch 173. Test Loss:0.9791649, Train Loss: 0.4035433, Train_acc: 0.99584, Test_acc: 0.8001
+Epoch: 174  Batch ( 0 )
+Epoch: 174  Batch ( 128 )
+Epoch: 174  Batch ( 256 )
+Epoch: 174  Batch ( 384 )
+Calculating metrics.....
+Epoch 174. Test Loss:0.9360639, Train Loss: 0.41090932, Train_acc: 0.99444, Test_acc: 0.8013
+Epoch: 175  Batch ( 0 )
+Epoch: 175  Batch ( 128 )
+Epoch: 175  Batch ( 256 )
+Epoch: 175  Batch ( 384 )
+Calculating metrics.....
+Epoch 175. Test Loss:1.2034084, Train Loss: 0.24294838, Train_acc: 0.99652, Test_acc: 0.8051
+Epoch: 176  Batch ( 0 )
+Epoch: 176  Batch ( 128 )
+Epoch: 176  Batch ( 256 )
+Epoch: 176  Batch ( 384 )
+Calculating metrics.....
+Epoch 176. Test Loss:0.97282165, Train Loss: 0.1935973, Train_acc: 0.99578, Test_acc: 0.8026
+Epoch: 177  Batch ( 0 )
+Epoch: 177  Batch ( 128 )
+Epoch: 177  Batch ( 256 )
+Epoch: 177  Batch ( 384 )
+Calculating metrics.....
+Epoch 177. Test Loss:1.2009411, Train Loss: 0.28713077, Train_acc: 0.99614, Test_acc: 0.8034
+Epoch: 178  Batch ( 0 )
+Epoch: 178  Batch ( 128 )
+Epoch: 178  Batch ( 256 )
+Epoch: 178  Batch ( 384 )
+Calculating metrics.....
+Epoch 178. Test Loss:1.7098683, Train Loss: 0.30168423, Train_acc: 0.99668, Test_acc: 0.8042
+Epoch: 179  Batch ( 0 )
+Epoch: 179  Batch ( 128 )
+Epoch: 179  Batch ( 256 )
+Epoch: 179  Batch ( 384 )
+Calculating metrics.....
+Epoch 179. Test Loss:0.8131117, Train Loss: 0.34261894, Train_acc: 0.99576, Test_acc: 0.7997
+Epoch: 180  Batch ( 0 )
+Epoch: 180  Batch ( 128 )
+Epoch: 180  Batch ( 256 )
+Epoch: 180  Batch ( 384 )
+Calculating metrics.....
+Epoch 180. Test Loss:0.50418514, Train Loss: 0.16534854, Train_acc: 0.99766, Test_acc: 0.8005
+Epoch: 181  Batch ( 0 )
+Epoch: 181  Batch ( 128 )
+Epoch: 181  Batch ( 256 )
+Epoch: 181  Batch ( 384 )
+Calculating metrics.....
+Epoch 181. Test Loss:1.8236209, Train Loss: 0.26025838, Train_acc: 0.99776, Test_acc: 0.8008
+Epoch: 182  Batch ( 0 )
+Epoch: 182  Batch ( 128 )
+Epoch: 182  Batch ( 256 )
+Epoch: 182  Batch ( 384 )
+Calculating metrics.....
+Epoch 182. Test Loss:0.9422634, Train Loss: 0.3404423, Train_acc: 0.99668, Test_acc: 0.8013
+Epoch: 183  Batch ( 0 )
+Epoch: 183  Batch ( 128 )
+Epoch: 183  Batch ( 256 )
+Epoch: 183  Batch ( 384 )
+Calculating metrics.....
+Epoch 183. Test Loss:1.2790599, Train Loss: 0.2955448, Train_acc: 0.9957, Test_acc: 0.8004
+Epoch: 184  Batch ( 0 )
+Epoch: 184  Batch ( 128 )
+Epoch: 184  Batch ( 256 )
+Epoch: 184  Batch ( 384 )
+Calculating metrics.....
+Epoch 184. Test Loss:0.8531868, Train Loss: 0.21003632, Train_acc: 0.99764, Test_acc: 0.8044
+Epoch: 185  Batch ( 0 )
+Epoch: 185  Batch ( 128 )
+Epoch: 185  Batch ( 256 )
+Epoch: 185  Batch ( 384 )
+Calculating metrics.....
+Epoch 185. Test Loss:0.9931081, Train Loss: 0.37101695, Train_acc: 0.99802, Test_acc: 0.8045
+Epoch: 186  Batch ( 0 )
+Epoch: 186  Batch ( 128 )
+Epoch: 186  Batch ( 256 )
+Epoch: 186  Batch ( 384 )
+Calculating metrics.....
+Epoch 186. Test Loss:0.5681951, Train Loss: 0.22721009, Train_acc: 0.99718, Test_acc: 0.8024
+Epoch: 187  Batch ( 0 )
+Epoch: 187  Batch ( 128 )
+Epoch: 187  Batch ( 256 )
+Epoch: 187  Batch ( 384 )
+Calculating metrics.....
+Epoch 187. Test Loss:0.924516, Train Loss: 0.13746525, Train_acc: 0.99782, Test_acc: 0.8039
+Epoch: 188  Batch ( 0 )
+Epoch: 188  Batch ( 128 )
+Epoch: 188  Batch ( 256 )
+Epoch: 188  Batch ( 384 )
+Calculating metrics.....
+Epoch 188. Test Loss:1.6573111, Train Loss: 0.3313274, Train_acc: 0.99668, Test_acc: 0.8
+Epoch: 189  Batch ( 0 )
+Epoch: 189  Batch ( 128 )
+Epoch: 189  Batch ( 256 )
+Epoch: 189  Batch ( 384 )
+Calculating metrics.....
+Epoch 189. Test Loss:0.762701, Train Loss: 0.22562067, Train_acc: 0.99736, Test_acc: 0.8026
+Epoch: 190  Batch ( 0 )
+Epoch: 190  Batch ( 128 )
+Epoch: 190  Batch ( 256 )
+Epoch: 190  Batch ( 384 )
+Calculating metrics.....
+Epoch 190. Test Loss:0.85706156, Train Loss: 0.3945623, Train_acc: 0.997, Test_acc: 0.8044
+Epoch: 191  Batch ( 0 )
+Epoch: 191  Batch ( 128 )
+Epoch: 191  Batch ( 256 )
+Epoch: 191  Batch ( 384 )
+Calculating metrics.....
+Epoch 191. Test Loss:1.4974698, Train Loss: 0.1953555, Train_acc: 0.99838, Test_acc: 0.8025
+Epoch: 192  Batch ( 0 )
+Epoch: 192  Batch ( 128 )
+Epoch: 192  Batch ( 256 )
+Epoch: 192  Batch ( 384 )
+Calculating metrics.....
+Epoch 192. Test Loss:0.8117788, Train Loss: 0.30267036, Train_acc: 0.99804, Test_acc: 0.805
+Epoch: 193  Batch ( 0 )
+Epoch: 193  Batch ( 128 )
+Epoch: 193  Batch ( 256 )
+Epoch: 193  Batch ( 384 )
+Calculating metrics.....
+Epoch 193. Test Loss:0.9597826, Train Loss: 0.14050405, Train_acc: 0.99794, Test_acc: 0.8052
+Epoch: 194  Batch ( 0 )
+Epoch: 194  Batch ( 128 )
+Epoch: 194  Batch ( 256 )
+Epoch: 194  Batch ( 384 )
+Calculating metrics.....
+Epoch 194. Test Loss:0.93079114, Train Loss: 0.18198684, Train_acc: 0.99754, Test_acc: 0.8033
+Epoch: 195  Batch ( 0 )
+Epoch: 195  Batch ( 128 )
+Epoch: 195  Batch ( 256 )
+Epoch: 195  Batch ( 384 )
+Calculating metrics.....
+Epoch 195. Test Loss:1.1512439, Train Loss: 0.2849727, Train_acc: 0.99784, Test_acc: 0.8039
+Epoch: 196  Batch ( 0 )
+Epoch: 196  Batch ( 128 )
+Epoch: 196  Batch ( 256 )
+Epoch: 196  Batch ( 384 )
+Calculating metrics.....
+Epoch 196. Test Loss:1.3291906, Train Loss: 0.27012902, Train_acc: 0.9951, Test_acc: 0.7977
+Epoch: 197  Batch ( 0 )
+Epoch: 197  Batch ( 128 )
+Epoch: 197  Batch ( 256 )
+Epoch: 197  Batch ( 384 )
+Calculating metrics.....
+Epoch 197. Test Loss:1.6784813, Train Loss: 0.24778028, Train_acc: 0.99794, Test_acc: 0.8041
+Epoch: 198  Batch ( 0 )
+Epoch: 198  Batch ( 128 )
+Epoch: 198  Batch ( 256 )
+Epoch: 198  Batch ( 384 )
+Calculating metrics.....
+Epoch 198. Test Loss:0.86858845, Train Loss: 0.415098, Train_acc: 0.99898, Test_acc: 0.8071
+Epoch: 199  Batch ( 0 )
+Epoch: 199  Batch ( 128 )
+Epoch: 199  Batch ( 256 )
+Epoch: 199  Batch ( 384 )
+Calculating metrics.....
+Epoch 199. Test Loss:1.4084636, Train Loss: 0.26514837, Train_acc: 0.99862, Test_acc: 0.8046
+CIFAR10 Training Finished.....
+1:18:25.420874

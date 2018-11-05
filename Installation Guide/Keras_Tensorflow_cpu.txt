@@ -1,0 +1,17 @@
+wget https://repo.anaconda.com/archive/Anaconda3-5.3.0-Linux-x86_64.sh
+sudo yum  install bzip2
+bash Anaconda3-5.3.0-Linux-x86_64.sh
+export PATH=/home/centos/anaconda3/bin:$PATH
+conda --version
+conda create --name TensorFlow1
+source activate TensorFlow1
+pip install --upgrade pip
+conda install tensorflow==1.5
+conda install python=3.6.0
+pip install keras
+pip install matplotlib
+conda install memory_profiler
+
+conda install jupyter notebook
+conda install jupyter
+jupyter notebook --no-browser

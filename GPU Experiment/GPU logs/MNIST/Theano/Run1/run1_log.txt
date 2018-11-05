@@ -1,0 +1,98 @@
+(60000, 1, 28, 28)
+(10000, 1, 28, 28)
+(60000,)
+(10000,)
+Building model and compiling functions...
+MNIST Training Started.....
+Epoch( 0 ) Batch( 1 ) 2.319303512573242
+Epoch( 0 ) Batch( 129 ) 190.0495290160179
+Epoch( 0 ) Batch( 257 ) 264.08990266919136
+Epoch( 0 ) Batch( 385 ) 322.4100202322006
+Final results:
+ training loss:0.764416,Train accuracy:84.12 %,test loss:0.246751,test accuracy:92.92 %
+Epoch( 1 ) Batch( 1 ) 0.41092461347579956
+Epoch( 1 ) Batch( 129 ) 50.35763342678547
+Epoch( 1 ) Batch( 257 ) 96.67022031545639
+Epoch( 1 ) Batch( 385 ) 139.55972015857697
+Final results:
+ training loss:0.355584,Train accuracy:94.18 %,test loss:0.179677,test accuracy:94.83 %
+Epoch( 2 ) Batch( 1 ) 0.27548298239707947
+Epoch( 2 ) Batch( 129 ) 38.61337894201279
+Epoch( 2 ) Batch( 257 ) 76.26152862608433
+Epoch( 2 ) Batch( 385 ) 114.06920997798443
+Final results:
+ training loss:0.292480,Train accuracy:95.42 %,test loss:0.152288,test accuracy:95.46 %
+Epoch( 3 ) Batch( 1 ) 0.35890787839889526
+Epoch( 3 ) Batch( 129 ) 34.31450152397156
+Epoch( 3 ) Batch( 257 ) 67.87873714417219
+Epoch( 3 ) Batch( 385 ) 99.86692266911268
+Final results:
+ training loss:0.256405,Train accuracy:96.03 %,test loss:0.132223,test accuracy:96.06 %
+Epoch( 4 ) Batch( 1 ) 0.24812251329421997
+Epoch( 4 ) Batch( 129 ) 30.23956197500229
+Epoch( 4 ) Batch( 257 ) 60.73297341912985
+Epoch( 4 ) Batch( 385 ) 88.9426142796874
+Final results:
+ training loss:0.229116,Train accuracy:96.51 %,test loss:0.116006,test accuracy:96.54 %
+Epoch( 5 ) Batch( 1 ) 0.21770109236240387
+Epoch( 5 ) Batch( 129 ) 28.28548025339842
+Epoch( 5 ) Batch( 257 ) 55.718891225755215
+Epoch( 5 ) Batch( 385 ) 81.62859784066677
+Final results:
+ training loss:0.209390,Train accuracy:96.89 %,test loss:0.106899,test accuracy:96.79 %
+Epoch( 6 ) Batch( 1 ) 0.23121163249015808
+Epoch( 6 ) Batch( 129 ) 25.737131133675575
+Epoch( 6 ) Batch( 257 ) 49.58322013169527
+Epoch( 6 ) Batch( 385 ) 73.55409256368876
+Final results:
+ training loss:0.191004,Train accuracy:97.15 %,test loss:0.095517,test accuracy:97.18 %
+Epoch( 7 ) Batch( 1 ) 0.11793171614408493
+Epoch( 7 ) Batch( 129 ) 22.685138046741486
+Epoch( 7 ) Batch( 257 ) 44.94486337900162
+Epoch( 7 ) Batch( 385 ) 66.0773326382041
+Final results:
+ training loss:0.170184,Train accuracy:97.47 %,test loss:0.084152,test accuracy:97.37 %
+Epoch( 8 ) Batch( 1 ) 0.18083292245864868
+Epoch( 8 ) Batch( 129 ) 20.665391974151134
+Epoch( 8 ) Batch( 257 ) 41.63727879524231
+Epoch( 8 ) Batch( 385 ) 60.69057458639145
+Final results:
+ training loss:0.157311,Train accuracy:97.72 %,test loss:0.075236,test accuracy:97.67 %
+Epoch( 9 ) Batch( 1 ) 0.12213894724845886
+Epoch( 9 ) Batch( 129 ) 17.882471948862076
+Epoch( 9 ) Batch( 257 ) 37.010446313768625
+Epoch( 9 ) Batch( 385 ) 55.06843312457204
+Final results:
+ training loss:0.142017,Train accuracy:97.92 %,test loss:0.070675,test accuracy:97.75 %
+Epoch( 10 ) Batch( 1 ) 0.20124080777168274
+Epoch( 10 ) Batch( 129 ) 17.301767852157354
+Epoch( 10 ) Batch( 257 ) 34.55407267808914
+Epoch( 10 ) Batch( 385 ) 51.43959615007043
+Final results:
+ training loss:0.132126,Train accuracy:98.13 %,test loss:0.066360,test accuracy:97.96 %
+Epoch( 11 ) Batch( 1 ) 0.053107984364032745
+Epoch( 11 ) Batch( 129 ) 16.471244148910046
+Epoch( 11 ) Batch( 257 ) 32.625123754143715
+Epoch( 11 ) Batch( 385 ) 47.93740154802799
+Final results:
+ training loss:0.122827,Train accuracy:98.24 %,test loss:0.060367,test accuracy:98.17 %
+Epoch( 12 ) Batch( 1 ) 0.0618634968996048
+Epoch( 12 ) Batch( 129 ) 14.857292599976063
+Epoch( 12 ) Batch( 257 ) 29.461866714060307
+Epoch( 12 ) Batch( 385 ) 44.07149273529649
+Final results:
+ training loss:0.114510,Train accuracy:98.40 %,test loss:0.055466,test accuracy:98.21 %
+Epoch( 13 ) Batch( 1 ) 0.06669121235609055
+Epoch( 13 ) Batch( 129 ) 13.892995305359364
+Epoch( 13 ) Batch( 257 ) 27.35673401504755
+Epoch( 13 ) Batch( 385 ) 40.87142884358764
+Final results:
+ training loss:0.105469,Train accuracy:98.51 %,test loss:0.052917,test accuracy:98.37 %
+Epoch( 14 ) Batch( 1 ) 0.09359747171401978
+Epoch( 14 ) Batch( 129 ) 13.454383216798306
+Epoch( 14 ) Batch( 257 ) 26.024967521429062
+Epoch( 14 ) Batch( 385 ) 39.24135569483042
+Final results:
+ training loss:0.101587,Train accuracy:98.67 %,test loss:0.050761,test accuracy:98.41 %
+MNIST Training Finished.....
+0:01:37.554787

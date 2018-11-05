@@ -1,0 +1,109 @@
+MNIST Training Started.....
+/home/centos/anaconda3/envs/Pytorch1/lib/python3.6/site-packages/ipykernel_launcher.py:112: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+Train Epoch: 1 [0/60000 (0%)]	Loss: 2.308564
+Train Epoch: 1 [16384/60000 (27%)]	Loss: 0.260254
+Train Epoch: 1 [32768/60000 (55%)]	Loss: 0.269479
+Train Epoch: 1 [49152/60000 (82%)]	Loss: 0.301371
+
+Test set: Average loss: 0.2098, Accuracy: 9372/10000 (94%)
+
+Train Epoch: 2 [0/60000 (0%)]	Loss: 0.196057
+Train Epoch: 2 [16384/60000 (27%)]	Loss: 0.138234
+Train Epoch: 2 [32768/60000 (55%)]	Loss: 0.135067
+Train Epoch: 2 [49152/60000 (82%)]	Loss: 0.089021
+
+Test set: Average loss: 0.1193, Accuracy: 9639/10000 (96%)
+
+Train Epoch: 3 [0/60000 (0%)]	Loss: 0.204825
+Train Epoch: 3 [16384/60000 (27%)]	Loss: 0.119064
+Train Epoch: 3 [32768/60000 (55%)]	Loss: 0.040326
+Train Epoch: 3 [49152/60000 (82%)]	Loss: 0.121881
+
+Test set: Average loss: 0.0890, Accuracy: 9724/10000 (97%)
+
+Train Epoch: 4 [0/60000 (0%)]	Loss: 0.060710
+Train Epoch: 4 [16384/60000 (27%)]	Loss: 0.036018
+Train Epoch: 4 [32768/60000 (55%)]	Loss: 0.118947
+Train Epoch: 4 [49152/60000 (82%)]	Loss: 0.112185
+
+Test set: Average loss: 0.0694, Accuracy: 9772/10000 (98%)
+
+Train Epoch: 5 [0/60000 (0%)]	Loss: 0.082723
+Train Epoch: 5 [16384/60000 (27%)]	Loss: 0.058585
+Train Epoch: 5 [32768/60000 (55%)]	Loss: 0.046847
+Train Epoch: 5 [49152/60000 (82%)]	Loss: 0.082225
+
+Test set: Average loss: 0.0587, Accuracy: 9813/10000 (98%)
+
+Train Epoch: 6 [0/60000 (0%)]	Loss: 0.035479
+Train Epoch: 6 [16384/60000 (27%)]	Loss: 0.042989
+Train Epoch: 6 [32768/60000 (55%)]	Loss: 0.025800
+Train Epoch: 6 [49152/60000 (82%)]	Loss: 0.067013
+
+Test set: Average loss: 0.0494, Accuracy: 9836/10000 (98%)
+
+Train Epoch: 7 [0/60000 (0%)]	Loss: 0.014513
+Train Epoch: 7 [16384/60000 (27%)]	Loss: 0.070930
+Train Epoch: 7 [32768/60000 (55%)]	Loss: 0.033569
+Train Epoch: 7 [49152/60000 (82%)]	Loss: 0.014093
+
+Test set: Average loss: 0.0525, Accuracy: 9826/10000 (98%)
+
+Train Epoch: 8 [0/60000 (0%)]	Loss: 0.029553
+Train Epoch: 8 [16384/60000 (27%)]	Loss: 0.024548
+Train Epoch: 8 [32768/60000 (55%)]	Loss: 0.021262
+Train Epoch: 8 [49152/60000 (82%)]	Loss: 0.055758
+
+Test set: Average loss: 0.0429, Accuracy: 9859/10000 (99%)
+
+Train Epoch: 9 [0/60000 (0%)]	Loss: 0.020197
+Train Epoch: 9 [16384/60000 (27%)]	Loss: 0.053295
+Train Epoch: 9 [32768/60000 (55%)]	Loss: 0.031724
+Train Epoch: 9 [49152/60000 (82%)]	Loss: 0.017689
+
+Test set: Average loss: 0.0459, Accuracy: 9841/10000 (98%)
+
+Train Epoch: 10 [0/60000 (0%)]	Loss: 0.076329
+Train Epoch: 10 [16384/60000 (27%)]	Loss: 0.027232
+Train Epoch: 10 [32768/60000 (55%)]	Loss: 0.019251
+Train Epoch: 10 [49152/60000 (82%)]	Loss: 0.039159
+
+Test set: Average loss: 0.0382, Accuracy: 9868/10000 (99%)
+
+Train Epoch: 11 [0/60000 (0%)]	Loss: 0.005225
+Train Epoch: 11 [16384/60000 (27%)]	Loss: 0.021342
+Train Epoch: 11 [32768/60000 (55%)]	Loss: 0.065870
+Train Epoch: 11 [49152/60000 (82%)]	Loss: 0.024277
+
+Test set: Average loss: 0.0372, Accuracy: 9865/10000 (99%)
+
+Train Epoch: 12 [0/60000 (0%)]	Loss: 0.020589
+Train Epoch: 12 [16384/60000 (27%)]	Loss: 0.020010
+Train Epoch: 12 [32768/60000 (55%)]	Loss: 0.055332
+Train Epoch: 12 [49152/60000 (82%)]	Loss: 0.024783
+
+Test set: Average loss: 0.0393, Accuracy: 9858/10000 (99%)
+
+Train Epoch: 13 [0/60000 (0%)]	Loss: 0.020532
+Train Epoch: 13 [16384/60000 (27%)]	Loss: 0.013801
+Train Epoch: 13 [32768/60000 (55%)]	Loss: 0.027228
+Train Epoch: 13 [49152/60000 (82%)]	Loss: 0.031365
+
+Test set: Average loss: 0.0377, Accuracy: 9870/10000 (99%)
+
+Train Epoch: 14 [0/60000 (0%)]	Loss: 0.013867
+Train Epoch: 14 [16384/60000 (27%)]	Loss: 0.014450
+Train Epoch: 14 [32768/60000 (55%)]	Loss: 0.046721
+Train Epoch: 14 [49152/60000 (82%)]	Loss: 0.033492
+
+Test set: Average loss: 0.0422, Accuracy: 9867/10000 (99%)
+
+Train Epoch: 15 [0/60000 (0%)]	Loss: 0.072492
+Train Epoch: 15 [16384/60000 (27%)]	Loss: 0.014253
+Train Epoch: 15 [32768/60000 (55%)]	Loss: 0.013038
+Train Epoch: 15 [49152/60000 (82%)]	Loss: 0.016139
+
+Test set: Average loss: 0.0348, Accuracy: 9887/10000 (99%)
+
+0:30:42.216025
+MNIST Training Finished.....

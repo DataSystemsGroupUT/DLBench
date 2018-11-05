@@ -1,0 +1,93 @@
+MNIST Training Started.....
+Epoch: 0  Batch ( 0 )
+Epoch: 0  Batch ( 128 )
+Epoch: 0  Batch ( 256 )
+Epoch: 0  Batch ( 384 )
+Calculating metrics.....
+Epoch 0. Loss: 0.31309757, Train_acc 0.9238333333333333, Test_acc 0.9273
+Epoch: 1  Batch ( 0 )
+Epoch: 1  Batch ( 128 )
+Epoch: 1  Batch ( 256 )
+Epoch: 1  Batch ( 384 )
+Calculating metrics.....
+Epoch 1. Loss: 0.3335744, Train_acc 0.9447, Test_acc 0.9472
+Epoch: 2  Batch ( 0 )
+Epoch: 2  Batch ( 128 )
+Epoch: 2  Batch ( 256 )
+Epoch: 2  Batch ( 384 )
+Calculating metrics.....
+Epoch 2. Loss: 0.35524794, Train_acc 0.9532833333333334, Test_acc 0.9539
+Epoch: 3  Batch ( 0 )
+Epoch: 3  Batch ( 128 )
+Epoch: 3  Batch ( 256 )
+Epoch: 3  Batch ( 384 )
+Calculating metrics.....
+Epoch 3. Loss: 0.15373619, Train_acc 0.9597666666666667, Test_acc 0.9596
+Epoch: 4  Batch ( 0 )
+Epoch: 4  Batch ( 128 )
+Epoch: 4  Batch ( 256 )
+Epoch: 4  Batch ( 384 )
+Calculating metrics.....
+Epoch 4. Loss: 0.2037407, Train_acc 0.96355, Test_acc 0.9622
+Epoch: 5  Batch ( 0 )
+Epoch: 5  Batch ( 128 )
+Epoch: 5  Batch ( 256 )
+Epoch: 5  Batch ( 384 )
+Calculating metrics.....
+Epoch 5. Loss: 0.22019, Train_acc 0.9683, Test_acc 0.9692
+Epoch: 6  Batch ( 0 )
+Epoch: 6  Batch ( 128 )
+Epoch: 6  Batch ( 256 )
+Epoch: 6  Batch ( 384 )
+Calculating metrics.....
+Epoch 6. Loss: 0.1083087, Train_acc 0.9718666666666667, Test_acc 0.97
+Epoch: 7  Batch ( 0 )
+Epoch: 7  Batch ( 128 )
+Epoch: 7  Batch ( 256 )
+Epoch: 7  Batch ( 384 )
+Calculating metrics.....
+Epoch 7. Loss: 0.21510194, Train_acc 0.9737166666666667, Test_acc 0.9727
+Epoch: 8  Batch ( 0 )
+Epoch: 8  Batch ( 128 )
+Epoch: 8  Batch ( 256 )
+Epoch: 8  Batch ( 384 )
+Calculating metrics.....
+Epoch 8. Loss: 0.13656756, Train_acc 0.9765, Test_acc 0.9739
+Epoch: 9  Batch ( 0 )
+Epoch: 9  Batch ( 128 )
+Epoch: 9  Batch ( 256 )
+Epoch: 9  Batch ( 384 )
+Calculating metrics.....
+Epoch 9. Loss: 0.12457027, Train_acc 0.9781333333333333, Test_acc 0.9764
+Epoch: 10  Batch ( 0 )
+Epoch: 10  Batch ( 128 )
+Epoch: 10  Batch ( 256 )
+Epoch: 10  Batch ( 384 )
+Calculating metrics.....
+Epoch 10. Loss: 0.12454805, Train_acc 0.9802666666666666, Test_acc 0.978
+Epoch: 11  Batch ( 0 )
+Epoch: 11  Batch ( 128 )
+Epoch: 11  Batch ( 256 )
+Epoch: 11  Batch ( 384 )
+Calculating metrics.....
+Epoch 11. Loss: 0.07476344, Train_acc 0.9818, Test_acc 0.9783
+Epoch: 12  Batch ( 0 )
+Epoch: 12  Batch ( 128 )
+Epoch: 12  Batch ( 256 )
+Epoch: 12  Batch ( 384 )
+Calculating metrics.....
+Epoch 12. Loss: 0.17873181, Train_acc 0.9832, Test_acc 0.9799
+Epoch: 13  Batch ( 0 )
+Epoch: 13  Batch ( 128 )
+Epoch: 13  Batch ( 256 )
+Epoch: 13  Batch ( 384 )
+Calculating metrics.....
+Epoch 13. Loss: 0.090433985, Train_acc 0.9838666666666667, Test_acc 0.9806
+Epoch: 14  Batch ( 0 )
+Epoch: 14  Batch ( 128 )
+Epoch: 14  Batch ( 256 )
+Epoch: 14  Batch ( 384 )
+Calculating metrics.....
+Epoch 14. Loss: 0.11573022, Train_acc 0.9854166666666667, Test_acc 0.9816
+MNIST Training Finished.....
+1:15:55.351081

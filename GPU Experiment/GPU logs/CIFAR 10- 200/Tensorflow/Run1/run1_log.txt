@@ -1,0 +1,813 @@
+Training
+Iteration 0: with minibatch training loss = 2.38 and accuracy of 0.094
+Iteration 128: with minibatch training loss = 2.22 and accuracy of 0.16
+Iteration 256: with minibatch training loss = 2.11 and accuracy of 0.18
+Iteration 384: with minibatch training loss = 2.08 and accuracy of 0.2
+Epoch 1, Train loss: 2.16 and Train accuracy of 0.191, Test loss: 1.97 and Test accuracy of 0.287
+Iteration 512: with minibatch training loss = 2 and accuracy of 0.23
+Iteration 640: with minibatch training loss = 1.84 and accuracy of 0.31
+Iteration 768: with minibatch training loss = 1.9 and accuracy of 0.3
+Epoch 2, Train loss: 1.94 and Train accuracy of 0.289, Test loss: 1.78 and Test accuracy of 0.374
+Iteration 896: with minibatch training loss = 1.95 and accuracy of 0.27
+Iteration 1024: with minibatch training loss = 1.82 and accuracy of 0.38
+Iteration 1152: with minibatch training loss = 1.59 and accuracy of 0.41
+Epoch 3, Train loss: 1.77 and Train accuracy of 0.356, Test loss: 1.63 and Test accuracy of 0.418
+Iteration 1280: with minibatch training loss = 1.79 and accuracy of 0.3
+Iteration 1408: with minibatch training loss = 1.73 and accuracy of 0.38
+Iteration 1536: with minibatch training loss = 1.69 and accuracy of 0.38
+Epoch 4, Train loss: 1.66 and Train accuracy of 0.394, Test loss: 1.54 and Test accuracy of 0.444
+Iteration 1664: with minibatch training loss = 1.53 and accuracy of 0.41
+Iteration 1792: with minibatch training loss = 1.62 and accuracy of 0.38
+Iteration 1920: with minibatch training loss = 1.53 and accuracy of 0.43
+Epoch 5, Train loss: 1.6 and Train accuracy of 0.42, Test loss: 1.48 and Test accuracy of 0.465
+Iteration 2048: with minibatch training loss = 1.61 and accuracy of 0.43
+Iteration 2176: with minibatch training loss = 1.51 and accuracy of 0.45
+Iteration 2304: with minibatch training loss = 1.6 and accuracy of 0.41
+Epoch 6, Train loss: 1.53 and Train accuracy of 0.441, Test loss: 1.43 and Test accuracy of 0.487
+Iteration 2432: with minibatch training loss = 1.44 and accuracy of 0.48
+Iteration 2560: with minibatch training loss = 1.65 and accuracy of 0.39
+Iteration 2688: with minibatch training loss = 1.47 and accuracy of 0.47
+Epoch 7, Train loss: 1.48 and Train accuracy of 0.463, Test loss: 1.39 and Test accuracy of 0.502
+Iteration 2816: with minibatch training loss = 1.48 and accuracy of 0.45
+Iteration 2944: with minibatch training loss = 1.43 and accuracy of 0.47
+Iteration 3072: with minibatch training loss = 1.48 and accuracy of 0.46
+Epoch 8, Train loss: 1.43 and Train accuracy of 0.479, Test loss: 1.34 and Test accuracy of 0.521
+Iteration 3200: with minibatch training loss = 1.41 and accuracy of 0.48
+Iteration 3328: with minibatch training loss = 1.38 and accuracy of 0.51
+Iteration 3456: with minibatch training loss = 1.42 and accuracy of 0.5
+Epoch 9, Train loss: 1.39 and Train accuracy of 0.499, Test loss: 1.31 and Test accuracy of 0.531
+Iteration 3584: with minibatch training loss = 1.44 and accuracy of 0.53
+Iteration 3712: with minibatch training loss = 1.29 and accuracy of 0.58
+Iteration 3840: with minibatch training loss = 1.43 and accuracy of 0.49
+Epoch 10, Train loss: 1.36 and Train accuracy of 0.511, Test loss: 1.26 and Test accuracy of 0.548
+Iteration 3968: with minibatch training loss = 1.47 and accuracy of 0.51
+Iteration 4096: with minibatch training loss = 1.21 and accuracy of 0.61
+Iteration 4224: with minibatch training loss = 1.37 and accuracy of 0.48
+Epoch 11, Train loss: 1.33 and Train accuracy of 0.523, Test loss: 1.23 and Test accuracy of 0.561
+Iteration 4352: with minibatch training loss = 1.32 and accuracy of 0.54
+Iteration 4480: with minibatch training loss = 1.37 and accuracy of 0.51
+Iteration 4608: with minibatch training loss = 1.29 and accuracy of 0.59
+Epoch 12, Train loss: 1.3 and Train accuracy of 0.536, Test loss: 1.2 and Test accuracy of 0.573
+Iteration 4736: with minibatch training loss = 1.23 and accuracy of 0.59
+Iteration 4864: with minibatch training loss = 1.26 and accuracy of 0.53
+Iteration 4992: with minibatch training loss = 1.25 and accuracy of 0.52
+Epoch 13, Train loss: 1.27 and Train accuracy of 0.549, Test loss: 1.18 and Test accuracy of 0.583
+Iteration 5120: with minibatch training loss = 1.21 and accuracy of 0.56
+Iteration 5248: with minibatch training loss = 1.27 and accuracy of 0.59
+Iteration 5376: with minibatch training loss = 1.27 and accuracy of 0.55
+Epoch 14, Train loss: 1.24 and Train accuracy of 0.561, Test loss: 1.15 and Test accuracy of 0.591
+Iteration 5504: with minibatch training loss = 1.25 and accuracy of 0.55
+Iteration 5632: with minibatch training loss = 1.3 and accuracy of 0.55
+Iteration 5760: with minibatch training loss = 1.37 and accuracy of 0.52
+Epoch 15, Train loss: 1.21 and Train accuracy of 0.567, Test loss: 1.11 and Test accuracy of 0.604
+Iteration 5888: with minibatch training loss = 1.26 and accuracy of 0.55
+Iteration 6016: with minibatch training loss = 1.32 and accuracy of 0.52
+Iteration 6144: with minibatch training loss = 1.15 and accuracy of 0.59
+Epoch 16, Train loss: 1.18 and Train accuracy of 0.581, Test loss: 1.08 and Test accuracy of 0.615
+Iteration 6272: with minibatch training loss = 1.13 and accuracy of 0.62
+Iteration 6400: with minibatch training loss = 1.03 and accuracy of 0.62
+Iteration 6528: with minibatch training loss = 1.16 and accuracy of 0.54
+Epoch 17, Train loss: 1.15 and Train accuracy of 0.59, Test loss: 1.06 and Test accuracy of 0.623
+Iteration 6656: with minibatch training loss = 1.3 and accuracy of 0.52
+Iteration 6784: with minibatch training loss = 1.09 and accuracy of 0.62
+Iteration 6912: with minibatch training loss = 1.12 and accuracy of 0.58
+Epoch 18, Train loss: 1.13 and Train accuracy of 0.6, Test loss: 1.04 and Test accuracy of 0.627
+Iteration 7040: with minibatch training loss = 1.04 and accuracy of 0.6
+Iteration 7168: with minibatch training loss = 1.1 and accuracy of 0.59
+Iteration 7296: with minibatch training loss = 1.24 and accuracy of 0.56
+Iteration 7424: with minibatch training loss = 1.3 and accuracy of 0.54
+Epoch 19, Train loss: 1.11 and Train accuracy of 0.607, Test loss: 1.02 and Test accuracy of 0.637
+Iteration 7552: with minibatch training loss = 1.07 and accuracy of 0.61
+Iteration 7680: with minibatch training loss = 1.08 and accuracy of 0.61
+Iteration 7808: with minibatch training loss = 1.09 and accuracy of 0.6
+Epoch 20, Train loss: 1.09 and Train accuracy of 0.614, Test loss: 0.994 and Test accuracy of 0.649
+Iteration 7936: with minibatch training loss = 0.883 and accuracy of 0.67
+Iteration 8064: with minibatch training loss = 1.08 and accuracy of 0.6
+Iteration 8192: with minibatch training loss = 1.15 and accuracy of 0.58
+Epoch 21, Train loss: 1.06 and Train accuracy of 0.623, Test loss: 1 and Test accuracy of 0.644
+Iteration 8320: with minibatch training loss = 0.969 and accuracy of 0.68
+Iteration 8448: with minibatch training loss = 0.945 and accuracy of 0.6
+Iteration 8576: with minibatch training loss = 1.02 and accuracy of 0.66
+Epoch 22, Train loss: 1.05 and Train accuracy of 0.629, Test loss: 0.98 and Test accuracy of 0.654
+Iteration 8704: with minibatch training loss = 1.11 and accuracy of 0.62
+Iteration 8832: with minibatch training loss = 1.16 and accuracy of 0.55
+Iteration 8960: with minibatch training loss = 1.1 and accuracy of 0.66
+Epoch 23, Train loss: 1.03 and Train accuracy of 0.632, Test loss: 0.965 and Test accuracy of 0.659
+Iteration 9088: with minibatch training loss = 1.01 and accuracy of 0.65
+Iteration 9216: with minibatch training loss = 0.862 and accuracy of 0.7
+Iteration 9344: with minibatch training loss = 0.87 and accuracy of 0.7
+Epoch 24, Train loss: 1.01 and Train accuracy of 0.641, Test loss: 0.932 and Test accuracy of 0.675
+Iteration 9472: with minibatch training loss = 1.03 and accuracy of 0.62
+Iteration 9600: with minibatch training loss = 1.13 and accuracy of 0.55
+Iteration 9728: with minibatch training loss = 1.09 and accuracy of 0.64
+Epoch 25, Train loss: 0.992 and Train accuracy of 0.649, Test loss: 0.915 and Test accuracy of 0.679
+Iteration 9856: with minibatch training loss = 1.02 and accuracy of 0.66
+Iteration 9984: with minibatch training loss = 0.968 and accuracy of 0.69
+Iteration 10112: with minibatch training loss = 1.01 and accuracy of 0.68
+Epoch 26, Train loss: 0.975 and Train accuracy of 0.655, Test loss: 0.911 and Test accuracy of 0.679
+Iteration 10240: with minibatch training loss = 0.885 and accuracy of 0.7
+Iteration 10368: with minibatch training loss = 1.06 and accuracy of 0.59
+Iteration 10496: with minibatch training loss = 0.999 and accuracy of 0.6
+Epoch 27, Train loss: 0.959 and Train accuracy of 0.658, Test loss: 0.889 and Test accuracy of 0.689
+Iteration 10624: with minibatch training loss = 1.13 and accuracy of 0.57
+Iteration 10752: with minibatch training loss = 0.895 and accuracy of 0.7
+Iteration 10880: with minibatch training loss = 0.94 and accuracy of 0.66
+Epoch 28, Train loss: 0.947 and Train accuracy of 0.664, Test loss: 0.869 and Test accuracy of 0.695
+Iteration 11008: with minibatch training loss = 0.856 and accuracy of 0.73
+Iteration 11136: with minibatch training loss = 0.942 and accuracy of 0.59
+Iteration 11264: with minibatch training loss = 0.865 and accuracy of 0.68
+Epoch 29, Train loss: 0.93 and Train accuracy of 0.67, Test loss: 0.87 and Test accuracy of 0.692
+Iteration 11392: with minibatch training loss = 0.999 and accuracy of 0.64
+Iteration 11520: with minibatch training loss = 0.937 and accuracy of 0.64
+Iteration 11648: with minibatch training loss = 0.811 and accuracy of 0.71
+Epoch 30, Train loss: 0.914 and Train accuracy of 0.677, Test loss: 0.852 and Test accuracy of 0.705
+Iteration 11776: with minibatch training loss = 1.06 and accuracy of 0.59
+Iteration 11904: with minibatch training loss = 0.764 and accuracy of 0.69
+Iteration 12032: with minibatch training loss = 0.951 and accuracy of 0.7
+Epoch 31, Train loss: 0.899 and Train accuracy of 0.681, Test loss: 0.847 and Test accuracy of 0.704
+Iteration 12160: with minibatch training loss = 0.834 and accuracy of 0.64
+Iteration 12288: with minibatch training loss = 0.972 and accuracy of 0.63
+Iteration 12416: with minibatch training loss = 0.917 and accuracy of 0.68
+Epoch 32, Train loss: 0.89 and Train accuracy of 0.684, Test loss: 0.831 and Test accuracy of 0.708
+Iteration 12544: with minibatch training loss = 0.99 and accuracy of 0.71
+Iteration 12672: with minibatch training loss = 0.869 and accuracy of 0.69
+Iteration 12800: with minibatch training loss = 0.906 and accuracy of 0.65
+Epoch 33, Train loss: 0.875 and Train accuracy of 0.691, Test loss: 0.829 and Test accuracy of 0.71
+Iteration 12928: with minibatch training loss = 0.688 and accuracy of 0.75
+Iteration 13056: with minibatch training loss = 0.762 and accuracy of 0.73
+Iteration 13184: with minibatch training loss = 0.804 and accuracy of 0.7
+Epoch 34, Train loss: 0.866 and Train accuracy of 0.694, Test loss: 0.821 and Test accuracy of 0.712
+Iteration 13312: with minibatch training loss = 0.801 and accuracy of 0.72
+Iteration 13440: with minibatch training loss = 0.979 and accuracy of 0.63
+Iteration 13568: with minibatch training loss = 0.589 and accuracy of 0.78
+Epoch 35, Train loss: 0.85 and Train accuracy of 0.698, Test loss: 0.801 and Test accuracy of 0.718
+Iteration 13696: with minibatch training loss = 0.821 and accuracy of 0.69
+Iteration 13824: with minibatch training loss = 0.818 and accuracy of 0.77
+Iteration 13952: with minibatch training loss = 0.709 and accuracy of 0.8
+Epoch 36, Train loss: 0.837 and Train accuracy of 0.703, Test loss: 0.795 and Test accuracy of 0.72
+Iteration 14080: with minibatch training loss = 0.838 and accuracy of 0.7
+Iteration 14208: with minibatch training loss = 0.75 and accuracy of 0.73
+Iteration 14336: with minibatch training loss = 0.754 and accuracy of 0.76
+Iteration 14464: with minibatch training loss = 0.645 and accuracy of 0.73
+Epoch 37, Train loss: 0.826 and Train accuracy of 0.707, Test loss: 0.778 and Test accuracy of 0.727
+Iteration 14592: with minibatch training loss = 0.767 and accuracy of 0.74
+Iteration 14720: with minibatch training loss = 0.913 and accuracy of 0.67
+Iteration 14848: with minibatch training loss = 0.914 and accuracy of 0.68
+Epoch 38, Train loss: 0.812 and Train accuracy of 0.712, Test loss: 0.774 and Test accuracy of 0.729
+Iteration 14976: with minibatch training loss = 0.741 and accuracy of 0.76
+Iteration 15104: with minibatch training loss = 0.684 and accuracy of 0.73
+Iteration 15232: with minibatch training loss = 0.902 and accuracy of 0.74
+Epoch 39, Train loss: 0.802 and Train accuracy of 0.719, Test loss: 0.761 and Test accuracy of 0.734
+Iteration 15360: with minibatch training loss = 1.02 and accuracy of 0.65
+Iteration 15488: with minibatch training loss = 0.693 and accuracy of 0.75
+Iteration 15616: with minibatch training loss = 0.776 and accuracy of 0.76
+Epoch 40, Train loss: 0.791 and Train accuracy of 0.72, Test loss: 0.754 and Test accuracy of 0.738
+Iteration 15744: with minibatch training loss = 0.714 and accuracy of 0.79
+Iteration 15872: with minibatch training loss = 1.01 and accuracy of 0.66
+Iteration 16000: with minibatch training loss = 0.811 and accuracy of 0.75
+Epoch 41, Train loss: 0.782 and Train accuracy of 0.723, Test loss: 0.748 and Test accuracy of 0.738
+Iteration 16128: with minibatch training loss = 0.837 and accuracy of 0.7
+Iteration 16256: with minibatch training loss = 0.7 and accuracy of 0.74
+Iteration 16384: with minibatch training loss = 0.749 and accuracy of 0.73
+Epoch 42, Train loss: 0.774 and Train accuracy of 0.726, Test loss: 0.742 and Test accuracy of 0.739
+Iteration 16512: with minibatch training loss = 0.704 and accuracy of 0.73
+Iteration 16640: with minibatch training loss = 0.851 and accuracy of 0.7
+Iteration 16768: with minibatch training loss = 0.845 and accuracy of 0.71
+Epoch 43, Train loss: 0.765 and Train accuracy of 0.731, Test loss: 0.737 and Test accuracy of 0.743
+Iteration 16896: with minibatch training loss = 0.663 and accuracy of 0.77
+Iteration 17024: with minibatch training loss = 0.773 and accuracy of 0.75
+Iteration 17152: with minibatch training loss = 0.745 and accuracy of 0.73
+Epoch 44, Train loss: 0.751 and Train accuracy of 0.734, Test loss: 0.728 and Test accuracy of 0.745
+Iteration 17280: with minibatch training loss = 0.764 and accuracy of 0.71
+Iteration 17408: with minibatch training loss = 0.713 and accuracy of 0.73
+Iteration 17536: with minibatch training loss = 0.771 and accuracy of 0.75
+Epoch 45, Train loss: 0.74 and Train accuracy of 0.739, Test loss: 0.727 and Test accuracy of 0.745
+Iteration 17664: with minibatch training loss = 0.712 and accuracy of 0.75
+Iteration 17792: with minibatch training loss = 0.648 and accuracy of 0.77
+Iteration 17920: with minibatch training loss = 0.77 and accuracy of 0.71
+Epoch 46, Train loss: 0.733 and Train accuracy of 0.741, Test loss: 0.73 and Test accuracy of 0.747
+Iteration 18048: with minibatch training loss = 0.76 and accuracy of 0.7
+Iteration 18176: with minibatch training loss = 0.589 and accuracy of 0.82
+Iteration 18304: with minibatch training loss = 0.531 and accuracy of 0.81
+Epoch 47, Train loss: 0.717 and Train accuracy of 0.746, Test loss: 0.709 and Test accuracy of 0.755
+Iteration 18432: with minibatch training loss = 0.703 and accuracy of 0.77
+Iteration 18560: with minibatch training loss = 0.639 and accuracy of 0.76
+Iteration 18688: with minibatch training loss = 0.852 and accuracy of 0.73
+Epoch 48, Train loss: 0.713 and Train accuracy of 0.747, Test loss: 0.708 and Test accuracy of 0.754
+Iteration 18816: with minibatch training loss = 0.632 and accuracy of 0.76
+Iteration 18944: with minibatch training loss = 0.579 and accuracy of 0.8
+Iteration 19072: with minibatch training loss = 0.861 and accuracy of 0.72
+Epoch 49, Train loss: 0.704 and Train accuracy of 0.752, Test loss: 0.697 and Test accuracy of 0.759
+Iteration 19200: with minibatch training loss = 0.529 and accuracy of 0.82
+Iteration 19328: with minibatch training loss = 0.701 and accuracy of 0.73
+Iteration 19456: with minibatch training loss = 0.706 and accuracy of 0.8
+Epoch 50, Train loss: 0.693 and Train accuracy of 0.754, Test loss: 0.695 and Test accuracy of 0.756
+Iteration 19584: with minibatch training loss = 0.728 and accuracy of 0.72
+Iteration 19712: with minibatch training loss = 0.679 and accuracy of 0.72
+Iteration 19840: with minibatch training loss = 0.629 and accuracy of 0.78
+Epoch 51, Train loss: 0.69 and Train accuracy of 0.754, Test loss: 0.694 and Test accuracy of 0.756
+Iteration 19968: with minibatch training loss = 0.751 and accuracy of 0.72
+Iteration 20096: with minibatch training loss = 0.632 and accuracy of 0.8
+Iteration 20224: with minibatch training loss = 0.688 and accuracy of 0.74
+Epoch 52, Train loss: 0.676 and Train accuracy of 0.761, Test loss: 0.689 and Test accuracy of 0.759
+Iteration 20352: with minibatch training loss = 0.859 and accuracy of 0.71
+Iteration 20480: with minibatch training loss = 0.683 and accuracy of 0.79
+Iteration 20608: with minibatch training loss = 0.821 and accuracy of 0.73
+Epoch 53, Train loss: 0.666 and Train accuracy of 0.764, Test loss: 0.683 and Test accuracy of 0.762
+Iteration 20736: with minibatch training loss = 0.663 and accuracy of 0.8
+Iteration 20864: with minibatch training loss = 0.604 and accuracy of 0.78
+Iteration 20992: with minibatch training loss = 0.571 and accuracy of 0.81
+Epoch 54, Train loss: 0.661 and Train accuracy of 0.764, Test loss: 0.679 and Test accuracy of 0.762
+Iteration 21120: with minibatch training loss = 0.642 and accuracy of 0.77
+Iteration 21248: with minibatch training loss = 0.706 and accuracy of 0.72
+Iteration 21376: with minibatch training loss = 0.578 and accuracy of 0.8
+Iteration 21504: with minibatch training loss = 0.436 and accuracy of 0.88
+Epoch 55, Train loss: 0.655 and Train accuracy of 0.767, Test loss: 0.672 and Test accuracy of 0.766
+Iteration 21632: with minibatch training loss = 0.641 and accuracy of 0.79
+Iteration 21760: with minibatch training loss = 0.581 and accuracy of 0.81
+Iteration 21888: with minibatch training loss = 0.645 and accuracy of 0.76
+Epoch 56, Train loss: 0.647 and Train accuracy of 0.771, Test loss: 0.674 and Test accuracy of 0.765
+Iteration 22016: with minibatch training loss = 0.626 and accuracy of 0.79
+Iteration 22144: with minibatch training loss = 0.594 and accuracy of 0.79
+Iteration 22272: with minibatch training loss = 0.742 and accuracy of 0.75
+Epoch 57, Train loss: 0.64 and Train accuracy of 0.773, Test loss: 0.673 and Test accuracy of 0.766
+Iteration 22400: with minibatch training loss = 0.607 and accuracy of 0.79
+Iteration 22528: with minibatch training loss = 0.781 and accuracy of 0.72
+Iteration 22656: with minibatch training loss = 0.489 and accuracy of 0.84
+Epoch 58, Train loss: 0.631 and Train accuracy of 0.776, Test loss: 0.67 and Test accuracy of 0.766
+Iteration 22784: with minibatch training loss = 0.724 and accuracy of 0.76
+Iteration 22912: with minibatch training loss = 0.656 and accuracy of 0.75
+Iteration 23040: with minibatch training loss = 0.52 and accuracy of 0.82
+Epoch 59, Train loss: 0.625 and Train accuracy of 0.776, Test loss: 0.661 and Test accuracy of 0.769
+Iteration 23168: with minibatch training loss = 0.538 and accuracy of 0.83
+Iteration 23296: with minibatch training loss = 0.476 and accuracy of 0.8
+Iteration 23424: with minibatch training loss = 0.49 and accuracy of 0.8
+Epoch 60, Train loss: 0.618 and Train accuracy of 0.782, Test loss: 0.661 and Test accuracy of 0.769
+Iteration 23552: with minibatch training loss = 0.497 and accuracy of 0.84
+Iteration 23680: with minibatch training loss = 0.443 and accuracy of 0.84
+Iteration 23808: with minibatch training loss = 0.628 and accuracy of 0.77
+Epoch 61, Train loss: 0.604 and Train accuracy of 0.788, Test loss: 0.66 and Test accuracy of 0.768
+Iteration 23936: with minibatch training loss = 0.581 and accuracy of 0.79
+Iteration 24064: with minibatch training loss = 0.566 and accuracy of 0.82
+Iteration 24192: with minibatch training loss = 0.592 and accuracy of 0.77
+Epoch 62, Train loss: 0.601 and Train accuracy of 0.788, Test loss: 0.651 and Test accuracy of 0.773
+Iteration 24320: with minibatch training loss = 0.609 and accuracy of 0.78
+Iteration 24448: with minibatch training loss = 0.66 and accuracy of 0.77
+Iteration 24576: with minibatch training loss = 0.744 and accuracy of 0.75
+Epoch 63, Train loss: 0.599 and Train accuracy of 0.787, Test loss: 0.651 and Test accuracy of 0.772
+Iteration 24704: with minibatch training loss = 0.708 and accuracy of 0.78
+Iteration 24832: with minibatch training loss = 0.467 and accuracy of 0.84
+Iteration 24960: with minibatch training loss = 0.691 and accuracy of 0.73
+Epoch 64, Train loss: 0.591 and Train accuracy of 0.791, Test loss: 0.65 and Test accuracy of 0.773
+Iteration 25088: with minibatch training loss = 0.532 and accuracy of 0.79
+Iteration 25216: with minibatch training loss = 0.613 and accuracy of 0.79
+Iteration 25344: with minibatch training loss = 0.512 and accuracy of 0.8
+Epoch 65, Train loss: 0.583 and Train accuracy of 0.794, Test loss: 0.644 and Test accuracy of 0.775
+Iteration 25472: with minibatch training loss = 0.641 and accuracy of 0.75
+Iteration 25600: with minibatch training loss = 0.619 and accuracy of 0.74
+Iteration 25728: with minibatch training loss = 0.437 and accuracy of 0.84
+Epoch 66, Train loss: 0.576 and Train accuracy of 0.796, Test loss: 0.651 and Test accuracy of 0.776
+Iteration 25856: with minibatch training loss = 0.615 and accuracy of 0.8
+Iteration 25984: with minibatch training loss = 0.615 and accuracy of 0.79
+Iteration 26112: with minibatch training loss = 0.524 and accuracy of 0.85
+Epoch 67, Train loss: 0.574 and Train accuracy of 0.796, Test loss: 0.635 and Test accuracy of 0.778
+Iteration 26240: with minibatch training loss = 0.621 and accuracy of 0.78
+Iteration 26368: with minibatch training loss = 0.607 and accuracy of 0.78
+Iteration 26496: with minibatch training loss = 0.641 and accuracy of 0.77
+Epoch 68, Train loss: 0.561 and Train accuracy of 0.801, Test loss: 0.639 and Test accuracy of 0.776
+Iteration 26624: with minibatch training loss = 0.458 and accuracy of 0.88
+Iteration 26752: with minibatch training loss = 0.483 and accuracy of 0.8
+Iteration 26880: with minibatch training loss = 0.604 and accuracy of 0.78
+Epoch 69, Train loss: 0.559 and Train accuracy of 0.802, Test loss: 0.641 and Test accuracy of 0.776
+Iteration 27008: with minibatch training loss = 0.625 and accuracy of 0.77
+Iteration 27136: with minibatch training loss = 0.499 and accuracy of 0.84
+Iteration 27264: with minibatch training loss = 0.588 and accuracy of 0.77
+Epoch 70, Train loss: 0.549 and Train accuracy of 0.805, Test loss: 0.647 and Test accuracy of 0.774
+Iteration 27392: with minibatch training loss = 0.543 and accuracy of 0.82
+Iteration 27520: with minibatch training loss = 0.53 and accuracy of 0.83
+Iteration 27648: with minibatch training loss = 0.583 and accuracy of 0.77
+Epoch 71, Train loss: 0.541 and Train accuracy of 0.809, Test loss: 0.641 and Test accuracy of 0.778
+Iteration 27776: with minibatch training loss = 0.511 and accuracy of 0.79
+Iteration 27904: with minibatch training loss = 0.467 and accuracy of 0.85
+Iteration 28032: with minibatch training loss = 0.544 and accuracy of 0.8
+Epoch 72, Train loss: 0.541 and Train accuracy of 0.81, Test loss: 0.634 and Test accuracy of 0.779
+Iteration 28160: with minibatch training loss = 0.42 and accuracy of 0.85
+Iteration 28288: with minibatch training loss = 0.474 and accuracy of 0.87
+Iteration 28416: with minibatch training loss = 0.517 and accuracy of 0.79
+Epoch 73, Train loss: 0.535 and Train accuracy of 0.809, Test loss: 0.627 and Test accuracy of 0.782
+Iteration 28544: with minibatch training loss = 0.49 and accuracy of 0.82
+Iteration 28672: with minibatch training loss = 0.612 and accuracy of 0.77
+Iteration 28800: with minibatch training loss = 0.611 and accuracy of 0.79
+Iteration 28928: with minibatch training loss = 0.632 and accuracy of 0.79
+Epoch 74, Train loss: 0.53 and Train accuracy of 0.81, Test loss: 0.638 and Test accuracy of 0.781
+Iteration 29056: with minibatch training loss = 0.47 and accuracy of 0.84
+Iteration 29184: with minibatch training loss = 0.485 and accuracy of 0.81
+Iteration 29312: with minibatch training loss = 0.468 and accuracy of 0.84
+Epoch 75, Train loss: 0.52 and Train accuracy of 0.815, Test loss: 0.632 and Test accuracy of 0.779
+Iteration 29440: with minibatch training loss = 0.453 and accuracy of 0.81
+Iteration 29568: with minibatch training loss = 0.43 and accuracy of 0.84
+Iteration 29696: with minibatch training loss = 0.422 and accuracy of 0.83
+Epoch 76, Train loss: 0.513 and Train accuracy of 0.816, Test loss: 0.626 and Test accuracy of 0.782
+Iteration 29824: with minibatch training loss = 0.399 and accuracy of 0.86
+Iteration 29952: with minibatch training loss = 0.556 and accuracy of 0.8
+Iteration 30080: with minibatch training loss = 0.588 and accuracy of 0.78
+Epoch 77, Train loss: 0.51 and Train accuracy of 0.819, Test loss: 0.627 and Test accuracy of 0.786
+Iteration 30208: with minibatch training loss = 0.46 and accuracy of 0.84
+Iteration 30336: with minibatch training loss = 0.55 and accuracy of 0.81
+Iteration 30464: with minibatch training loss = 0.433 and accuracy of 0.82
+Epoch 78, Train loss: 0.507 and Train accuracy of 0.818, Test loss: 0.634 and Test accuracy of 0.782
+Iteration 30592: with minibatch training loss = 0.41 and accuracy of 0.84
+Iteration 30720: with minibatch training loss = 0.442 and accuracy of 0.88
+Iteration 30848: with minibatch training loss = 0.426 and accuracy of 0.83
+Epoch 79, Train loss: 0.501 and Train accuracy of 0.822, Test loss: 0.621 and Test accuracy of 0.788
+Iteration 30976: with minibatch training loss = 0.518 and accuracy of 0.8
+Iteration 31104: with minibatch training loss = 0.587 and accuracy of 0.79
+Iteration 31232: with minibatch training loss = 0.604 and accuracy of 0.73
+Epoch 80, Train loss: 0.488 and Train accuracy of 0.826, Test loss: 0.631 and Test accuracy of 0.786
+Iteration 31360: with minibatch training loss = 0.491 and accuracy of 0.83
+Iteration 31488: with minibatch training loss = 0.447 and accuracy of 0.85
+Iteration 31616: with minibatch training loss = 0.386 and accuracy of 0.88
+Epoch 81, Train loss: 0.488 and Train accuracy of 0.824, Test loss: 0.62 and Test accuracy of 0.787
+Iteration 31744: with minibatch training loss = 0.418 and accuracy of 0.86
+Iteration 31872: with minibatch training loss = 0.562 and accuracy of 0.81
+Iteration 32000: with minibatch training loss = 0.468 and accuracy of 0.84
+Epoch 82, Train loss: 0.486 and Train accuracy of 0.826, Test loss: 0.621 and Test accuracy of 0.789
+Iteration 32128: with minibatch training loss = 0.479 and accuracy of 0.82
+Iteration 32256: with minibatch training loss = 0.331 and accuracy of 0.88
+Iteration 32384: with minibatch training loss = 0.508 and accuracy of 0.85
+Epoch 83, Train loss: 0.478 and Train accuracy of 0.829, Test loss: 0.621 and Test accuracy of 0.787
+Iteration 32512: with minibatch training loss = 0.473 and accuracy of 0.81
+Iteration 32640: with minibatch training loss = 0.516 and accuracy of 0.81
+Iteration 32768: with minibatch training loss = 0.566 and accuracy of 0.81
+Epoch 84, Train loss: 0.476 and Train accuracy of 0.831, Test loss: 0.626 and Test accuracy of 0.788
+Iteration 32896: with minibatch training loss = 0.565 and accuracy of 0.77
+Iteration 33024: with minibatch training loss = 0.592 and accuracy of 0.79
+Iteration 33152: with minibatch training loss = 0.448 and accuracy of 0.87
+Epoch 85, Train loss: 0.467 and Train accuracy of 0.833, Test loss: 0.619 and Test accuracy of 0.789
+Iteration 33280: with minibatch training loss = 0.521 and accuracy of 0.81
+Iteration 33408: with minibatch training loss = 0.359 and accuracy of 0.87
+Iteration 33536: with minibatch training loss = 0.46 and accuracy of 0.86
+Epoch 86, Train loss: 0.461 and Train accuracy of 0.837, Test loss: 0.618 and Test accuracy of 0.793
+Iteration 33664: with minibatch training loss = 0.546 and accuracy of 0.82
+Iteration 33792: with minibatch training loss = 0.422 and accuracy of 0.85
+Iteration 33920: with minibatch training loss = 0.426 and accuracy of 0.83
+Epoch 87, Train loss: 0.459 and Train accuracy of 0.837, Test loss: 0.612 and Test accuracy of 0.79
+Iteration 34048: with minibatch training loss = 0.485 and accuracy of 0.82
+Iteration 34176: with minibatch training loss = 0.372 and accuracy of 0.88
+Iteration 34304: with minibatch training loss = 0.54 and accuracy of 0.8
+Epoch 88, Train loss: 0.453 and Train accuracy of 0.838, Test loss: 0.609 and Test accuracy of 0.791
+Iteration 34432: with minibatch training loss = 0.463 and accuracy of 0.83
+Iteration 34560: with minibatch training loss = 0.443 and accuracy of 0.84
+Iteration 34688: with minibatch training loss = 0.504 and accuracy of 0.82
+Epoch 89, Train loss: 0.445 and Train accuracy of 0.841, Test loss: 0.61 and Test accuracy of 0.793
+Iteration 34816: with minibatch training loss = 0.424 and accuracy of 0.84
+Iteration 34944: with minibatch training loss = 0.491 and accuracy of 0.81
+Iteration 35072: with minibatch training loss = 0.396 and accuracy of 0.84
+Epoch 90, Train loss: 0.442 and Train accuracy of 0.841, Test loss: 0.62 and Test accuracy of 0.789
+Iteration 35200: with minibatch training loss = 0.345 and accuracy of 0.84
+Iteration 35328: with minibatch training loss = 0.488 and accuracy of 0.8
+Iteration 35456: with minibatch training loss = 0.345 and accuracy of 0.85
+Epoch 91, Train loss: 0.434 and Train accuracy of 0.845, Test loss: 0.615 and Test accuracy of 0.79
+Iteration 35584: with minibatch training loss = 0.479 and accuracy of 0.83
+Iteration 35712: with minibatch training loss = 0.312 and accuracy of 0.89
+Iteration 35840: with minibatch training loss = 0.354 and accuracy of 0.89
+Iteration 35968: with minibatch training loss = 0.333 and accuracy of 0.88
+Epoch 92, Train loss: 0.43 and Train accuracy of 0.848, Test loss: 0.61 and Test accuracy of 0.791
+Iteration 36096: with minibatch training loss = 0.433 and accuracy of 0.81
+Iteration 36224: with minibatch training loss = 0.48 and accuracy of 0.86
+Iteration 36352: with minibatch training loss = 0.304 and accuracy of 0.86
+Epoch 93, Train loss: 0.426 and Train accuracy of 0.848, Test loss: 0.609 and Test accuracy of 0.793
+Iteration 36480: with minibatch training loss = 0.37 and accuracy of 0.85
+Iteration 36608: with minibatch training loss = 0.395 and accuracy of 0.84
+Iteration 36736: with minibatch training loss = 0.527 and accuracy of 0.79
+Epoch 94, Train loss: 0.424 and Train accuracy of 0.847, Test loss: 0.6 and Test accuracy of 0.794
+Iteration 36864: with minibatch training loss = 0.376 and accuracy of 0.86
+Iteration 36992: with minibatch training loss = 0.315 and accuracy of 0.9
+Iteration 37120: with minibatch training loss = 0.474 and accuracy of 0.84
+Epoch 95, Train loss: 0.417 and Train accuracy of 0.851, Test loss: 0.606 and Test accuracy of 0.792
+Iteration 37248: with minibatch training loss = 0.338 and accuracy of 0.88
+Iteration 37376: with minibatch training loss = 0.44 and accuracy of 0.84
+Iteration 37504: with minibatch training loss = 0.417 and accuracy of 0.84
+Epoch 96, Train loss: 0.41 and Train accuracy of 0.852, Test loss: 0.605 and Test accuracy of 0.794
+Iteration 37632: with minibatch training loss = 0.304 and accuracy of 0.9
+Iteration 37760: with minibatch training loss = 0.363 and accuracy of 0.83
+Iteration 37888: with minibatch training loss = 0.377 and accuracy of 0.86
+Epoch 97, Train loss: 0.411 and Train accuracy of 0.854, Test loss: 0.617 and Test accuracy of 0.793
+Iteration 38016: with minibatch training loss = 0.49 and accuracy of 0.8
+Iteration 38144: with minibatch training loss = 0.449 and accuracy of 0.88
+Iteration 38272: with minibatch training loss = 0.275 and accuracy of 0.92
+Epoch 98, Train loss: 0.408 and Train accuracy of 0.856, Test loss: 0.613 and Test accuracy of 0.791
+Iteration 38400: with minibatch training loss = 0.378 and accuracy of 0.87
+Iteration 38528: with minibatch training loss = 0.397 and accuracy of 0.86
+Iteration 38656: with minibatch training loss = 0.405 and accuracy of 0.88
+Epoch 99, Train loss: 0.395 and Train accuracy of 0.858, Test loss: 0.607 and Test accuracy of 0.797
+Iteration 38784: with minibatch training loss = 0.464 and accuracy of 0.84
+Iteration 38912: with minibatch training loss = 0.504 and accuracy of 0.85
+Iteration 39040: with minibatch training loss = 0.443 and accuracy of 0.88
+Epoch 100, Train loss: 0.396 and Train accuracy of 0.858, Test loss: 0.615 and Test accuracy of 0.796
+Iteration 39168: with minibatch training loss = 0.314 and accuracy of 0.89
+Iteration 39296: with minibatch training loss = 0.368 and accuracy of 0.87
+Iteration 39424: with minibatch training loss = 0.281 and accuracy of 0.89
+Epoch 101, Train loss: 0.394 and Train accuracy of 0.858, Test loss: 0.612 and Test accuracy of 0.793
+Iteration 39552: with minibatch training loss = 0.442 and accuracy of 0.85
+Iteration 39680: with minibatch training loss = 0.409 and accuracy of 0.87
+Iteration 39808: with minibatch training loss = 0.403 and accuracy of 0.86
+Epoch 102, Train loss: 0.389 and Train accuracy of 0.859, Test loss: 0.614 and Test accuracy of 0.794
+Iteration 39936: with minibatch training loss = 0.355 and accuracy of 0.91
+Iteration 40064: with minibatch training loss = 0.462 and accuracy of 0.86
+Iteration 40192: with minibatch training loss = 0.458 and accuracy of 0.8
+Epoch 103, Train loss: 0.384 and Train accuracy of 0.861, Test loss: 0.618 and Test accuracy of 0.794
+Iteration 40320: with minibatch training loss = 0.449 and accuracy of 0.84
+Iteration 40448: with minibatch training loss = 0.379 and accuracy of 0.88
+Iteration 40576: with minibatch training loss = 0.381 and accuracy of 0.89
+Epoch 104, Train loss: 0.379 and Train accuracy of 0.864, Test loss: 0.607 and Test accuracy of 0.794
+Iteration 40704: with minibatch training loss = 0.386 and accuracy of 0.86
+Iteration 40832: with minibatch training loss = 0.298 and accuracy of 0.92
+Iteration 40960: with minibatch training loss = 0.333 and accuracy of 0.91
+Epoch 105, Train loss: 0.378 and Train accuracy of 0.864, Test loss: 0.619 and Test accuracy of 0.795
+Iteration 41088: with minibatch training loss = 0.268 and accuracy of 0.9
+Iteration 41216: with minibatch training loss = 0.441 and accuracy of 0.87
+Iteration 41344: with minibatch training loss = 0.363 and accuracy of 0.88
+Epoch 106, Train loss: 0.371 and Train accuracy of 0.868, Test loss: 0.621 and Test accuracy of 0.797
+Iteration 41472: with minibatch training loss = 0.485 and accuracy of 0.82
+Iteration 41600: with minibatch training loss = 0.316 and accuracy of 0.88
+Iteration 41728: with minibatch training loss = 0.376 and accuracy of 0.87
+Epoch 107, Train loss: 0.366 and Train accuracy of 0.87, Test loss: 0.606 and Test accuracy of 0.798
+Iteration 41856: with minibatch training loss = 0.452 and accuracy of 0.84
+Iteration 41984: with minibatch training loss = 0.39 and accuracy of 0.89
+Iteration 42112: with minibatch training loss = 0.345 and accuracy of 0.87
+Epoch 108, Train loss: 0.364 and Train accuracy of 0.869, Test loss: 0.619 and Test accuracy of 0.797
+Iteration 42240: with minibatch training loss = 0.37 and accuracy of 0.86
+Iteration 42368: with minibatch training loss = 0.395 and accuracy of 0.85
+Iteration 42496: with minibatch training loss = 0.205 and accuracy of 0.94
+Epoch 109, Train loss: 0.358 and Train accuracy of 0.871, Test loss: 0.606 and Test accuracy of 0.797
+Iteration 42624: with minibatch training loss = 0.468 and accuracy of 0.84
+Iteration 42752: with minibatch training loss = 0.316 and accuracy of 0.91
+Iteration 42880: with minibatch training loss = 0.387 and accuracy of 0.88
+Iteration 43008: with minibatch training loss = 0.45 and accuracy of 0.88
+Epoch 110, Train loss: 0.355 and Train accuracy of 0.872, Test loss: 0.612 and Test accuracy of 0.796
+Iteration 43136: with minibatch training loss = 0.285 and accuracy of 0.91
+Iteration 43264: with minibatch training loss = 0.434 and accuracy of 0.83
+Iteration 43392: with minibatch training loss = 0.402 and accuracy of 0.86
+Epoch 111, Train loss: 0.355 and Train accuracy of 0.873, Test loss: 0.61 and Test accuracy of 0.798
+Iteration 43520: with minibatch training loss = 0.354 and accuracy of 0.84
+Iteration 43648: with minibatch training loss = 0.409 and accuracy of 0.88
+Iteration 43776: with minibatch training loss = 0.272 and accuracy of 0.89
+Epoch 112, Train loss: 0.349 and Train accuracy of 0.875, Test loss: 0.624 and Test accuracy of 0.797
+Iteration 43904: with minibatch training loss = 0.343 and accuracy of 0.88
+Iteration 44032: with minibatch training loss = 0.301 and accuracy of 0.91
+Iteration 44160: with minibatch training loss = 0.334 and accuracy of 0.91
+Epoch 113, Train loss: 0.347 and Train accuracy of 0.874, Test loss: 0.617 and Test accuracy of 0.799
+Iteration 44288: with minibatch training loss = 0.235 and accuracy of 0.91
+Iteration 44416: with minibatch training loss = 0.362 and accuracy of 0.86
+Iteration 44544: with minibatch training loss = 0.189 and accuracy of 0.97
+Epoch 114, Train loss: 0.341 and Train accuracy of 0.878, Test loss: 0.623 and Test accuracy of 0.796
+Iteration 44672: with minibatch training loss = 0.26 and accuracy of 0.9
+Iteration 44800: with minibatch training loss = 0.435 and accuracy of 0.86
+Iteration 44928: with minibatch training loss = 0.296 and accuracy of 0.88
+Epoch 115, Train loss: 0.332 and Train accuracy of 0.882, Test loss: 0.631 and Test accuracy of 0.798
+Iteration 45056: with minibatch training loss = 0.373 and accuracy of 0.9
+Iteration 45184: with minibatch training loss = 0.192 and accuracy of 0.95
+Iteration 45312: with minibatch training loss = 0.164 and accuracy of 0.96
+Epoch 116, Train loss: 0.334 and Train accuracy of 0.878, Test loss: 0.616 and Test accuracy of 0.8
+Iteration 45440: with minibatch training loss = 0.326 and accuracy of 0.88
+Iteration 45568: with minibatch training loss = 0.282 and accuracy of 0.92
+Iteration 45696: with minibatch training loss = 0.337 and accuracy of 0.87
+Epoch 117, Train loss: 0.329 and Train accuracy of 0.88, Test loss: 0.618 and Test accuracy of 0.8
+Iteration 45824: with minibatch training loss = 0.486 and accuracy of 0.82
+Iteration 45952: with minibatch training loss = 0.176 and accuracy of 0.96
+Iteration 46080: with minibatch training loss = 0.274 and accuracy of 0.9
+Epoch 118, Train loss: 0.327 and Train accuracy of 0.88, Test loss: 0.621 and Test accuracy of 0.8
+Iteration 46208: with minibatch training loss = 0.396 and accuracy of 0.85
+Iteration 46336: with minibatch training loss = 0.313 and accuracy of 0.87
+Iteration 46464: with minibatch training loss = 0.294 and accuracy of 0.88
+Epoch 119, Train loss: 0.328 and Train accuracy of 0.881, Test loss: 0.619 and Test accuracy of 0.801
+Iteration 46592: with minibatch training loss = 0.221 and accuracy of 0.93
+Iteration 46720: with minibatch training loss = 0.291 and accuracy of 0.87
+Iteration 46848: with minibatch training loss = 0.267 and accuracy of 0.9
+Epoch 120, Train loss: 0.325 and Train accuracy of 0.883, Test loss: 0.624 and Test accuracy of 0.796
+Iteration 46976: with minibatch training loss = 0.273 and accuracy of 0.91
+Iteration 47104: with minibatch training loss = 0.461 and accuracy of 0.83
+Iteration 47232: with minibatch training loss = 0.178 and accuracy of 0.92
+Epoch 121, Train loss: 0.322 and Train accuracy of 0.883, Test loss: 0.612 and Test accuracy of 0.797
+Iteration 47360: with minibatch training loss = 0.279 and accuracy of 0.88
+Iteration 47488: with minibatch training loss = 0.394 and accuracy of 0.91
+Iteration 47616: with minibatch training loss = 0.305 and accuracy of 0.9
+Epoch 122, Train loss: 0.318 and Train accuracy of 0.884, Test loss: 0.614 and Test accuracy of 0.801
+Iteration 47744: with minibatch training loss = 0.212 and accuracy of 0.89
+Iteration 47872: with minibatch training loss = 0.346 and accuracy of 0.88
+Iteration 48000: with minibatch training loss = 0.333 and accuracy of 0.84
+Epoch 123, Train loss: 0.31 and Train accuracy of 0.888, Test loss: 0.635 and Test accuracy of 0.799
+Iteration 48128: with minibatch training loss = 0.45 and accuracy of 0.82
+Iteration 48256: with minibatch training loss = 0.31 and accuracy of 0.9
+Iteration 48384: with minibatch training loss = 0.247 and accuracy of 0.92
+Epoch 124, Train loss: 0.306 and Train accuracy of 0.889, Test loss: 0.615 and Test accuracy of 0.802
+Iteration 48512: with minibatch training loss = 0.259 and accuracy of 0.89
+Iteration 48640: with minibatch training loss = 0.354 and accuracy of 0.89
+Iteration 48768: with minibatch training loss = 0.342 and accuracy of 0.87
+Epoch 125, Train loss: 0.305 and Train accuracy of 0.89, Test loss: 0.618 and Test accuracy of 0.801
+Iteration 48896: with minibatch training loss = 0.347 and accuracy of 0.89
+Iteration 49024: with minibatch training loss = 0.384 and accuracy of 0.89
+Iteration 49152: with minibatch training loss = 0.255 and accuracy of 0.91
+Epoch 126, Train loss: 0.305 and Train accuracy of 0.888, Test loss: 0.615 and Test accuracy of 0.802
+Iteration 49280: with minibatch training loss = 0.282 and accuracy of 0.86
+Iteration 49408: with minibatch training loss = 0.37 and accuracy of 0.89
+Iteration 49536: with minibatch training loss = 0.208 and accuracy of 0.92
+Epoch 127, Train loss: 0.299 and Train accuracy of 0.892, Test loss: 0.62 and Test accuracy of 0.801
+Iteration 49664: with minibatch training loss = 0.434 and accuracy of 0.87
+Iteration 49792: with minibatch training loss = 0.346 and accuracy of 0.83
+Iteration 49920: with minibatch training loss = 0.289 and accuracy of 0.88
+Epoch 128, Train loss: 0.302 and Train accuracy of 0.891, Test loss: 0.62 and Test accuracy of 0.802
+Iteration 50048: with minibatch training loss = 0.26 and accuracy of 0.87
+Iteration 50176: with minibatch training loss = 0.281 and accuracy of 0.91
+Iteration 50304: with minibatch training loss = 0.274 and accuracy of 0.91
+Iteration 50432: with minibatch training loss = 0.266 and accuracy of 0.88
+Epoch 129, Train loss: 0.301 and Train accuracy of 0.891, Test loss: 0.614 and Test accuracy of 0.801
+Iteration 50560: with minibatch training loss = 0.266 and accuracy of 0.92
+Iteration 50688: with minibatch training loss = 0.419 and accuracy of 0.85
+Iteration 50816: with minibatch training loss = 0.263 and accuracy of 0.91
+Epoch 130, Train loss: 0.293 and Train accuracy of 0.894, Test loss: 0.641 and Test accuracy of 0.801
+Iteration 50944: with minibatch training loss = 0.295 and accuracy of 0.89
+Iteration 51072: with minibatch training loss = 0.373 and accuracy of 0.85
+Iteration 51200: with minibatch training loss = 0.314 and accuracy of 0.88
+Epoch 131, Train loss: 0.287 and Train accuracy of 0.896, Test loss: 0.644 and Test accuracy of 0.798
+Iteration 51328: with minibatch training loss = 0.298 and accuracy of 0.89
+Iteration 51456: with minibatch training loss = 0.275 and accuracy of 0.88
+Iteration 51584: with minibatch training loss = 0.252 and accuracy of 0.93
+Epoch 132, Train loss: 0.286 and Train accuracy of 0.898, Test loss: 0.618 and Test accuracy of 0.8
+Iteration 51712: with minibatch training loss = 0.197 and accuracy of 0.93
+Iteration 51840: with minibatch training loss = 0.301 and accuracy of 0.91
+Iteration 51968: with minibatch training loss = 0.367 and accuracy of 0.87
+Epoch 133, Train loss: 0.285 and Train accuracy of 0.897, Test loss: 0.631 and Test accuracy of 0.8
+Iteration 52096: with minibatch training loss = 0.296 and accuracy of 0.9
+Iteration 52224: with minibatch training loss = 0.234 and accuracy of 0.92
+Iteration 52352: with minibatch training loss = 0.337 and accuracy of 0.87
+Epoch 134, Train loss: 0.284 and Train accuracy of 0.896, Test loss: 0.639 and Test accuracy of 0.799
+Iteration 52480: with minibatch training loss = 0.243 and accuracy of 0.91
+Iteration 52608: with minibatch training loss = 0.208 and accuracy of 0.92
+Iteration 52736: with minibatch training loss = 0.301 and accuracy of 0.88
+Epoch 135, Train loss: 0.277 and Train accuracy of 0.899, Test loss: 0.624 and Test accuracy of 0.804
+Iteration 52864: with minibatch training loss = 0.402 and accuracy of 0.88
+Iteration 52992: with minibatch training loss = 0.342 and accuracy of 0.91
+Iteration 53120: with minibatch training loss = 0.261 and accuracy of 0.89
+Epoch 136, Train loss: 0.277 and Train accuracy of 0.899, Test loss: 0.639 and Test accuracy of 0.803
+Iteration 53248: with minibatch training loss = 0.209 and accuracy of 0.92
+Iteration 53376: with minibatch training loss = 0.333 and accuracy of 0.86
+Iteration 53504: with minibatch training loss = 0.305 and accuracy of 0.91
+Epoch 137, Train loss: 0.271 and Train accuracy of 0.902, Test loss: 0.629 and Test accuracy of 0.803
+Iteration 53632: with minibatch training loss = 0.265 and accuracy of 0.9
+Iteration 53760: with minibatch training loss = 0.366 and accuracy of 0.84
+Iteration 53888: with minibatch training loss = 0.189 and accuracy of 0.95
+Epoch 138, Train loss: 0.27 and Train accuracy of 0.903, Test loss: 0.63 and Test accuracy of 0.803
+Iteration 54016: with minibatch training loss = 0.327 and accuracy of 0.9
+Iteration 54144: with minibatch training loss = 0.259 and accuracy of 0.89
+Iteration 54272: with minibatch training loss = 0.236 and accuracy of 0.92
+Epoch 139, Train loss: 0.268 and Train accuracy of 0.903, Test loss: 0.623 and Test accuracy of 0.803
+Iteration 54400: with minibatch training loss = 0.255 and accuracy of 0.91
+Iteration 54528: with minibatch training loss = 0.228 and accuracy of 0.9
+Iteration 54656: with minibatch training loss = 0.271 and accuracy of 0.88
+Epoch 140, Train loss: 0.266 and Train accuracy of 0.904, Test loss: 0.633 and Test accuracy of 0.803
+Iteration 54784: with minibatch training loss = 0.347 and accuracy of 0.89
+Iteration 54912: with minibatch training loss = 0.248 and accuracy of 0.91
+Iteration 55040: with minibatch training loss = 0.222 and accuracy of 0.93
+Epoch 141, Train loss: 0.261 and Train accuracy of 0.905, Test loss: 0.633 and Test accuracy of 0.804
+Iteration 55168: with minibatch training loss = 0.336 and accuracy of 0.88
+Iteration 55296: with minibatch training loss = 0.239 and accuracy of 0.95
+Iteration 55424: with minibatch training loss = 0.221 and accuracy of 0.93
+Epoch 142, Train loss: 0.262 and Train accuracy of 0.906, Test loss: 0.636 and Test accuracy of 0.805
+Iteration 55552: with minibatch training loss = 0.289 and accuracy of 0.91
+Iteration 55680: with minibatch training loss = 0.278 and accuracy of 0.91
+Iteration 55808: with minibatch training loss = 0.379 and accuracy of 0.86
+Epoch 143, Train loss: 0.26 and Train accuracy of 0.907, Test loss: 0.627 and Test accuracy of 0.806
+Iteration 55936: with minibatch training loss = 0.243 and accuracy of 0.9
+Iteration 56064: with minibatch training loss = 0.344 and accuracy of 0.87
+Iteration 56192: with minibatch training loss = 0.264 and accuracy of 0.89
+Epoch 144, Train loss: 0.258 and Train accuracy of 0.907, Test loss: 0.629 and Test accuracy of 0.804
+Iteration 56320: with minibatch training loss = 0.206 and accuracy of 0.93
+Iteration 56448: with minibatch training loss = 0.204 and accuracy of 0.94
+Iteration 56576: with minibatch training loss = 0.468 and accuracy of 0.87
+Epoch 145, Train loss: 0.254 and Train accuracy of 0.909, Test loss: 0.635 and Test accuracy of 0.802
+Iteration 56704: with minibatch training loss = 0.323 and accuracy of 0.89
+Iteration 56832: with minibatch training loss = 0.228 and accuracy of 0.92
+Iteration 56960: with minibatch training loss = 0.169 and accuracy of 0.94
+Epoch 146, Train loss: 0.254 and Train accuracy of 0.908, Test loss: 0.631 and Test accuracy of 0.805
+Iteration 57088: with minibatch training loss = 0.22 and accuracy of 0.9
+Iteration 57216: with minibatch training loss = 0.267 and accuracy of 0.92
+Iteration 57344: with minibatch training loss = 0.188 and accuracy of 0.92
+Iteration 57472: with minibatch training loss = 0.303 and accuracy of 0.9
+Epoch 147, Train loss: 0.248 and Train accuracy of 0.908, Test loss: 0.642 and Test accuracy of 0.802
+Iteration 57600: with minibatch training loss = 0.268 and accuracy of 0.89
+Iteration 57728: with minibatch training loss = 0.278 and accuracy of 0.89
+Iteration 57856: with minibatch training loss = 0.252 and accuracy of 0.91
+Epoch 148, Train loss: 0.251 and Train accuracy of 0.909, Test loss: 0.63 and Test accuracy of 0.805
+Iteration 57984: with minibatch training loss = 0.197 and accuracy of 0.91
+Iteration 58112: with minibatch training loss = 0.247 and accuracy of 0.91
+Iteration 58240: with minibatch training loss = 0.213 and accuracy of 0.93
+Epoch 149, Train loss: 0.248 and Train accuracy of 0.911, Test loss: 0.647 and Test accuracy of 0.802
+Iteration 58368: with minibatch training loss = 0.242 and accuracy of 0.91
+Iteration 58496: with minibatch training loss = 0.223 and accuracy of 0.93
+Iteration 58624: with minibatch training loss = 0.173 and accuracy of 0.95
+Epoch 150, Train loss: 0.243 and Train accuracy of 0.913, Test loss: 0.644 and Test accuracy of 0.804
+Iteration 58752: with minibatch training loss = 0.197 and accuracy of 0.92
+Iteration 58880: with minibatch training loss = 0.233 and accuracy of 0.91
+Iteration 59008: with minibatch training loss = 0.295 and accuracy of 0.9
+Epoch 151, Train loss: 0.24 and Train accuracy of 0.913, Test loss: 0.65 and Test accuracy of 0.802
+Iteration 59136: with minibatch training loss = 0.177 and accuracy of 0.95
+Iteration 59264: with minibatch training loss = 0.236 and accuracy of 0.91
+Iteration 59392: with minibatch training loss = 0.14 and accuracy of 0.96
+Epoch 152, Train loss: 0.236 and Train accuracy of 0.915, Test loss: 0.64 and Test accuracy of 0.801
+Iteration 59520: with minibatch training loss = 0.277 and accuracy of 0.86
+Iteration 59648: with minibatch training loss = 0.346 and accuracy of 0.85
+Iteration 59776: with minibatch training loss = 0.239 and accuracy of 0.9
+Epoch 153, Train loss: 0.236 and Train accuracy of 0.915, Test loss: 0.641 and Test accuracy of 0.802
+Iteration 59904: with minibatch training loss = 0.275 and accuracy of 0.92
+Iteration 60032: with minibatch training loss = 0.224 and accuracy of 0.95
+Iteration 60160: with minibatch training loss = 0.265 and accuracy of 0.91
+Epoch 154, Train loss: 0.239 and Train accuracy of 0.914, Test loss: 0.649 and Test accuracy of 0.803
+Iteration 60288: with minibatch training loss = 0.195 and accuracy of 0.92
+Iteration 60416: with minibatch training loss = 0.158 and accuracy of 0.95
+Iteration 60544: with minibatch training loss = 0.174 and accuracy of 0.92
+Epoch 155, Train loss: 0.235 and Train accuracy of 0.916, Test loss: 0.636 and Test accuracy of 0.803
+Iteration 60672: with minibatch training loss = 0.196 and accuracy of 0.94
+Iteration 60800: with minibatch training loss = 0.213 and accuracy of 0.91
+Iteration 60928: with minibatch training loss = 0.23 and accuracy of 0.91
+Epoch 156, Train loss: 0.234 and Train accuracy of 0.916, Test loss: 0.645 and Test accuracy of 0.805
+Iteration 61056: with minibatch training loss = 0.245 and accuracy of 0.91
+Iteration 61184: with minibatch training loss = 0.24 and accuracy of 0.91
+Iteration 61312: with minibatch training loss = 0.289 and accuracy of 0.88
+Epoch 157, Train loss: 0.228 and Train accuracy of 0.918, Test loss: 0.642 and Test accuracy of 0.806
+Iteration 61440: with minibatch training loss = 0.199 and accuracy of 0.95
+Iteration 61568: with minibatch training loss = 0.287 and accuracy of 0.91
+Iteration 61696: with minibatch training loss = 0.304 and accuracy of 0.88
+Epoch 158, Train loss: 0.233 and Train accuracy of 0.916, Test loss: 0.665 and Test accuracy of 0.805
+Iteration 61824: with minibatch training loss = 0.17 and accuracy of 0.95
+Iteration 61952: with minibatch training loss = 0.159 and accuracy of 0.95
+Iteration 62080: with minibatch training loss = 0.131 and accuracy of 0.96
+Epoch 159, Train loss: 0.231 and Train accuracy of 0.917, Test loss: 0.642 and Test accuracy of 0.807
+Iteration 62208: with minibatch training loss = 0.221 and accuracy of 0.93
+Iteration 62336: with minibatch training loss = 0.221 and accuracy of 0.9
+Iteration 62464: with minibatch training loss = 0.315 and accuracy of 0.89
+Epoch 160, Train loss: 0.227 and Train accuracy of 0.918, Test loss: 0.654 and Test accuracy of 0.805
+Iteration 62592: with minibatch training loss = 0.239 and accuracy of 0.88
+Iteration 62720: with minibatch training loss = 0.179 and accuracy of 0.91
+Iteration 62848: with minibatch training loss = 0.27 and accuracy of 0.9
+Epoch 161, Train loss: 0.224 and Train accuracy of 0.917, Test loss: 0.657 and Test accuracy of 0.806
+Iteration 62976: with minibatch training loss = 0.0778 and accuracy of 0.98
+Iteration 63104: with minibatch training loss = 0.197 and accuracy of 0.91
+Iteration 63232: with minibatch training loss = 0.39 and accuracy of 0.88
+Epoch 162, Train loss: 0.224 and Train accuracy of 0.918, Test loss: 0.644 and Test accuracy of 0.805
+Iteration 63360: with minibatch training loss = 0.19 and accuracy of 0.93
+Iteration 63488: with minibatch training loss = 0.145 and accuracy of 0.95
+Iteration 63616: with minibatch training loss = 0.107 and accuracy of 0.98
+Epoch 163, Train loss: 0.222 and Train accuracy of 0.919, Test loss: 0.657 and Test accuracy of 0.805
+Iteration 63744: with minibatch training loss = 0.128 and accuracy of 0.98
+Iteration 63872: with minibatch training loss = 0.277 and accuracy of 0.93
+Iteration 64000: with minibatch training loss = 0.192 and accuracy of 0.94
+Epoch 164, Train loss: 0.214 and Train accuracy of 0.923, Test loss: 0.657 and Test accuracy of 0.804
+Iteration 64128: with minibatch training loss = 0.254 and accuracy of 0.91
+Iteration 64256: with minibatch training loss = 0.2 and accuracy of 0.92
+Iteration 64384: with minibatch training loss = 0.339 and accuracy of 0.89
+Iteration 64512: with minibatch training loss = 0.164 and accuracy of 0.91
+Epoch 165, Train loss: 0.218 and Train accuracy of 0.921, Test loss: 0.671 and Test accuracy of 0.804
+Iteration 64640: with minibatch training loss = 0.208 and accuracy of 0.92
+Iteration 64768: with minibatch training loss = 0.262 and accuracy of 0.9
+Iteration 64896: with minibatch training loss = 0.155 and accuracy of 0.92
+Epoch 166, Train loss: 0.214 and Train accuracy of 0.922, Test loss: 0.66 and Test accuracy of 0.803
+Iteration 65024: with minibatch training loss = 0.206 and accuracy of 0.92
+Iteration 65152: with minibatch training loss = 0.211 and accuracy of 0.9
+Iteration 65280: with minibatch training loss = 0.305 and accuracy of 0.88
+Epoch 167, Train loss: 0.215 and Train accuracy of 0.922, Test loss: 0.652 and Test accuracy of 0.805
+Iteration 65408: with minibatch training loss = 0.27 and accuracy of 0.92
+Iteration 65536: with minibatch training loss = 0.2 and accuracy of 0.91
+Iteration 65664: with minibatch training loss = 0.176 and accuracy of 0.95
+Epoch 168, Train loss: 0.211 and Train accuracy of 0.923, Test loss: 0.663 and Test accuracy of 0.805
+Iteration 65792: with minibatch training loss = 0.195 and accuracy of 0.92
+Iteration 65920: with minibatch training loss = 0.329 and accuracy of 0.88
+Iteration 66048: with minibatch training loss = 0.161 and accuracy of 0.95
+Epoch 169, Train loss: 0.21 and Train accuracy of 0.926, Test loss: 0.687 and Test accuracy of 0.803
+Iteration 66176: with minibatch training loss = 0.154 and accuracy of 0.94
+Iteration 66304: with minibatch training loss = 0.161 and accuracy of 0.95
+Iteration 66432: with minibatch training loss = 0.196 and accuracy of 0.93
+Epoch 170, Train loss: 0.208 and Train accuracy of 0.925, Test loss: 0.661 and Test accuracy of 0.804
+Iteration 66560: with minibatch training loss = 0.199 and accuracy of 0.92
+Iteration 66688: with minibatch training loss = 0.209 and accuracy of 0.93
+Iteration 66816: with minibatch training loss = 0.158 and accuracy of 0.94
+Epoch 171, Train loss: 0.206 and Train accuracy of 0.925, Test loss: 0.662 and Test accuracy of 0.803
+Iteration 66944: with minibatch training loss = 0.222 and accuracy of 0.91
+Iteration 67072: with minibatch training loss = 0.16 and accuracy of 0.92
+Iteration 67200: with minibatch training loss = 0.161 and accuracy of 0.95
+Epoch 172, Train loss: 0.208 and Train accuracy of 0.925, Test loss: 0.659 and Test accuracy of 0.804
+Iteration 67328: with minibatch training loss = 0.196 and accuracy of 0.92
+Iteration 67456: with minibatch training loss = 0.191 and accuracy of 0.9
+Iteration 67584: with minibatch training loss = 0.248 and accuracy of 0.91
+Epoch 173, Train loss: 0.206 and Train accuracy of 0.924, Test loss: 0.674 and Test accuracy of 0.806
+Iteration 67712: with minibatch training loss = 0.16 and accuracy of 0.93
+Iteration 67840: with minibatch training loss = 0.231 and accuracy of 0.88
+Iteration 67968: with minibatch training loss = 0.208 and accuracy of 0.94
+Epoch 174, Train loss: 0.201 and Train accuracy of 0.927, Test loss: 0.666 and Test accuracy of 0.807
+Iteration 68096: with minibatch training loss = 0.0948 and accuracy of 0.96
+Iteration 68224: with minibatch training loss = 0.135 and accuracy of 0.95
+Iteration 68352: with minibatch training loss = 0.144 and accuracy of 0.95
+Epoch 175, Train loss: 0.198 and Train accuracy of 0.929, Test loss: 0.665 and Test accuracy of 0.808
+Iteration 68480: with minibatch training loss = 0.213 and accuracy of 0.91
+Iteration 68608: with minibatch training loss = 0.266 and accuracy of 0.91
+Iteration 68736: with minibatch training loss = 0.206 and accuracy of 0.94
+Epoch 176, Train loss: 0.201 and Train accuracy of 0.928, Test loss: 0.679 and Test accuracy of 0.805
+Iteration 68864: with minibatch training loss = 0.197 and accuracy of 0.94
+Iteration 68992: with minibatch training loss = 0.138 and accuracy of 0.93
+Iteration 69120: with minibatch training loss = 0.207 and accuracy of 0.94
+Epoch 177, Train loss: 0.203 and Train accuracy of 0.926, Test loss: 0.667 and Test accuracy of 0.808
+Iteration 69248: with minibatch training loss = 0.13 and accuracy of 0.96
+Iteration 69376: with minibatch training loss = 0.303 and accuracy of 0.89
+Iteration 69504: with minibatch training loss = 0.243 and accuracy of 0.9
+Epoch 178, Train loss: 0.199 and Train accuracy of 0.929, Test loss: 0.665 and Test accuracy of 0.808
+Iteration 69632: with minibatch training loss = 0.227 and accuracy of 0.94
+Iteration 69760: with minibatch training loss = 0.182 and accuracy of 0.95
+Iteration 69888: with minibatch training loss = 0.15 and accuracy of 0.95
+Epoch 179, Train loss: 0.194 and Train accuracy of 0.931, Test loss: 0.668 and Test accuracy of 0.803
+Iteration 70016: with minibatch training loss = 0.159 and accuracy of 0.94
+Iteration 70144: with minibatch training loss = 0.115 and accuracy of 0.98
+Iteration 70272: with minibatch training loss = 0.212 and accuracy of 0.92
+Epoch 180, Train loss: 0.193 and Train accuracy of 0.93, Test loss: 0.666 and Test accuracy of 0.807
+Iteration 70400: with minibatch training loss = 0.193 and accuracy of 0.91
+Iteration 70528: with minibatch training loss = 0.255 and accuracy of 0.92
+Iteration 70656: with minibatch training loss = 0.218 and accuracy of 0.93
+Epoch 181, Train loss: 0.196 and Train accuracy of 0.929, Test loss: 0.669 and Test accuracy of 0.804
+Iteration 70784: with minibatch training loss = 0.23 and accuracy of 0.91
+Iteration 70912: with minibatch training loss = 0.155 and accuracy of 0.93
+Iteration 71040: with minibatch training loss = 0.239 and accuracy of 0.93
+Epoch 182, Train loss: 0.191 and Train accuracy of 0.931, Test loss: 0.669 and Test accuracy of 0.805
+Iteration 71168: with minibatch training loss = 0.211 and accuracy of 0.91
+Iteration 71296: with minibatch training loss = 0.239 and accuracy of 0.94
+Iteration 71424: with minibatch training loss = 0.177 and accuracy of 0.93
+Iteration 71552: with minibatch training loss = 0.052 and accuracy of 0.99
+Epoch 183, Train loss: 0.188 and Train accuracy of 0.932, Test loss: 0.675 and Test accuracy of 0.804
+Iteration 71680: with minibatch training loss = 0.203 and accuracy of 0.91
+Iteration 71808: with minibatch training loss = 0.167 and accuracy of 0.95
+Iteration 71936: with minibatch training loss = 0.143 and accuracy of 0.95
+Epoch 184, Train loss: 0.191 and Train accuracy of 0.931, Test loss: 0.686 and Test accuracy of 0.805
+Iteration 72064: with minibatch training loss = 0.202 and accuracy of 0.95
+Iteration 72192: with minibatch training loss = 0.244 and accuracy of 0.9
+Iteration 72320: with minibatch training loss = 0.201 and accuracy of 0.94
+Epoch 185, Train loss: 0.186 and Train accuracy of 0.934, Test loss: 0.669 and Test accuracy of 0.809
+Iteration 72448: with minibatch training loss = 0.18 and accuracy of 0.95
+Iteration 72576: with minibatch training loss = 0.164 and accuracy of 0.91
+Iteration 72704: with minibatch training loss = 0.186 and accuracy of 0.93
+Epoch 186, Train loss: 0.19 and Train accuracy of 0.931, Test loss: 0.664 and Test accuracy of 0.808
+Iteration 72832: with minibatch training loss = 0.19 and accuracy of 0.95
+Iteration 72960: with minibatch training loss = 0.136 and accuracy of 0.93
+Iteration 73088: with minibatch training loss = 0.182 and accuracy of 0.94
+Epoch 187, Train loss: 0.187 and Train accuracy of 0.934, Test loss: 0.687 and Test accuracy of 0.808
+Iteration 73216: with minibatch training loss = 0.179 and accuracy of 0.95
+Iteration 73344: with minibatch training loss = 0.109 and accuracy of 0.96
+Iteration 73472: with minibatch training loss = 0.189 and accuracy of 0.95
+Epoch 188, Train loss: 0.182 and Train accuracy of 0.935, Test loss: 0.689 and Test accuracy of 0.807
+Iteration 73600: with minibatch training loss = 0.178 and accuracy of 0.93
+Iteration 73728: with minibatch training loss = 0.227 and accuracy of 0.91
+Iteration 73856: with minibatch training loss = 0.18 and accuracy of 0.95
+Epoch 189, Train loss: 0.188 and Train accuracy of 0.932, Test loss: 0.678 and Test accuracy of 0.808
+Iteration 73984: with minibatch training loss = 0.137 and accuracy of 0.95
+Iteration 74112: with minibatch training loss = 0.15 and accuracy of 0.95
+Iteration 74240: with minibatch training loss = 0.244 and accuracy of 0.93
+Epoch 190, Train loss: 0.179 and Train accuracy of 0.936, Test loss: 0.67 and Test accuracy of 0.808
+Iteration 74368: with minibatch training loss = 0.184 and accuracy of 0.92
+Iteration 74496: with minibatch training loss = 0.23 and accuracy of 0.9
+Iteration 74624: with minibatch training loss = 0.129 and accuracy of 0.95
+Epoch 191, Train loss: 0.182 and Train accuracy of 0.935, Test loss: 0.676 and Test accuracy of 0.806
+Iteration 74752: with minibatch training loss = 0.145 and accuracy of 0.95
+Iteration 74880: with minibatch training loss = 0.196 and accuracy of 0.93
+Iteration 75008: with minibatch training loss = 0.217 and accuracy of 0.93
+Epoch 192, Train loss: 0.177 and Train accuracy of 0.937, Test loss: 0.677 and Test accuracy of 0.805
+Iteration 75136: with minibatch training loss = 0.167 and accuracy of 0.94
+Iteration 75264: with minibatch training loss = 0.104 and accuracy of 0.97
+Iteration 75392: with minibatch training loss = 0.235 and accuracy of 0.91
+Epoch 193, Train loss: 0.18 and Train accuracy of 0.935, Test loss: 0.681 and Test accuracy of 0.807
+Iteration 75520: with minibatch training loss = 0.21 and accuracy of 0.94
+Iteration 75648: with minibatch training loss = 0.21 and accuracy of 0.91
+Iteration 75776: with minibatch training loss = 0.121 and accuracy of 0.95
+Epoch 194, Train loss: 0.182 and Train accuracy of 0.934, Test loss: 0.681 and Test accuracy of 0.807
+Iteration 75904: with minibatch training loss = 0.174 and accuracy of 0.96
+Iteration 76032: with minibatch training loss = 0.172 and accuracy of 0.92
+Iteration 76160: with minibatch training loss = 0.147 and accuracy of 0.95
+Epoch 195, Train loss: 0.177 and Train accuracy of 0.936, Test loss: 0.672 and Test accuracy of 0.809
+Iteration 76288: with minibatch training loss = 0.146 and accuracy of 0.96
+Iteration 76416: with minibatch training loss = 0.226 and accuracy of 0.93
+Iteration 76544: with minibatch training loss = 0.217 and accuracy of 0.91
+Epoch 196, Train loss: 0.173 and Train accuracy of 0.938, Test loss: 0.666 and Test accuracy of 0.81
+Iteration 76672: with minibatch training loss = 0.18 and accuracy of 0.94
+Iteration 76800: with minibatch training loss = 0.202 and accuracy of 0.93
+Iteration 76928: with minibatch training loss = 0.214 and accuracy of 0.92
+Epoch 197, Train loss: 0.175 and Train accuracy of 0.938, Test loss: 0.676 and Test accuracy of 0.805
+Iteration 77056: with minibatch training loss = 0.109 and accuracy of 0.95
+Iteration 77184: with minibatch training loss = 0.153 and accuracy of 0.95
+Iteration 77312: with minibatch training loss = 0.186 and accuracy of 0.94
+Epoch 198, Train loss: 0.176 and Train accuracy of 0.937, Test loss: 0.687 and Test accuracy of 0.804
+Iteration 77440: with minibatch training loss = 0.278 and accuracy of 0.95
+Iteration 77568: with minibatch training loss = 0.144 and accuracy of 0.94
+Iteration 77696: with minibatch training loss = 0.176 and accuracy of 0.95
+Epoch 199, Train loss: 0.173 and Train accuracy of 0.937, Test loss: 0.688 and Test accuracy of 0.806
+Iteration 77824: with minibatch training loss = 0.188 and accuracy of 0.95
+Iteration 77952: with minibatch training loss = 0.264 and accuracy of 0.93
+Iteration 78080: with minibatch training loss = 0.165 and accuracy of 0.97
+Epoch 200, Train loss: 0.176 and Train accuracy of 0.937, Test loss: 0.675 and Test accuracy of 0.806
+0:21:38.194687

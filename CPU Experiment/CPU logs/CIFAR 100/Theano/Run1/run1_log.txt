@@ -1,0 +1,519 @@
+Loading data...
+Building model and compiling functions...
+/home/centos/anaconda3/envs/Theano1/lib/python3.5/site-packages/lasagne/layers/conv.py:460: UserWarning: The `image_shape` keyword argument to `tensor.nnet.conv2d` is deprecated, it has been renamed to `input_shape`.
+  border_mode='full')
+/home/centos/anaconda3/envs/Theano1/lib/python3.5/site-packages/lasagne/layers/conv.py:489: UserWarning: The `image_shape` keyword argument to `tensor.nnet.conv2d` is deprecated, it has been renamed to `input_shape`.
+  border_mode=border_mode)
+/home/centos/anaconda3/envs/Theano1/lib/python3.5/site-packages/lasagne/layers/conv.py:460: UserWarning: The `image_shape` keyword argument to `tensor.nnet.conv2d` is deprecated, it has been renamed to `input_shape`.
+  border_mode='full')
+/home/centos/anaconda3/envs/Theano1/lib/python3.5/site-packages/lasagne/layers/conv.py:489: UserWarning: The `image_shape` keyword argument to `tensor.nnet.conv2d` is deprecated, it has been renamed to `input_shape`.
+  border_mode=border_mode)
+CIFAR100 Training Started.....
+Epoch( 0 ) Batch( 1 ) 4.60340963887
+Epoch( 0 ) Batch( 129 ) 594.089695775
+Epoch( 0 ) Batch( 257 ) 1183.42217164
+Epoch( 0 ) Batch( 385 ) 1772.70956375
+  training loss:		4.604405
+Epoch( 1 ) Batch( 1 ) 4.60033483629
+Epoch( 1 ) Batch( 129 ) 593.684091231
+Epoch( 1 ) Batch( 257 ) 1182.51591967
+Epoch( 1 ) Batch( 385 ) 1770.33737136
+  training loss:		4.597989
+Epoch( 2 ) Batch( 1 ) 4.57463952021
+Epoch( 2 ) Batch( 129 ) 590.467143472
+Epoch( 2 ) Batch( 257 ) 1173.47908236
+Epoch( 2 ) Batch( 385 ) 1753.50458013
+  training loss:		4.554111
+Epoch( 3 ) Batch( 1 ) 4.54857088876
+Epoch( 3 ) Batch( 129 ) 578.833064789
+Epoch( 3 ) Batch( 257 ) 1143.74139646
+Epoch( 3 ) Batch( 385 ) 1701.22853693
+  training loss:		4.417946
+Epoch( 4 ) Batch( 1 ) 4.36728934531
+Epoch( 4 ) Batch( 129 ) 553.749891132
+Epoch( 4 ) Batch( 257 ) 1096.9070707
+Epoch( 4 ) Batch( 385 ) 1636.03123118
+  training loss:		4.249047
+Epoch( 5 ) Batch( 1 ) 4.12943403365
+Epoch( 5 ) Batch( 129 ) 537.436268841
+Epoch( 5 ) Batch( 257 ) 1063.3834729
+Epoch( 5 ) Batch( 385 ) 1586.80190022
+  training loss:		4.122174
+Epoch( 6 ) Batch( 1 ) 4.01249785931
+Epoch( 6 ) Batch( 129 ) 521.824274949
+Epoch( 6 ) Batch( 257 ) 1037.26949297
+Epoch( 6 ) Batch( 385 ) 1548.89556562
+  training loss:		4.023138
+Epoch( 7 ) Batch( 1 ) 3.9331838624
+Epoch( 7 ) Batch( 129 ) 511.597943166
+Epoch( 7 ) Batch( 257 ) 1016.36618075
+Epoch( 7 ) Batch( 385 ) 1517.71024481
+  training loss:		3.941111
+Epoch( 8 ) Batch( 1 ) 3.85542830989
+Epoch( 8 ) Batch( 129 ) 503.002949613
+Epoch( 8 ) Batch( 257 ) 998.426712823
+Epoch( 8 ) Batch( 385 ) 1491.17474213
+  training loss:		3.873368
+Epoch( 9 ) Batch( 1 ) 3.79043436691
+Epoch( 9 ) Batch( 129 ) 493.927259309
+Epoch( 9 ) Batch( 257 ) 980.820319066
+Epoch( 9 ) Batch( 385 ) 1465.97128321
+  training loss:		3.807903
+Epoch( 10 ) Batch( 1 ) 3.77244694194
+Epoch( 10 ) Batch( 129 ) 484.868179058
+Epoch( 10 ) Batch( 257 ) 963.66183544
+Epoch( 10 ) Batch( 385 ) 1441.51119813
+  training loss:		3.744345
+Epoch( 11 ) Batch( 1 ) 3.83888997768
+Epoch( 11 ) Batch( 129 ) 478.420473507
+Epoch( 11 ) Batch( 257 ) 948.513916819
+Epoch( 11 ) Batch( 385 ) 1417.25193888
+  training loss:		3.681156
+Epoch( 12 ) Batch( 1 ) 3.51595495991
+Epoch( 12 ) Batch( 129 ) 467.482628636
+Epoch( 12 ) Batch( 257 ) 930.146325496
+Epoch( 12 ) Batch( 385 ) 1389.96693649
+  training loss:		3.610438
+Epoch( 13 ) Batch( 1 ) 3.58952787411
+Epoch( 13 ) Batch( 129 ) 460.010306414
+Epoch( 13 ) Batch( 257 ) 913.713145848
+Epoch( 13 ) Batch( 385 ) 1366.24504104
+  training loss:		3.546515
+Epoch( 14 ) Batch( 1 ) 3.52059644688
+Epoch( 14 ) Batch( 129 ) 450.538032894
+Epoch( 14 ) Batch( 257 ) 894.600574834
+Epoch( 14 ) Batch( 385 ) 1340.8909506
+  training loss:		3.482178
+Epoch( 15 ) Batch( 1 ) 3.30526200404
+Epoch( 15 ) Batch( 129 ) 440.67684334
+Epoch( 15 ) Batch( 257 ) 877.181560547
+Epoch( 15 ) Batch( 385 ) 1313.55535648
+  training loss:		3.412183
+Epoch( 16 ) Batch( 1 ) 3.32791561206
+Epoch( 16 ) Batch( 129 ) 434.45231143
+Epoch( 16 ) Batch( 257 ) 864.372301297
+Epoch( 16 ) Batch( 385 ) 1290.67491217
+  training loss:		3.351478
+Epoch( 17 ) Batch( 1 ) 3.40599429878
+Epoch( 17 ) Batch( 129 ) 426.139749738
+Epoch( 17 ) Batch( 257 ) 846.929685143
+Epoch( 17 ) Batch( 385 ) 1264.68849622
+  training loss:		3.285865
+Epoch( 18 ) Batch( 1 ) 3.2334413648
+Epoch( 18 ) Batch( 129 ) 417.931841025
+Epoch( 18 ) Batch( 257 ) 831.03025009
+Epoch( 18 ) Batch( 385 ) 1241.50942999
+  training loss:		3.225126
+Epoch( 19 ) Batch( 1 ) 3.33852069435
+Epoch( 19 ) Batch( 129 ) 408.58469547
+Epoch( 19 ) Batch( 257 ) 813.229175327
+Epoch( 19 ) Batch( 385 ) 1217.14187618
+  training loss:		3.162910
+Epoch( 20 ) Batch( 1 ) 2.9879167521
+Epoch( 20 ) Batch( 129 ) 404.76576212
+Epoch( 20 ) Batch( 257 ) 801.957114013
+Epoch( 20 ) Batch( 385 ) 1197.52932139
+  training loss:		3.109769
+Epoch( 21 ) Batch( 1 ) 3.22404718564
+Epoch( 21 ) Batch( 129 ) 395.377274203
+Epoch( 21 ) Batch( 257 ) 787.937907047
+Epoch( 21 ) Batch( 385 ) 1176.57940035
+  training loss:		3.056620
+Epoch( 22 ) Batch( 1 ) 3.25213061508
+Epoch( 22 ) Batch( 129 ) 388.975728463
+Epoch( 22 ) Batch( 257 ) 774.792791532
+Epoch( 22 ) Batch( 385 ) 1157.32542125
+  training loss:		3.007170
+Epoch( 23 ) Batch( 1 ) 2.91335568019
+Epoch( 23 ) Batch( 129 ) 381.389718087
+Epoch( 23 ) Batch( 257 ) 758.058345109
+Epoch( 23 ) Batch( 385 ) 1134.32010118
+  training loss:		2.946313
+Epoch( 24 ) Batch( 1 ) 3.06577498658
+Epoch( 24 ) Batch( 129 ) 374.392018269
+Epoch( 24 ) Batch( 257 ) 746.702424858
+Epoch( 24 ) Batch( 385 ) 1116.52635747
+  training loss:		2.898630
+Epoch( 25 ) Batch( 1 ) 2.92937021265
+Epoch( 25 ) Batch( 129 ) 367.217118557
+Epoch( 25 ) Batch( 257 ) 732.410928691
+Epoch( 25 ) Batch( 385 ) 1095.19209964
+  training loss:		2.845490
+Epoch( 26 ) Batch( 1 ) 3.05484588206
+Epoch( 26 ) Batch( 129 ) 360.049588286
+Epoch( 26 ) Batch( 257 ) 715.415404391
+Epoch( 26 ) Batch( 385 ) 1074.4435086
+  training loss:		2.790760
+Epoch( 27 ) Batch( 1 ) 2.74374229958
+Epoch( 27 ) Batch( 129 ) 355.156608216
+Epoch( 27 ) Batch( 257 ) 707.124286349
+Epoch( 27 ) Batch( 385 ) 1057.00319763
+  training loss:		2.744970
+Epoch( 28 ) Batch( 1 ) 2.79237473123
+Epoch( 28 ) Batch( 129 ) 348.484226518
+Epoch( 28 ) Batch( 257 ) 696.179199553
+Epoch( 28 ) Batch( 385 ) 1040.45048463
+  training loss:		2.701803
+Epoch( 29 ) Batch( 1 ) 2.86472377086
+Epoch( 29 ) Batch( 129 ) 343.532205638
+Epoch( 29 ) Batch( 257 ) 684.558509023
+Epoch( 29 ) Batch( 385 ) 1020.34720686
+  training loss:		2.650412
+Epoch( 30 ) Batch( 1 ) 2.91315991102
+Epoch( 30 ) Batch( 129 ) 336.101380376
+Epoch( 30 ) Batch( 257 ) 668.196641801
+Epoch( 30 ) Batch( 385 ) 1001.23299573
+  training loss:		2.601486
+Epoch( 31 ) Batch( 1 ) 2.56427482745
+Epoch( 31 ) Batch( 129 ) 331.228106959
+Epoch( 31 ) Batch( 257 ) 658.05380242
+Epoch( 31 ) Batch( 385 ) 986.171187498
+  training loss:		2.561359
+Epoch( 32 ) Batch( 1 ) 2.53298207179
+Epoch( 32 ) Batch( 129 ) 322.816582994
+Epoch( 32 ) Batch( 257 ) 645.793100571
+Epoch( 32 ) Batch( 385 ) 968.874871075
+  training loss:		2.517526
+Epoch( 33 ) Batch( 1 ) 2.57461672204
+Epoch( 33 ) Batch( 129 ) 317.602639975
+Epoch( 33 ) Batch( 257 ) 632.02569953
+Epoch( 33 ) Batch( 385 ) 949.580815363
+  training loss:		2.466778
+Epoch( 34 ) Batch( 1 ) 2.47155250942
+Epoch( 34 ) Batch( 129 ) 312.768905264
+Epoch( 34 ) Batch( 257 ) 623.820206416
+Epoch( 34 ) Batch( 385 ) 934.478876494
+  training loss:		2.425621
+Epoch( 35 ) Batch( 1 ) 2.65880712608
+Epoch( 35 ) Batch( 129 ) 307.193605396
+Epoch( 35 ) Batch( 257 ) 613.511269313
+Epoch( 35 ) Batch( 385 ) 916.426692441
+  training loss:		2.381323
+Epoch( 36 ) Batch( 1 ) 2.49373178979
+Epoch( 36 ) Batch( 129 ) 301.605400516
+Epoch( 36 ) Batch( 257 ) 600.858427967
+Epoch( 36 ) Batch( 385 ) 899.125802954
+  training loss:		2.334207
+Epoch( 37 ) Batch( 1 ) 2.37553094707
+Epoch( 37 ) Batch( 129 ) 294.193182383
+Epoch( 37 ) Batch( 257 ) 588.06559411
+Epoch( 37 ) Batch( 385 ) 882.392653282
+  training loss:		2.291204
+Epoch( 38 ) Batch( 1 ) 2.14893002824
+Epoch( 38 ) Batch( 129 ) 288.664376656
+Epoch( 38 ) Batch( 257 ) 577.002805669
+Epoch( 38 ) Batch( 385 ) 864.68171691
+  training loss:		2.246031
+Epoch( 39 ) Batch( 1 ) 2.23340079498
+Epoch( 39 ) Batch( 129 ) 283.780933321
+Epoch( 39 ) Batch( 257 ) 567.801843048
+Epoch( 39 ) Batch( 385 ) 848.135358782
+  training loss:		2.203818
+Epoch( 40 ) Batch( 1 ) 2.02337811045
+Epoch( 40 ) Batch( 129 ) 280.893937807
+Epoch( 40 ) Batch( 257 ) 557.602940749
+Epoch( 40 ) Batch( 385 ) 836.248830586
+  training loss:		2.170292
+Epoch( 41 ) Batch( 1 ) 2.01028022497
+Epoch( 41 ) Batch( 129 ) 274.125851091
+Epoch( 41 ) Batch( 257 ) 545.418490245
+Epoch( 41 ) Batch( 385 ) 819.458812951
+  training loss:		2.129256
+Epoch( 42 ) Batch( 1 ) 2.08988254646
+Epoch( 42 ) Batch( 129 ) 268.93487836
+Epoch( 42 ) Batch( 257 ) 536.006670735
+Epoch( 42 ) Batch( 385 ) 803.513447558
+  training loss:		2.088085
+Epoch( 43 ) Batch( 1 ) 2.10879691586
+Epoch( 43 ) Batch( 129 ) 261.90557004
+Epoch( 43 ) Batch( 257 ) 523.865336416
+Epoch( 43 ) Batch( 385 ) 786.494066688
+  training loss:		2.043400
+Epoch( 44 ) Batch( 1 ) 2.34650391174
+Epoch( 44 ) Batch( 129 ) 260.766604402
+Epoch( 44 ) Batch( 257 ) 519.125892153
+Epoch( 44 ) Batch( 385 ) 772.964762829
+  training loss:		2.008127
+Epoch( 45 ) Batch( 1 ) 1.79794295145
+Epoch( 45 ) Batch( 129 ) 251.216198867
+Epoch( 45 ) Batch( 257 ) 502.139804017
+Epoch( 45 ) Batch( 385 ) 756.935639451
+  training loss:		1.965563
+Epoch( 46 ) Batch( 1 ) 1.62682903811
+Epoch( 46 ) Batch( 129 ) 247.178610681
+Epoch( 46 ) Batch( 257 ) 495.177535643
+Epoch( 46 ) Batch( 385 ) 743.263402365
+  training loss:		1.929652
+Epoch( 47 ) Batch( 1 ) 1.8603722381
+Epoch( 47 ) Batch( 129 ) 240.374979892
+Epoch( 47 ) Batch( 257 ) 480.277810604
+Epoch( 47 ) Batch( 385 ) 723.539749603
+  training loss:		1.880836
+Epoch( 48 ) Batch( 1 ) 1.74593312968
+Epoch( 48 ) Batch( 129 ) 236.898579684
+Epoch( 48 ) Batch( 257 ) 474.400663548
+Epoch( 48 ) Batch( 385 ) 710.909730747
+  training loss:		1.847889
+Epoch( 49 ) Batch( 1 ) 1.50973801893
+Epoch( 49 ) Batch( 129 ) 232.877833492
+Epoch( 49 ) Batch( 257 ) 465.101209404
+Epoch( 49 ) Batch( 385 ) 697.709090683
+  training loss:		1.811631
+Epoch( 50 ) Batch( 1 ) 1.58226990032
+Epoch( 50 ) Batch( 129 ) 226.821850283
+Epoch( 50 ) Batch( 257 ) 454.579961603
+Epoch( 50 ) Batch( 385 ) 681.991098831
+  training loss:		1.771057
+Epoch( 51 ) Batch( 1 ) 1.62204237393
+Epoch( 51 ) Batch( 129 ) 225.234925023
+Epoch( 51 ) Batch( 257 ) 447.58171935
+Epoch( 51 ) Batch( 385 ) 672.96325085
+  training loss:		1.750874
+Epoch( 52 ) Batch( 1 ) 1.47826911441
+Epoch( 52 ) Batch( 129 ) 216.612372056
+Epoch( 52 ) Batch( 257 ) 434.488361784
+Epoch( 52 ) Batch( 385 ) 657.151125997
+  training loss:		1.707262
+Epoch( 53 ) Batch( 1 ) 1.5061871335
+Epoch( 53 ) Batch( 129 ) 215.754799924
+Epoch( 53 ) Batch( 257 ) 428.530910182
+Epoch( 53 ) Batch( 385 ) 643.077540162
+  training loss:		1.671373
+Epoch( 54 ) Batch( 1 ) 1.44028145163
+Epoch( 54 ) Batch( 129 ) 207.845590213
+Epoch( 54 ) Batch( 257 ) 415.62820817
+Epoch( 54 ) Batch( 385 ) 626.510084469
+  training loss:		1.627735
+Epoch( 55 ) Batch( 1 ) 1.56526622781
+Epoch( 55 ) Batch( 129 ) 203.899106582
+Epoch( 55 ) Batch( 257 ) 407.835040955
+Epoch( 55 ) Batch( 385 ) 613.726199285
+  training loss:		1.594652
+Epoch( 56 ) Batch( 1 ) 1.64946641615
+Epoch( 56 ) Batch( 129 ) 199.843995486
+Epoch( 56 ) Batch( 257 ) 399.395036972
+Epoch( 56 ) Batch( 385 ) 599.926090425
+  training loss:		1.559653
+Epoch( 57 ) Batch( 1 ) 1.42861033658
+Epoch( 57 ) Batch( 129 ) 193.920231873
+Epoch( 57 ) Batch( 257 ) 389.980087054
+Epoch( 57 ) Batch( 385 ) 587.098401285
+  training loss:		1.523584
+Epoch( 58 ) Batch( 1 ) 1.4119844093
+Epoch( 58 ) Batch( 129 ) 190.75737493
+Epoch( 58 ) Batch( 257 ) 379.964254356
+Epoch( 58 ) Batch( 385 ) 572.791092017
+  training loss:		1.487910
+Epoch( 59 ) Batch( 1 ) 1.43536462799
+Epoch( 59 ) Batch( 129 ) 186.719693907
+Epoch( 59 ) Batch( 257 ) 370.630593443
+Epoch( 59 ) Batch( 385 ) 560.556088294
+  training loss:		1.456723
+Epoch( 60 ) Batch( 1 ) 1.59797874695
+Epoch( 60 ) Batch( 129 ) 180.254825281
+Epoch( 60 ) Batch( 257 ) 363.003483994
+Epoch( 60 ) Batch( 385 ) 545.179060576
+  training loss:		1.415444
+Epoch( 61 ) Batch( 1 ) 1.41662908377
+Epoch( 61 ) Batch( 129 ) 177.534870147
+Epoch( 61 ) Batch( 257 ) 355.371707613
+Epoch( 61 ) Batch( 385 ) 534.485769624
+  training loss:		1.388353
+Epoch( 62 ) Batch( 1 ) 1.2903012464
+Epoch( 62 ) Batch( 129 ) 172.189664857
+Epoch( 62 ) Batch( 257 ) 345.188576552
+Epoch( 62 ) Batch( 385 ) 522.252375678
+  training loss:		1.355926
+Epoch( 63 ) Batch( 1 ) 1.44005199338
+Epoch( 63 ) Batch( 129 ) 168.857489734
+Epoch( 63 ) Batch( 257 ) 338.617040353
+Epoch( 63 ) Batch( 385 ) 509.839093436
+  training loss:		1.325528
+Epoch( 64 ) Batch( 1 ) 1.3935362408
+Epoch( 64 ) Batch( 129 ) 163.13557127
+Epoch( 64 ) Batch( 257 ) 330.144114433
+Epoch( 64 ) Batch( 385 ) 497.073668301
+  training loss:		1.292897
+Epoch( 65 ) Batch( 1 ) 1.31386829552
+Epoch( 65 ) Batch( 129 ) 161.123333281
+Epoch( 65 ) Batch( 257 ) 323.230223772
+Epoch( 65 ) Batch( 385 ) 485.636158881
+  training loss:		1.261536
+Epoch( 66 ) Batch( 1 ) 0.976571620239
+Epoch( 66 ) Batch( 129 ) 154.87987384
+Epoch( 66 ) Batch( 257 ) 312.277527312
+Epoch( 66 ) Batch( 385 ) 472.698492027
+  training loss:		1.228152
+Epoch( 67 ) Batch( 1 ) 0.983503352403
+Epoch( 67 ) Batch( 129 ) 152.946732737
+Epoch( 67 ) Batch( 257 ) 304.482321293
+Epoch( 67 ) Batch( 385 ) 459.266406241
+  training loss:		1.192722
+Epoch( 68 ) Batch( 1 ) 1.22375180841
+Epoch( 68 ) Batch( 129 ) 146.333115373
+Epoch( 68 ) Batch( 257 ) 295.603745788
+Epoch( 68 ) Batch( 385 ) 447.569055232
+  training loss:		1.162246
+Epoch( 69 ) Batch( 1 ) 1.24399730309
+Epoch( 69 ) Batch( 129 ) 144.868818869
+Epoch( 69 ) Batch( 257 ) 292.422492225
+Epoch( 69 ) Batch( 385 ) 439.899484431
+  training loss:		1.142014
+Epoch( 70 ) Batch( 1 ) 1.07807211187
+Epoch( 70 ) Batch( 129 ) 141.311461781
+Epoch( 70 ) Batch( 257 ) 285.664557355
+Epoch( 70 ) Batch( 385 ) 428.187554647
+  training loss:		1.112301
+Epoch( 71 ) Batch( 1 ) 0.925195685412
+Epoch( 71 ) Batch( 129 ) 135.910773481
+Epoch( 71 ) Batch( 257 ) 274.902733704
+Epoch( 71 ) Batch( 385 ) 414.747108876
+  training loss:		1.077494
+Epoch( 72 ) Batch( 1 ) 1.07398283402
+Epoch( 72 ) Batch( 129 ) 132.729288679
+Epoch( 72 ) Batch( 257 ) 268.843147944
+Epoch( 72 ) Batch( 385 ) 404.643558677
+  training loss:		1.050734
+Epoch( 73 ) Batch( 1 ) 0.903211896022
+Epoch( 73 ) Batch( 129 ) 129.771293403
+Epoch( 73 ) Batch( 257 ) 261.371725961
+Epoch( 73 ) Batch( 385 ) 395.941843897
+  training loss:		1.027819
+Epoch( 74 ) Batch( 1 ) 1.00314970936
+Epoch( 74 ) Batch( 129 ) 125.317975869
+Epoch( 74 ) Batch( 257 ) 251.392200102
+Epoch( 74 ) Batch( 385 ) 380.877033337
+  training loss:		0.990452
+Epoch( 75 ) Batch( 1 ) 0.97928405163
+Epoch( 75 ) Batch( 129 ) 121.896292938
+Epoch( 75 ) Batch( 257 ) 246.052250198
+Epoch( 75 ) Batch( 385 ) 371.68410384
+  training loss:		0.966469
+Epoch( 76 ) Batch( 1 ) 0.873587622856
+Epoch( 76 ) Batch( 129 ) 119.369696043
+Epoch( 76 ) Batch( 257 ) 239.457318915
+Epoch( 76 ) Batch( 385 ) 362.836180912
+  training loss:		0.941291
+Epoch( 77 ) Batch( 1 ) 0.666968513638
+Epoch( 77 ) Batch( 129 ) 116.95440546
+Epoch( 77 ) Batch( 257 ) 234.683855128
+Epoch( 77 ) Batch( 385 ) 353.489732833
+  training loss:		0.918105
+Epoch( 78 ) Batch( 1 ) 0.884339759505
+Epoch( 78 ) Batch( 129 ) 114.356651321
+Epoch( 78 ) Batch( 257 ) 230.242299798
+Epoch( 78 ) Batch( 385 ) 345.778827461
+  training loss:		0.897423
+Epoch( 79 ) Batch( 1 ) 0.674005764563
+Epoch( 79 ) Batch( 129 ) 106.794805593
+Epoch( 79 ) Batch( 257 ) 217.71494253
+Epoch( 79 ) Batch( 385 ) 331.300869965
+  training loss:		0.859511
+Epoch( 80 ) Batch( 1 ) 0.796560975333
+Epoch( 80 ) Batch( 129 ) 103.329622342
+Epoch( 80 ) Batch( 257 ) 213.171388756
+Epoch( 80 ) Batch( 385 ) 324.119017016
+  training loss:		0.842088
+Epoch( 81 ) Batch( 1 ) 0.820777005171
+Epoch( 81 ) Batch( 129 ) 101.783217173
+Epoch( 81 ) Batch( 257 ) 207.4491689
+Epoch( 81 ) Batch( 385 ) 314.816436213
+  training loss:		0.819179
+Epoch( 82 ) Batch( 1 ) 0.806256831857
+Epoch( 82 ) Batch( 129 ) 103.426178757
+Epoch( 82 ) Batch( 257 ) 206.260665873
+Epoch( 82 ) Batch( 385 ) 310.222434221
+  training loss:		0.805527
+Epoch( 83 ) Batch( 1 ) 0.66086443567
+Epoch( 83 ) Batch( 129 ) 98.0849825471
+Epoch( 83 ) Batch( 257 ) 198.128875952
+Epoch( 83 ) Batch( 385 ) 298.754812149
+  training loss:		0.775653
+Epoch( 84 ) Batch( 1 ) 0.71103700823
+Epoch( 84 ) Batch( 129 ) 94.7083682619
+Epoch( 84 ) Batch( 257 ) 191.963926389
+Epoch( 84 ) Batch( 385 ) 290.943598005
+  training loss:		0.755705
+Epoch( 85 ) Batch( 1 ) 0.83710290892
+Epoch( 85 ) Batch( 129 ) 92.5729338712
+Epoch( 85 ) Batch( 257 ) 186.210581826
+Epoch( 85 ) Batch( 385 ) 282.368022721
+  training loss:		0.734575
+Epoch( 86 ) Batch( 1 ) 0.70972797125
+Epoch( 86 ) Batch( 129 ) 86.2824815141
+Epoch( 86 ) Batch( 257 ) 180.165112437
+Epoch( 86 ) Batch( 385 ) 274.947579045
+  training loss:		0.715110
+Epoch( 87 ) Batch( 1 ) 0.761703482074
+Epoch( 87 ) Batch( 129 ) 87.948301357
+Epoch( 87 ) Batch( 257 ) 176.25901912
+Epoch( 87 ) Batch( 385 ) 266.866289992
+  training loss:		0.693772
+Epoch( 88 ) Batch( 1 ) 0.773604500187
+Epoch( 88 ) Batch( 129 ) 83.3735224205
+Epoch( 88 ) Batch( 257 ) 170.5394715
+Epoch( 88 ) Batch( 385 ) 259.201129502
+  training loss:		0.673862
+Epoch( 89 ) Batch( 1 ) 0.524130771962
+Epoch( 89 ) Batch( 129 ) 81.7376006951
+Epoch( 89 ) Batch( 257 ) 167.52412957
+Epoch( 89 ) Batch( 385 ) 251.469310791
+  training loss:		0.654443
+Epoch( 90 ) Batch( 1 ) 0.540289666148
+Epoch( 90 ) Batch( 129 ) 79.9878086333
+Epoch( 90 ) Batch( 257 ) 160.500100908
+Epoch( 90 ) Batch( 385 ) 245.24696345
+  training loss:		0.636976
+Epoch( 91 ) Batch( 1 ) 0.560859618585
+Epoch( 91 ) Batch( 129 ) 78.769046677
+Epoch( 91 ) Batch( 257 ) 159.029065541
+Epoch( 91 ) Batch( 385 ) 240.309023806
+  training loss:		0.624978
+Epoch( 92 ) Batch( 1 ) 0.568512272723
+Epoch( 92 ) Batch( 129 ) 75.5818928034
+Epoch( 92 ) Batch( 257 ) 153.415404251
+Epoch( 92 ) Batch( 385 ) 232.177796018
+  training loss:		0.603030
+Epoch( 93 ) Batch( 1 ) 0.621246707283
+Epoch( 93 ) Batch( 129 ) 74.5381483321
+Epoch( 93 ) Batch( 257 ) 149.309760896
+Epoch( 93 ) Batch( 385 ) 225.761280428
+  training loss:		0.587063
+Epoch( 94 ) Batch( 1 ) 0.623481247124
+Epoch( 94 ) Batch( 129 ) 71.3808916304
+Epoch( 94 ) Batch( 257 ) 143.672680284
+Epoch( 94 ) Batch( 385 ) 219.450435944
+  training loss:		0.570998
+Epoch( 95 ) Batch( 1 ) 0.427902301202
+Epoch( 95 ) Batch( 129 ) 69.1588750902
+Epoch( 95 ) Batch( 257 ) 140.063250968
+Epoch( 95 ) Batch( 385 ) 212.813028532
+  training loss:		0.553413
+Epoch( 96 ) Batch( 1 ) 0.557723243955
+Epoch( 96 ) Batch( 129 ) 68.7056580696
+Epoch( 96 ) Batch( 257 ) 138.452716951
+Epoch( 96 ) Batch( 385 ) 211.960873858
+  training loss:		0.550543
+Epoch( 97 ) Batch( 1 ) 0.611501904147
+Epoch( 97 ) Batch( 129 ) 67.0039781336
+Epoch( 97 ) Batch( 257 ) 135.091847822
+Epoch( 97 ) Batch( 385 ) 204.401789904
+  training loss:		0.531338
+Epoch( 98 ) Batch( 1 ) 0.462864390244
+Epoch( 98 ) Batch( 129 ) 62.9992587894
+Epoch( 98 ) Batch( 257 ) 129.206702038
+Epoch( 98 ) Batch( 385 ) 196.872009695
+  training loss:		0.511280
+Epoch( 99 ) Batch( 1 ) 0.393267812846
+Epoch( 99 ) Batch( 129 ) 62.3418511162
+Epoch( 99 ) Batch( 257 ) 125.328860879
+Epoch( 99 ) Batch( 385 ) 193.061554787
+  training loss:		0.501576
+Final results:
+  test loss:			2.115984
+  test accuracy:		55.05 %
+CIFAR100 Training Finished.....
+2 days, 1:31:25.372895
+Final results:
+  test loss:			2.115984
+  test accuracy:		55.05 %

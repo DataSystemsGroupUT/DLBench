@@ -1,0 +1,13 @@
+conda create --name Chainer1
+source activate Chainer1
+pip install --upgrade pip
+pip install -U setuptools pip
+conda install python=3.6.0
+pip install matplotlib
+conda install memory_profiler
+pip install chainer
+pip install scipy
+
+conda install jupyter notebook
+conda install jupyter
+jupyter notebook --no-browser

@@ -1,0 +1,16 @@
+conda create --name MXNET1
+source activate MXNET1
+
+pip install --upgrade pip
+conda install python=3.6.0
+pip install matplotlib
+conda install memory_profiler
+pip install --upgrade pip
+pip install mxnet
+pip install scipy
+
+
+
+conda install jupyter notebook
+conda install jupyter
+jupyter notebook --no-browser

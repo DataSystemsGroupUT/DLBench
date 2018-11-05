@@ -1,0 +1,609 @@
+Loading data...
+(50000, 3, 32, 32)
+(50000,)
+(10000, 3, 32, 32)
+(10000,)
+Building model and compiling functions...
+CIFAR10 Training Started.....
+Epoch( 0 ) Batch( 1 ) 2.3242909908294678
+Epoch( 0 ) Batch( 129 ) 295.9419548511505
+Epoch( 0 ) Batch( 257 ) 581.7394618988037
+Epoch( 0 ) Batch( 385 ) 847.8891471624374
+Final results:
+ training loss:2.199329,Train accuracy:23.78 %,test loss:1.950463,test accuracy:29.75 %
+Epoch( 1 ) Batch( 1 ) 1.9170458316802979
+Epoch( 1 ) Batch( 129 ) 252.82853388786316
+Epoch( 1 ) Batch( 257 ) 494.83495688438416
+Epoch( 1 ) Batch( 385 ) 729.6293210983276
+Final results:
+ training loss:1.893915,Train accuracy:35.29 %,test loss:1.790789,test accuracy:36.37 %
+Epoch( 2 ) Batch( 1 ) 1.897864818572998
+Epoch( 2 ) Batch( 129 ) 229.16127157211304
+Epoch( 2 ) Batch( 257 ) 453.89739096164703
+Epoch( 2 ) Batch( 385 ) 671.9287362098694
+Final results:
+ training loss:1.745168,Train accuracy:40.21 %,test loss:1.591512,test accuracy:42.22 %
+Epoch( 3 ) Batch( 1 ) 1.7305407524108887
+Epoch( 3 ) Batch( 129 ) 214.31961059570312
+Epoch( 3 ) Batch( 257 ) 424.75605726242065
+Epoch( 3 ) Batch( 385 ) 630.1983320713043
+Final results:
+ training loss:1.636102,Train accuracy:44.34 %,test loss:1.535553,test accuracy:43.76 %
+Epoch( 4 ) Batch( 1 ) 1.5567936897277832
+Epoch( 4 ) Batch( 129 ) 202.51895713806152
+Epoch( 4 ) Batch( 257 ) 402.6347026824951
+Epoch( 4 ) Batch( 385 ) 597.6319011449814
+Final results:
+ training loss:1.551859,Train accuracy:47.95 %,test loss:1.433111,test accuracy:48.54 %
+Epoch( 5 ) Batch( 1 ) 1.4211310148239136
+Epoch( 5 ) Batch( 129 ) 195.5035458803177
+Epoch( 5 ) Batch( 257 ) 385.7557899951935
+Epoch( 5 ) Batch( 385 ) 572.1976705789566
+Final results:
+ training loss:1.485752,Train accuracy:50.74 %,test loss:1.400430,test accuracy:48.69 %
+Epoch( 6 ) Batch( 1 ) 1.4336788654327393
+Epoch( 6 ) Batch( 129 ) 185.64421951770782
+Epoch( 6 ) Batch( 257 ) 367.51078605651855
+Epoch( 6 ) Batch( 385 ) 549.9857153892517
+Final results:
+ training loss:1.428157,Train accuracy:52.99 %,test loss:1.325053,test accuracy:52.11 %
+Epoch( 7 ) Batch( 1 ) 1.2635729312896729
+Epoch( 7 ) Batch( 129 ) 179.75735414028168
+Epoch( 7 ) Batch( 257 ) 358.0630133152008
+Epoch( 7 ) Batch( 385 ) 532.4913622140884
+Final results:
+ training loss:1.383967,Train accuracy:55.35 %,test loss:1.269101,test accuracy:54.77 %
+Epoch( 8 ) Batch( 1 ) 1.4338537454605103
+Epoch( 8 ) Batch( 129 ) 175.9277263879776
+Epoch( 8 ) Batch( 257 ) 347.2589873075485
+Epoch( 8 ) Batch( 385 ) 515.6866981983185
+Final results:
+ training loss:1.338714,Train accuracy:57.17 %,test loss:1.240845,test accuracy:55.79 %
+Epoch( 9 ) Batch( 1 ) 1.3256300687789917
+Epoch( 9 ) Batch( 129 ) 168.97794938087463
+Epoch( 9 ) Batch( 257 ) 337.1073591709137
+Epoch( 9 ) Batch( 385 ) 502.10851871967316
+Final results:
+ training loss:1.303001,Train accuracy:58.64 %,test loss:1.199944,test accuracy:57.56 %
+Epoch( 10 ) Batch( 1 ) 1.0440287590026855
+Epoch( 10 ) Batch( 129 ) 164.8622305393219
+Epoch( 10 ) Batch( 257 ) 326.8970055580139
+Epoch( 10 ) Batch( 385 ) 487.3284065723419
+Final results:
+ training loss:1.265769,Train accuracy:60.35 %,test loss:1.156141,test accuracy:58.97 %
+Epoch( 11 ) Batch( 1 ) 1.1252690553665161
+Epoch( 11 ) Batch( 129 ) 160.82984685897827
+Epoch( 11 ) Batch( 257 ) 317.0788540840149
+Epoch( 11 ) Batch( 385 ) 473.7530940771103
+Final results:
+ training loss:1.230880,Train accuracy:61.66 %,test loss:1.154790,test accuracy:58.91 %
+Epoch( 12 ) Batch( 1 ) 1.1987978219985962
+Epoch( 12 ) Batch( 129 ) 157.0000411272049
+Epoch( 12 ) Batch( 257 ) 310.8123754262924
+Epoch( 12 ) Batch( 385 ) 462.43850100040436
+Final results:
+ training loss:1.200326,Train accuracy:62.86 %,test loss:1.087609,test accuracy:61.18 %
+Epoch( 13 ) Batch( 1 ) 1.156740665435791
+Epoch( 13 ) Batch( 129 ) 152.5057596564293
+Epoch( 13 ) Batch( 257 ) 299.70796698331833
+Epoch( 13 ) Batch( 385 ) 450.0603013038635
+Final results:
+ training loss:1.169492,Train accuracy:63.91 %,test loss:1.064675,test accuracy:62.50 %
+Epoch( 14 ) Batch( 1 ) 1.2461943626403809
+Epoch( 14 ) Batch( 129 ) 148.55535864830017
+Epoch( 14 ) Batch( 257 ) 295.66642636060715
+Epoch( 14 ) Batch( 385 ) 442.3778422474861
+Final results:
+ training loss:1.149513,Train accuracy:65.33 %,test loss:1.122706,test accuracy:59.68 %
+Epoch( 15 ) Batch( 1 ) 1.3491476774215698
+Epoch( 15 ) Batch( 129 ) 144.45576429367065
+Epoch( 15 ) Batch( 257 ) 287.89572340250015
+Epoch( 15 ) Batch( 385 ) 431.33027559518814
+Final results:
+ training loss:1.120353,Train accuracy:66.20 %,test loss:1.043812,test accuracy:62.87 %
+Epoch( 16 ) Batch( 1 ) 1.3638461828231812
+Epoch( 16 ) Batch( 129 ) 141.6814667582512
+Epoch( 16 ) Batch( 257 ) 282.58144092559814
+Epoch( 16 ) Batch( 385 ) 423.0530836582184
+Final results:
+ training loss:1.099073,Train accuracy:66.96 %,test loss:0.995707,test accuracy:64.56 %
+Epoch( 17 ) Batch( 1 ) 1.1090927124023438
+Epoch( 17 ) Batch( 129 ) 138.345090508461
+Epoch( 17 ) Batch( 257 ) 275.8380329012871
+Epoch( 17 ) Batch( 385 ) 414.5333275794983
+Final results:
+ training loss:1.076471,Train accuracy:67.71 %,test loss:0.988922,test accuracy:64.60 %
+Epoch( 18 ) Batch( 1 ) 0.9872402548789978
+Epoch( 18 ) Batch( 129 ) 137.3663877248764
+Epoch( 18 ) Batch( 257 ) 274.33300054073334
+Epoch( 18 ) Batch( 385 ) 407.6570129394531
+Final results:
+ training loss:1.057965,Train accuracy:68.76 %,test loss:0.964150,test accuracy:66.08 %
+Epoch( 19 ) Batch( 1 ) 0.9113099575042725
+Epoch( 19 ) Batch( 129 ) 133.11744195222855
+Epoch( 19 ) Batch( 257 ) 266.5136640071869
+Epoch( 19 ) Batch( 385 ) 400.7241253256798
+Final results:
+ training loss:1.040848,Train accuracy:69.38 %,test loss:0.948346,test accuracy:66.45 %
+Epoch( 20 ) Batch( 1 ) 0.9958109855651855
+Epoch( 20 ) Batch( 129 ) 131.8970462679863
+Epoch( 20 ) Batch( 257 ) 263.67112016677856
+Epoch( 20 ) Batch( 385 ) 392.13010466098785
+Final results:
+ training loss:1.018201,Train accuracy:70.07 %,test loss:0.940332,test accuracy:67.03 %
+Epoch( 21 ) Batch( 1 ) 1.0260775089263916
+Epoch( 21 ) Batch( 129 ) 130.31662648916245
+Epoch( 21 ) Batch( 257 ) 259.1322241425514
+Epoch( 21 ) Batch( 385 ) 385.8738358616829
+Final results:
+ training loss:1.001619,Train accuracy:70.86 %,test loss:0.924927,test accuracy:67.48 %
+Epoch( 22 ) Batch( 1 ) 1.0924317836761475
+Epoch( 22 ) Batch( 129 ) 126.24839299917221
+Epoch( 22 ) Batch( 257 ) 252.3293861746788
+Epoch( 22 ) Batch( 385 ) 378.653058052063
+Final results:
+ training loss:0.983747,Train accuracy:71.64 %,test loss:0.905174,test accuracy:68.16 %
+Epoch( 23 ) Batch( 1 ) 1.0294833183288574
+Epoch( 23 ) Batch( 129 ) 124.51039206981659
+Epoch( 23 ) Batch( 257 ) 250.1056827902794
+Epoch( 23 ) Batch( 385 ) 372.4528276324272
+Final results:
+ training loss:0.967728,Train accuracy:72.31 %,test loss:0.897369,test accuracy:68.17 %
+Epoch( 24 ) Batch( 1 ) 0.8175445795059204
+Epoch( 24 ) Batch( 129 ) 124.43776202201843
+Epoch( 24 ) Batch( 257 ) 246.15616083145142
+Epoch( 24 ) Batch( 385 ) 366.56236904859543
+Final results:
+ training loss:0.952209,Train accuracy:72.84 %,test loss:0.905460,test accuracy:68.38 %
+Epoch( 25 ) Batch( 1 ) 1.0592409372329712
+Epoch( 25 ) Batch( 129 ) 122.32819151878357
+Epoch( 25 ) Batch( 257 ) 243.1969838142395
+Epoch( 25 ) Batch( 385 ) 362.02394795417786
+Final results:
+ training loss:0.939989,Train accuracy:73.37 %,test loss:0.861624,test accuracy:69.82 %
+Epoch( 26 ) Batch( 1 ) 1.0496429204940796
+Epoch( 26 ) Batch( 129 ) 120.43843519687653
+Epoch( 26 ) Batch( 257 ) 238.43759101629257
+Epoch( 26 ) Batch( 385 ) 353.9966901540756
+Final results:
+ training loss:0.919219,Train accuracy:73.93 %,test loss:0.840692,test accuracy:70.57 %
+Epoch( 27 ) Batch( 1 ) 0.7506336569786072
+Epoch( 27 ) Batch( 129 ) 118.36875307559967
+Epoch( 27 ) Batch( 257 ) 234.95164573192596
+Epoch( 27 ) Batch( 385 ) 350.05541747808456
+Final results:
+ training loss:0.910108,Train accuracy:74.66 %,test loss:0.833055,test accuracy:71.03 %
+Epoch( 28 ) Batch( 1 ) 1.0272783041000366
+Epoch( 28 ) Batch( 129 ) 117.39130109548569
+Epoch( 28 ) Batch( 257 ) 230.75002443790436
+Epoch( 28 ) Batch( 385 ) 345.67975878715515
+Final results:
+ training loss:0.898274,Train accuracy:75.26 %,test loss:0.835923,test accuracy:70.71 %
+Epoch( 29 ) Batch( 1 ) 0.8268606066703796
+Epoch( 29 ) Batch( 129 ) 112.67945337295532
+Epoch( 29 ) Batch( 257 ) 225.94563627243042
+Epoch( 29 ) Batch( 385 ) 338.79048585891724
+Final results:
+ training loss:0.880361,Train accuracy:75.82 %,test loss:0.814179,test accuracy:71.78 %
+Epoch( 30 ) Batch( 1 ) 0.7172123789787292
+Epoch( 30 ) Batch( 129 ) 114.52336817979813
+Epoch( 30 ) Batch( 257 ) 224.4680151939392
+Epoch( 30 ) Batch( 385 ) 336.40372294187546
+Final results:
+ training loss:0.873640,Train accuracy:76.20 %,test loss:0.798202,test accuracy:72.38 %
+Epoch( 31 ) Batch( 1 ) 0.7825585603713989
+Epoch( 31 ) Batch( 129 ) 112.11308592557907
+Epoch( 31 ) Batch( 257 ) 221.73207020759583
+Epoch( 31 ) Batch( 385 ) 330.7048147916794
+Final results:
+ training loss:0.858917,Train accuracy:76.74 %,test loss:0.797927,test accuracy:71.78 %
+Epoch( 32 ) Batch( 1 ) 0.877755343914032
+Epoch( 32 ) Batch( 129 ) 107.73560380935669
+Epoch( 32 ) Batch( 257 ) 216.39105713367462
+Epoch( 32 ) Batch( 385 ) 326.35429418087006
+Final results:
+ training loss:0.846901,Train accuracy:77.23 %,test loss:0.785834,test accuracy:72.37 %
+Epoch( 33 ) Batch( 1 ) 0.776722252368927
+Epoch( 33 ) Batch( 129 ) 108.35983288288116
+Epoch( 33 ) Batch( 257 ) 216.2360292673111
+Epoch( 33 ) Batch( 385 ) 321.88193905353546
+Final results:
+ training loss:0.836232,Train accuracy:77.55 %,test loss:0.790099,test accuracy:72.43 %
+Epoch( 34 ) Batch( 1 ) 0.9764628410339355
+Epoch( 34 ) Batch( 129 ) 105.54959732294083
+Epoch( 34 ) Batch( 257 ) 209.6696059703827
+Epoch( 34 ) Batch( 385 ) 317.40713143348694
+Final results:
+ training loss:0.824747,Train accuracy:78.15 %,test loss:0.761306,test accuracy:73.68 %
+Epoch( 35 ) Batch( 1 ) 0.6555860638618469
+Epoch( 35 ) Batch( 129 ) 103.61509215831757
+Epoch( 35 ) Batch( 257 ) 207.42571073770523
+Epoch( 35 ) Batch( 385 ) 311.9515717625618
+Final results:
+ training loss:0.810255,Train accuracy:78.59 %,test loss:0.753922,test accuracy:73.69 %
+Epoch( 36 ) Batch( 1 ) 0.7632138729095459
+Epoch( 36 ) Batch( 129 ) 103.87187314033508
+Epoch( 36 ) Batch( 257 ) 207.4464579820633
+Epoch( 36 ) Batch( 385 ) 308.1820738911629
+Final results:
+ training loss:0.800907,Train accuracy:79.08 %,test loss:0.741533,test accuracy:74.42 %
+Epoch( 37 ) Batch( 1 ) 0.7040822505950928
+Epoch( 37 ) Batch( 129 ) 104.55630058050156
+Epoch( 37 ) Batch( 257 ) 204.78486669063568
+Epoch( 37 ) Batch( 385 ) 305.64250844717026
+Final results:
+ training loss:0.793737,Train accuracy:79.32 %,test loss:0.739273,test accuracy:74.14 %
+Epoch( 38 ) Batch( 1 ) 0.8045851588249207
+Epoch( 38 ) Batch( 129 ) 100.75647294521332
+Epoch( 38 ) Batch( 257 ) 202.83031290769577
+Epoch( 38 ) Batch( 385 ) 301.20409148931503
+Final results:
+ training loss:0.783487,Train accuracy:79.92 %,test loss:0.738317,test accuracy:74.51 %
+Epoch( 39 ) Batch( 1 ) 0.7594791650772095
+Epoch( 39 ) Batch( 129 ) 99.3316223025322
+Epoch( 39 ) Batch( 257 ) 198.47360974550247
+Epoch( 39 ) Batch( 385 ) 298.0195631980896
+Final results:
+ training loss:0.773825,Train accuracy:80.02 %,test loss:0.726161,test accuracy:74.63 %
+Epoch( 40 ) Batch( 1 ) 0.7979381680488586
+Epoch( 40 ) Batch( 129 ) 96.97749227285385
+Epoch( 40 ) Batch( 257 ) 194.63023847341537
+Epoch( 40 ) Batch( 385 ) 293.7333877682686
+Final results:
+ training loss:0.762100,Train accuracy:80.50 %,test loss:0.719216,test accuracy:75.10 %
+Epoch( 41 ) Batch( 1 ) 0.7118405103683472
+Epoch( 41 ) Batch( 129 ) 96.444087266922
+Epoch( 41 ) Batch( 257 ) 192.38649129867554
+Epoch( 41 ) Batch( 385 ) 290.4868263602257
+Final results:
+ training loss:0.754091,Train accuracy:80.88 %,test loss:0.719973,test accuracy:74.99 %
+Epoch( 42 ) Batch( 1 ) 0.6262140274047852
+Epoch( 42 ) Batch( 129 ) 96.30811014771461
+Epoch( 42 ) Batch( 257 ) 192.3902544081211
+Epoch( 42 ) Batch( 385 ) 288.24529936909676
+Final results:
+ training loss:0.749525,Train accuracy:81.12 %,test loss:0.709545,test accuracy:75.33 %
+Epoch( 43 ) Batch( 1 ) 0.6942726969718933
+Epoch( 43 ) Batch( 129 ) 96.68987011909485
+Epoch( 43 ) Batch( 257 ) 190.84721493721008
+Epoch( 43 ) Batch( 385 ) 285.9017927646637
+Final results:
+ training loss:0.742109,Train accuracy:81.40 %,test loss:0.702044,test accuracy:75.90 %
+Epoch( 44 ) Batch( 1 ) 0.7251537442207336
+Epoch( 44 ) Batch( 129 ) 93.81901061534882
+Epoch( 44 ) Batch( 257 ) 187.19005227088928
+Epoch( 44 ) Batch( 385 ) 280.60812520980835
+Final results:
+ training loss:0.728775,Train accuracy:81.67 %,test loss:0.717259,test accuracy:75.31 %
+Epoch( 45 ) Batch( 1 ) 0.6609198451042175
+Epoch( 45 ) Batch( 129 ) 94.11107170581818
+Epoch( 45 ) Batch( 257 ) 186.63661044836044
+Epoch( 45 ) Batch( 385 ) 278.9796006679535
+Final results:
+ training loss:0.724924,Train accuracy:81.89 %,test loss:0.691936,test accuracy:76.14 %
+Epoch( 46 ) Batch( 1 ) 0.666073203086853
+Epoch( 46 ) Batch( 129 ) 92.28036993741989
+Epoch( 46 ) Batch( 257 ) 182.56610655784607
+Epoch( 46 ) Batch( 385 ) 274.75354927778244
+Final results:
+ training loss:0.713320,Train accuracy:82.37 %,test loss:0.710376,test accuracy:75.50 %
+Epoch( 47 ) Batch( 1 ) 0.7154051661491394
+Epoch( 47 ) Batch( 129 ) 92.28760367631912
+Epoch( 47 ) Batch( 257 ) 182.9688560962677
+Epoch( 47 ) Batch( 385 ) 273.39148965477943
+Final results:
+ training loss:0.710350,Train accuracy:82.62 %,test loss:0.693943,test accuracy:75.89 %
+Epoch( 48 ) Batch( 1 ) 0.7896877527236938
+Epoch( 48 ) Batch( 129 ) 91.17205786705017
+Epoch( 48 ) Batch( 257 ) 180.81880277395248
+Epoch( 48 ) Batch( 385 ) 269.6291824579239
+Final results:
+ training loss:0.700577,Train accuracy:82.87 %,test loss:0.684898,test accuracy:76.27 %
+Epoch( 49 ) Batch( 1 ) 0.7916117310523987
+Epoch( 49 ) Batch( 129 ) 88.64492654800415
+Epoch( 49 ) Batch( 257 ) 178.04679057002068
+Epoch( 49 ) Batch( 385 ) 268.00109526515007
+Final results:
+ training loss:0.695855,Train accuracy:83.29 %,test loss:0.679718,test accuracy:76.52 %
+Epoch( 50 ) Batch( 1 ) 0.813503086566925
+Epoch( 50 ) Batch( 129 ) 89.61327371001244
+Epoch( 50 ) Batch( 257 ) 177.14094617962837
+Epoch( 50 ) Batch( 385 ) 265.6156274974346
+Final results:
+ training loss:0.690302,Train accuracy:83.33 %,test loss:0.674004,test accuracy:76.97 %
+Epoch( 51 ) Batch( 1 ) 0.6383551955223083
+Epoch( 51 ) Batch( 129 ) 87.93443858623505
+Epoch( 51 ) Batch( 257 ) 174.48669785261154
+Epoch( 51 ) Batch( 385 ) 263.5368698835373
+Final results:
+ training loss:0.684304,Train accuracy:83.71 %,test loss:0.679295,test accuracy:76.47 %
+Epoch( 52 ) Batch( 1 ) 0.6398146748542786
+Epoch( 52 ) Batch( 129 ) 87.78272071480751
+Epoch( 52 ) Batch( 257 ) 176.0062861442566
+Epoch( 52 ) Batch( 385 ) 261.3166500926018
+Final results:
+ training loss:0.678888,Train accuracy:84.01 %,test loss:0.655613,test accuracy:77.27 %
+Epoch( 53 ) Batch( 1 ) 0.5183767080307007
+Epoch( 53 ) Batch( 129 ) 85.63555851578712
+Epoch( 53 ) Batch( 257 ) 170.78675723075867
+Epoch( 53 ) Batch( 385 ) 258.7486382126808
+Final results:
+ training loss:0.671360,Train accuracy:84.39 %,test loss:0.665335,test accuracy:76.92 %
+Epoch( 54 ) Batch( 1 ) 0.8651631474494934
+Epoch( 54 ) Batch( 129 ) 86.2028346657753
+Epoch( 54 ) Batch( 257 ) 171.19883903861046
+Epoch( 54 ) Batch( 385 ) 255.8602694272995
+Final results:
+ training loss:0.665108,Train accuracy:84.63 %,test loss:0.656081,test accuracy:77.55 %
+Epoch( 55 ) Batch( 1 ) 0.6582894325256348
+Epoch( 55 ) Batch( 129 ) 85.55565518140793
+Epoch( 55 ) Batch( 257 ) 168.3639722764492
+Epoch( 55 ) Batch( 385 ) 253.35022062063217
+Final results:
+ training loss:0.658073,Train accuracy:84.81 %,test loss:0.652261,test accuracy:77.55 %
+Epoch( 56 ) Batch( 1 ) 0.5553176999092102
+Epoch( 56 ) Batch( 129 ) 83.66967618465424
+Epoch( 56 ) Batch( 257 ) 167.5085253417492
+Epoch( 56 ) Batch( 385 ) 251.09908789396286
+Final results:
+ training loss:0.653000,Train accuracy:84.93 %,test loss:0.644375,test accuracy:77.78 %
+Epoch( 57 ) Batch( 1 ) 0.8138488531112671
+Epoch( 57 ) Batch( 129 ) 82.74905905127525
+Epoch( 57 ) Batch( 257 ) 165.95234361290932
+Epoch( 57 ) Batch( 385 ) 249.02749720215797
+Final results:
+ training loss:0.647414,Train accuracy:85.29 %,test loss:0.645633,test accuracy:77.73 %
+Epoch( 58 ) Batch( 1 ) 0.7010868787765503
+Epoch( 58 ) Batch( 129 ) 81.98026850819588
+Epoch( 58 ) Batch( 257 ) 163.681372910738
+Epoch( 58 ) Batch( 385 ) 246.258157402277
+Final results:
+ training loss:0.639895,Train accuracy:85.49 %,test loss:0.643081,test accuracy:77.82 %
+Epoch( 59 ) Batch( 1 ) 0.749642550945282
+Epoch( 59 ) Batch( 129 ) 82.80180132389069
+Epoch( 59 ) Batch( 257 ) 163.57085964083672
+Epoch( 59 ) Batch( 385 ) 243.22540095448494
+Final results:
+ training loss:0.630831,Train accuracy:85.65 %,test loss:0.631547,test accuracy:78.14 %
+Epoch( 60 ) Batch( 1 ) 0.47926273941993713
+Epoch( 60 ) Batch( 129 ) 81.69559398293495
+Epoch( 60 ) Batch( 257 ) 161.58714419603348
+Epoch( 60 ) Batch( 385 ) 241.50074803829193
+Final results:
+ training loss:0.627060,Train accuracy:85.94 %,test loss:0.632042,test accuracy:77.89 %
+Epoch( 61 ) Batch( 1 ) 0.6340447664260864
+Epoch( 61 ) Batch( 129 ) 80.17632475495338
+Epoch( 61 ) Batch( 257 ) 159.47470036149025
+Epoch( 61 ) Batch( 385 ) 239.98727378249168
+Final results:
+ training loss:0.622838,Train accuracy:86.29 %,test loss:0.635453,test accuracy:77.74 %
+Epoch( 62 ) Batch( 1 ) 0.6365577578544617
+Epoch( 62 ) Batch( 129 ) 79.30423590540886
+Epoch( 62 ) Batch( 257 ) 157.76292610168457
+Epoch( 62 ) Batch( 385 ) 236.74355533719063
+Final results:
+ training loss:0.614417,Train accuracy:86.47 %,test loss:0.627359,test accuracy:78.29 %
+Epoch( 63 ) Batch( 1 ) 0.6611736416816711
+Epoch( 63 ) Batch( 129 ) 77.71746784448624
+Epoch( 63 ) Batch( 257 ) 156.0854377746582
+Epoch( 63 ) Batch( 385 ) 235.765254676342
+Final results:
+ training loss:0.612169,Train accuracy:86.75 %,test loss:0.631355,test accuracy:78.32 %
+Epoch( 64 ) Batch( 1 ) 0.4887576997280121
+Epoch( 64 ) Batch( 129 ) 78.09830805659294
+Epoch( 64 ) Batch( 257 ) 155.17629352211952
+Epoch( 64 ) Batch( 385 ) 233.30515134334564
+Final results:
+ training loss:0.605597,Train accuracy:86.89 %,test loss:0.625971,test accuracy:78.35 %
+Epoch( 65 ) Batch( 1 ) 0.5310488939285278
+Epoch( 65 ) Batch( 129 ) 77.22789320349693
+Epoch( 65 ) Batch( 257 ) 153.50202649831772
+Epoch( 65 ) Batch( 385 ) 232.07272264361382
+Final results:
+ training loss:0.601447,Train accuracy:86.99 %,test loss:0.623758,test accuracy:78.30 %
+Epoch( 66 ) Batch( 1 ) 0.5248087644577026
+Epoch( 66 ) Batch( 129 ) 77.01543709635735
+Epoch( 66 ) Batch( 257 ) 153.55848610401154
+Epoch( 66 ) Batch( 385 ) 228.58160096406937
+Final results:
+ training loss:0.594101,Train accuracy:87.49 %,test loss:0.615760,test accuracy:78.84 %
+Epoch( 67 ) Batch( 1 ) 0.6144264936447144
+Epoch( 67 ) Batch( 129 ) 74.68052145838737
+Epoch( 67 ) Batch( 257 ) 151.0289826989174
+Epoch( 67 ) Batch( 385 ) 226.51334738731384
+Final results:
+ training loss:0.588191,Train accuracy:87.57 %,test loss:0.617463,test accuracy:78.56 %
+Epoch( 68 ) Batch( 1 ) 0.6234002113342285
+Epoch( 68 ) Batch( 129 ) 76.76943698525429
+Epoch( 68 ) Batch( 257 ) 150.44488662481308
+Epoch( 68 ) Batch( 385 ) 225.7633622288704
+Final results:
+ training loss:0.586538,Train accuracy:87.81 %,test loss:0.624336,test accuracy:78.55 %
+Epoch( 69 ) Batch( 1 ) 0.7009737491607666
+Epoch( 69 ) Batch( 129 ) 74.68991529941559
+Epoch( 69 ) Batch( 257 ) 149.26212751865387
+Epoch( 69 ) Batch( 385 ) 223.16865429282188
+Final results:
+ training loss:0.580222,Train accuracy:87.95 %,test loss:0.615294,test accuracy:78.57 %
+Epoch( 70 ) Batch( 1 ) 0.6064672470092773
+Epoch( 70 ) Batch( 129 ) 72.81951582431793
+Epoch( 70 ) Batch( 257 ) 147.6107102036476
+Epoch( 70 ) Batch( 385 ) 220.86927875876427
+Final results:
+ training loss:0.574511,Train accuracy:88.23 %,test loss:0.622452,test accuracy:78.44 %
+Epoch( 71 ) Batch( 1 ) 0.5664681792259216
+Epoch( 71 ) Batch( 129 ) 72.42251974344254
+Epoch( 71 ) Batch( 257 ) 146.2199418246746
+Epoch( 71 ) Batch( 385 ) 218.58987700939178
+Final results:
+ training loss:0.568347,Train accuracy:88.43 %,test loss:0.618000,test accuracy:78.67 %
+Epoch( 72 ) Batch( 1 ) 0.7075265645980835
+Epoch( 72 ) Batch( 129 ) 73.88876733183861
+Epoch( 72 ) Batch( 257 ) 144.78830042481422
+Epoch( 72 ) Batch( 385 ) 217.69914716482162
+Final results:
+ training loss:0.565578,Train accuracy:88.72 %,test loss:0.616945,test accuracy:78.66 %
+Epoch( 73 ) Batch( 1 ) 0.7186909317970276
+Epoch( 73 ) Batch( 129 ) 70.90059387683868
+Epoch( 73 ) Batch( 257 ) 144.2061342895031
+Epoch( 73 ) Batch( 385 ) 216.62326368689537
+Final results:
+ training loss:0.563075,Train accuracy:88.86 %,test loss:0.601279,test accuracy:79.43 %
+Epoch( 74 ) Batch( 1 ) 0.48976603150367737
+Epoch( 74 ) Batch( 129 ) 71.85299509763718
+Epoch( 74 ) Batch( 257 ) 145.03194373846054
+Epoch( 74 ) Batch( 385 ) 215.0870625078678
+Final results:
+ training loss:0.558706,Train accuracy:89.08 %,test loss:0.601981,test accuracy:79.44 %
+Epoch( 75 ) Batch( 1 ) 0.6766735911369324
+Epoch( 75 ) Batch( 129 ) 71.44550701975822
+Epoch( 75 ) Batch( 257 ) 142.82601588964462
+Epoch( 75 ) Batch( 385 ) 212.4576550424099
+Final results:
+ training loss:0.551933,Train accuracy:89.36 %,test loss:0.594684,test accuracy:79.48 %
+Epoch( 76 ) Batch( 1 ) 0.48610591888427734
+Epoch( 76 ) Batch( 129 ) 70.82467457652092
+Epoch( 76 ) Batch( 257 ) 141.39258828759193
+Epoch( 76 ) Batch( 385 ) 210.73490923643112
+Final results:
+ training loss:0.546352,Train accuracy:89.56 %,test loss:0.611023,test accuracy:79.00 %
+Epoch( 77 ) Batch( 1 ) 0.4543832540512085
+Epoch( 77 ) Batch( 129 ) 71.08409607410431
+Epoch( 77 ) Batch( 257 ) 140.8848522901535
+Epoch( 77 ) Batch( 385 ) 209.22416892647743
+Final results:
+ training loss:0.543689,Train accuracy:89.64 %,test loss:0.599925,test accuracy:79.76 %
+Epoch( 78 ) Batch( 1 ) 0.6144130825996399
+Epoch( 78 ) Batch( 129 ) 69.34146139025688
+Epoch( 78 ) Batch( 257 ) 139.3633207976818
+Epoch( 78 ) Batch( 385 ) 208.55772292613983
+Final results:
+ training loss:0.541434,Train accuracy:89.96 %,test loss:0.596594,test accuracy:79.58 %
+Epoch( 79 ) Batch( 1 ) 0.6282302141189575
+Epoch( 79 ) Batch( 129 ) 68.67249584197998
+Epoch( 79 ) Batch( 257 ) 137.657108604908
+Epoch( 79 ) Batch( 385 ) 205.43390065431595
+Final results:
+ training loss:0.533968,Train accuracy:90.12 %,test loss:0.590030,test accuracy:79.96 %
+Epoch( 80 ) Batch( 1 ) 0.5570699572563171
+Epoch( 80 ) Batch( 129 ) 68.45193779468536
+Epoch( 80 ) Batch( 257 ) 136.3928538262844
+Epoch( 80 ) Batch( 385 ) 203.19521537423134
+Final results:
+ training loss:0.527642,Train accuracy:90.33 %,test loss:0.594959,test accuracy:79.54 %
+Epoch( 81 ) Batch( 1 ) 0.3498528301715851
+Epoch( 81 ) Batch( 129 ) 68.18554648756981
+Epoch( 81 ) Batch( 257 ) 135.628941655159
+Epoch( 81 ) Batch( 385 ) 204.06427791714668
+Final results:
+ training loss:0.529847,Train accuracy:90.42 %,test loss:0.584438,test accuracy:79.83 %
+Epoch( 82 ) Batch( 1 ) 0.4592181444168091
+Epoch( 82 ) Batch( 129 ) 67.93606567382812
+Epoch( 82 ) Batch( 257 ) 134.41805309057236
+Epoch( 82 ) Batch( 385 ) 200.77319884300232
+Final results:
+ training loss:0.521947,Train accuracy:90.67 %,test loss:0.601282,test accuracy:79.32 %
+Epoch( 83 ) Batch( 1 ) 0.5760587453842163
+Epoch( 83 ) Batch( 129 ) 68.00033962726593
+Epoch( 83 ) Batch( 257 ) 132.75715819001198
+Epoch( 83 ) Batch( 385 ) 199.03291139006615
+Final results:
+ training loss:0.516571,Train accuracy:90.84 %,test loss:0.596558,test accuracy:79.35 %
+Epoch( 84 ) Batch( 1 ) 0.44916385412216187
+Epoch( 84 ) Batch( 129 ) 66.1220281124115
+Epoch( 84 ) Batch( 257 ) 131.6681492626667
+Epoch( 84 ) Batch( 385 ) 197.5495030581951
+Final results:
+ training loss:0.512931,Train accuracy:91.07 %,test loss:0.594915,test accuracy:79.58 %
+Epoch( 85 ) Batch( 1 ) 0.6133058071136475
+Epoch( 85 ) Batch( 129 ) 65.95584064722061
+Epoch( 85 ) Batch( 257 ) 130.89434173703194
+Epoch( 85 ) Batch( 385 ) 195.7069716155529
+Final results:
+ training loss:0.508428,Train accuracy:91.30 %,test loss:0.582636,test accuracy:79.95 %
+Epoch( 86 ) Batch( 1 ) 0.5064885020256042
+Epoch( 86 ) Batch( 129 ) 65.02615088224411
+Epoch( 86 ) Batch( 257 ) 129.85213178396225
+Epoch( 86 ) Batch( 385 ) 194.69086185097694
+Final results:
+ training loss:0.505918,Train accuracy:91.42 %,test loss:0.586123,test accuracy:80.02 %
+Epoch( 87 ) Batch( 1 ) 0.5131300091743469
+Epoch( 87 ) Batch( 129 ) 65.84383147954941
+Epoch( 87 ) Batch( 257 ) 129.49262124300003
+Epoch( 87 ) Batch( 385 ) 193.37660184502602
+Final results:
+ training loss:0.501969,Train accuracy:91.62 %,test loss:0.593040,test accuracy:79.74 %
+Epoch( 88 ) Batch( 1 ) 0.5115678906440735
+Epoch( 88 ) Batch( 129 ) 64.54560416936874
+Epoch( 88 ) Batch( 257 ) 129.93947052955627
+Epoch( 88 ) Batch( 385 ) 193.72357603907585
+Final results:
+ training loss:0.502519,Train accuracy:91.76 %,test loss:0.573670,test accuracy:80.32 %
+Epoch( 89 ) Batch( 1 ) 0.38550257682800293
+Epoch( 89 ) Batch( 129 ) 63.66909569501877
+Epoch( 89 ) Batch( 257 ) 126.8343516588211
+Epoch( 89 ) Batch( 385 ) 190.37599715590477
+Final results:
+ training loss:0.494024,Train accuracy:91.89 %,test loss:0.590095,test accuracy:79.83 %
+Epoch( 90 ) Batch( 1 ) 0.4996265769004822
+Epoch( 90 ) Batch( 129 ) 63.154235661029816
+Epoch( 90 ) Batch( 257 ) 124.95876508951187
+Epoch( 90 ) Batch( 385 ) 189.13632720708847
+Final results:
+ training loss:0.490300,Train accuracy:91.99 %,test loss:0.592261,test accuracy:80.16 %
+Epoch( 91 ) Batch( 1 ) 0.49722328782081604
+Epoch( 91 ) Batch( 129 ) 63.82561632990837
+Epoch( 91 ) Batch( 257 ) 125.96417155861855
+Epoch( 91 ) Batch( 385 ) 188.02103233337402
+Final results:
+ training loss:0.488476,Train accuracy:92.16 %,test loss:0.587847,test accuracy:80.01 %
+Epoch( 92 ) Batch( 1 ) 0.34447386860847473
+Epoch( 92 ) Batch( 129 ) 60.46318471431732
+Epoch( 92 ) Batch( 257 ) 123.15172564983368
+Epoch( 92 ) Batch( 385 ) 185.58722457289696
+Final results:
+ training loss:0.482821,Train accuracy:92.31 %,test loss:0.587642,test accuracy:79.89 %
+Epoch( 93 ) Batch( 1 ) 0.49744462966918945
+Epoch( 93 ) Batch( 129 ) 61.80038845539093
+Epoch( 93 ) Batch( 257 ) 122.40736317634583
+Epoch( 93 ) Batch( 385 ) 183.93902829289436
+Final results:
+ training loss:0.478255,Train accuracy:92.56 %,test loss:0.581222,test accuracy:80.17 %
+Epoch( 94 ) Batch( 1 ) 0.5242346525192261
+Epoch( 94 ) Batch( 129 ) 61.212461560964584
+Epoch( 94 ) Batch( 257 ) 120.88633593916893
+Epoch( 94 ) Batch( 385 ) 183.32901847362518
+Final results:
+ training loss:0.475818,Train accuracy:92.79 %,test loss:0.578258,test accuracy:80.32 %
+Epoch( 95 ) Batch( 1 ) 0.32695943117141724
+Epoch( 95 ) Batch( 129 ) 59.37283530831337
+Epoch( 95 ) Batch( 257 ) 120.48502239584923
+Epoch( 95 ) Batch( 385 ) 180.56177932024002
+Final results:
+ training loss:0.469155,Train accuracy:92.95 %,test loss:0.574938,test accuracy:80.35 %
+Epoch( 96 ) Batch( 1 ) 0.3863227069377899
+Epoch( 96 ) Batch( 129 ) 59.01920211315155
+Epoch( 96 ) Batch( 257 ) 118.90500006079674
+Epoch( 96 ) Batch( 385 ) 179.1377994120121
+Final results:
+ training loss:0.465672,Train accuracy:93.02 %,test loss:0.577862,test accuracy:80.36 %
+Epoch( 97 ) Batch( 1 ) 0.329039990901947
+Epoch( 97 ) Batch( 129 ) 59.36343589425087
+Epoch( 97 ) Batch( 257 ) 119.67215186357498
+Epoch( 97 ) Batch( 385 ) 178.33759632706642
+Final results:
+ training loss:0.463760,Train accuracy:93.26 %,test loss:0.577556,test accuracy:80.49 %
+Epoch( 98 ) Batch( 1 ) 0.32266905903816223
+Epoch( 98 ) Batch( 129 ) 57.79097801446915
+Epoch( 98 ) Batch( 257 ) 117.57746809720993
+Epoch( 98 ) Batch( 385 ) 176.8714974820614
+Final results:
+ training loss:0.459967,Train accuracy:93.34 %,test loss:0.578428,test accuracy:80.28 %
+Epoch( 99 ) Batch( 1 ) 0.4633435308933258
+Epoch( 99 ) Batch( 129 ) 58.393241584300995
+Epoch( 99 ) Batch( 257 ) 115.4420033544302
+Epoch( 99 ) Batch( 385 ) 174.35996361076832
+Final results:
+ training loss:0.452392,Train accuracy:93.60 %,test loss:0.577010,test accuracy:80.32 %
+CIFAR10 Training Finished.....
+0:13:21.037003

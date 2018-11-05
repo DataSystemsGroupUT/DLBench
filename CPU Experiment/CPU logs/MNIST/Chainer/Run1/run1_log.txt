@@ -1,0 +1,76 @@
+Epoch: 0  Batch ( 1 )
+Epoch: 0  Batch ( 128 )
+Epoch: 0  Batch ( 256 )
+Epoch: 0  Batch ( 384 )
+epoch:01 train_loss:0.3088 val_loss:0.3328 val_accuracy:0.8979
+Epoch: 1  Batch ( 1 )
+Epoch: 1  Batch ( 128 )
+Epoch: 1  Batch ( 256 )
+Epoch: 1  Batch ( 384 )
+epoch:02 train_loss:0.2488 val_loss:0.2600 val_accuracy:0.9181
+Epoch: 2  Batch ( 1 )
+Epoch: 2  Batch ( 128 )
+Epoch: 2  Batch ( 256 )
+Epoch: 2  Batch ( 384 )
+epoch:03 train_loss:0.2227 val_loss:0.2071 val_accuracy:0.9365
+Epoch: 3  Batch ( 1 )
+Epoch: 3  Batch ( 128 )
+Epoch: 3  Batch ( 256 )
+Epoch: 3  Batch ( 384 )
+epoch:04 train_loss:0.1098 val_loss:0.1718 val_accuracy:0.9493
+Epoch: 4  Batch ( 1 )
+Epoch: 4  Batch ( 128 )
+Epoch: 4  Batch ( 256 )
+Epoch: 4  Batch ( 384 )
+epoch:05 train_loss:0.1508 val_loss:0.1497 val_accuracy:0.9551
+Epoch: 5  Batch ( 1 )
+Epoch: 5  Batch ( 128 )
+Epoch: 5  Batch ( 256 )
+Epoch: 5  Batch ( 384 )
+epoch:06 train_loss:0.2419 val_loss:0.1348 val_accuracy:0.9584
+Epoch: 6  Batch ( 1 )
+Epoch: 6  Batch ( 128 )
+Epoch: 6  Batch ( 256 )
+Epoch: 6  Batch ( 384 )
+epoch:07 train_loss:0.2189 val_loss:0.1245 val_accuracy:0.9637
+Epoch: 7  Batch ( 1 )
+Epoch: 7  Batch ( 128 )
+Epoch: 7  Batch ( 256 )
+Epoch: 7  Batch ( 384 )
+epoch:08 train_loss:0.1341 val_loss:0.1096 val_accuracy:0.9668
+Epoch: 8  Batch ( 1 )
+Epoch: 8  Batch ( 128 )
+Epoch: 8  Batch ( 256 )
+Epoch: 8  Batch ( 384 )
+epoch:09 train_loss:0.2181 val_loss:0.1051 val_accuracy:0.9680
+Epoch: 9  Batch ( 1 )
+Epoch: 9  Batch ( 128 )
+Epoch: 9  Batch ( 256 )
+Epoch: 9  Batch ( 384 )
+epoch:10 train_loss:0.0434 val_loss:0.0953 val_accuracy:0.9688
+Epoch: 10  Batch ( 1 )
+Epoch: 10  Batch ( 128 )
+Epoch: 10  Batch ( 256 )
+Epoch: 10  Batch ( 384 )
+epoch:11 train_loss:0.0346 val_loss:0.0909 val_accuracy:0.9709
+Epoch: 11  Batch ( 1 )
+Epoch: 11  Batch ( 128 )
+Epoch: 11  Batch ( 256 )
+Epoch: 11  Batch ( 384 )
+epoch:12 train_loss:0.0895 val_loss:0.0843 val_accuracy:0.9752
+Epoch: 12  Batch ( 1 )
+Epoch: 12  Batch ( 128 )
+Epoch: 12  Batch ( 256 )
+Epoch: 12  Batch ( 384 )
+epoch:13 train_loss:0.1627 val_loss:0.0807 val_accuracy:0.9743
+Epoch: 13  Batch ( 1 )
+Epoch: 13  Batch ( 128 )
+Epoch: 13  Batch ( 256 )
+Epoch: 13  Batch ( 384 )
+epoch:14 train_loss:0.0675 val_loss:0.0832 val_accuracy:0.9761
+Epoch: 14  Batch ( 1 )
+Epoch: 14  Batch ( 128 )
+Epoch: 14  Batch ( 256 )
+Epoch: 14  Batch ( 384 )
+epoch:15 train_loss:0.1413 val_loss:0.0800 val_accuracy:0.9762
+1:37:37.848546

@@ -1,0 +1,18 @@
+conda create --name Pytorch1
+source activate Pytorch1
+pip install --upgrade pip
+conda install python=3.6.0
+pip install matplotlib
+conda install memory_profiler
+
+conda install pytorch-cpu torchvision-cpu -c pytorch
+pip install scipy
+
+
+conda install jupyter notebook
+conda install jupyter
+jupyter notebook --no-browser
+
+
+
+

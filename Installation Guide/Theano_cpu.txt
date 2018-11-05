@@ -1,0 +1,25 @@
+conda create --name Theano1
+source activate Theano1
+pip install --upgrade pip
+conda install python=3.6.0
+conda install matplotlib
+conda install memory_profiler
+pip install --upgrade pip
+
+conda install theano
+conda install lasagne
+
+conda install -r https://raw.githubusercontent.com/Lasagne/Lasagne/v0.1/requirements.txt
+pip install --upgrade https://github.com/Lasagne/Lasagne/archive/master.zip
+
+pip install Lasagne==0.1
+
+
+
+
+conda install jupyter notebook
+conda install jupyter
+jupyter notebook --no-browser
+
+
+For GPU only :  echo -e "[global]\ndevice = cuda\nfloatX = float32\n[gpuarray]\npreallocate = 1" > /home/yousefpc/.theanorc
