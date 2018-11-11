@@ -1,0 +1,98 @@
+(60000, 1, 28, 28)
+(10000, 1, 28, 28)
+(60000,)
+(10000,)
+Building model and compiling functions...
+MNIST Training Started.....
+Epoch( 0 ) Batch( 1 ) 2.30407497915
+Epoch( 0 ) Batch( 129 ) 178.555872809
+Epoch( 0 ) Batch( 257 ) 251.712414233
+Epoch( 0 ) Batch( 385 ) 312.399342832
+Final results:
+ training loss:0.743308,Train accuracy:85.35 %,test loss:0.241372,test accuracy:93.01 %
+Epoch( 1 ) Batch( 1 ) 0.401215172121
+Epoch( 1 ) Batch( 129 ) 51.3681932178
+Epoch( 1 ) Batch( 257 ) 97.6308160861
+Epoch( 1 ) Batch( 385 ) 141.742242417
+Final results:
+ training loss:0.362166,Train accuracy:93.98 %,test loss:0.181432,test accuracy:94.54 %
+Epoch( 2 ) Batch( 1 ) 0.336624498081
+Epoch( 2 ) Batch( 129 ) 38.8543025779
+Epoch( 2 ) Batch( 257 ) 80.315685096
+Epoch( 2 ) Batch( 385 ) 117.725160072
+Final results:
+ training loss:0.302104,Train accuracy:95.12 %,test loss:0.152378,test accuracy:95.53 %
+Epoch( 3 ) Batch( 1 ) 0.331305466598
+Epoch( 3 ) Batch( 129 ) 34.4276703514
+Epoch( 3 ) Batch( 257 ) 68.2614045482
+Epoch( 3 ) Batch( 385 ) 101.724456448
+Final results:
+ training loss:0.263655,Train accuracy:95.76 %,test loss:0.138109,test accuracy:95.97 %
+Epoch( 4 ) Batch( 1 ) 0.21143749534
+Epoch( 4 ) Batch( 129 ) 31.6348791359
+Epoch( 4 ) Batch( 257 ) 63.4249056492
+Epoch( 4 ) Batch( 385 ) 93.7102899229
+Final results:
+ training loss:0.240407,Train accuracy:96.30 %,test loss:0.122423,test accuracy:96.37 %
+Epoch( 5 ) Batch( 1 ) 0.225582307549
+Epoch( 5 ) Batch( 129 ) 28.4134381312
+Epoch( 5 ) Batch( 257 ) 56.7077706312
+Epoch( 5 ) Batch( 385 ) 84.4297426498
+Final results:
+ training loss:0.214682,Train accuracy:96.63 %,test loss:0.110877,test accuracy:96.62 %
+Epoch( 6 ) Batch( 1 ) 0.123227341975
+Epoch( 6 ) Batch( 129 ) 26.2038943972
+Epoch( 6 ) Batch( 257 ) 51.3053398287
+Epoch( 6 ) Batch( 385 ) 76.9046359716
+Final results:
+ training loss:0.196619,Train accuracy:97.08 %,test loss:0.097938,test accuracy:96.91 %
+Epoch( 7 ) Batch( 1 ) 0.157643612774
+Epoch( 7 ) Batch( 129 ) 24.5510024678
+Epoch( 7 ) Batch( 257 ) 47.5162613064
+Epoch( 7 ) Batch( 385 ) 70.0221839594
+Final results:
+ training loss:0.180891,Train accuracy:97.37 %,test loss:0.092412,test accuracy:97.26 %
+Epoch( 8 ) Batch( 1 ) 0.140845516701
+Epoch( 8 ) Batch( 129 ) 21.5919229104
+Epoch( 8 ) Batch( 257 ) 42.088243561
+Epoch( 8 ) Batch( 385 ) 62.7838483464
+Final results:
+ training loss:0.162585,Train accuracy:97.63 %,test loss:0.081316,test accuracy:97.48 %
+Epoch( 9 ) Batch( 1 ) 0.1842893551
+Epoch( 9 ) Batch( 129 ) 19.384531462
+Epoch( 9 ) Batch( 257 ) 37.5366187049
+Epoch( 9 ) Batch( 385 ) 56.5813509365
+Final results:
+ training loss:0.146747,Train accuracy:97.88 %,test loss:0.071578,test accuracy:97.78 %
+Epoch( 10 ) Batch( 1 ) 0.149813168741
+Epoch( 10 ) Batch( 129 ) 18.1717115586
+Epoch( 10 ) Batch( 257 ) 34.543749434
+Epoch( 10 ) Batch( 385 ) 51.27752198
+Final results:
+ training loss:0.134033,Train accuracy:98.11 %,test loss:0.066660,test accuracy:97.88 %
+Epoch( 11 ) Batch( 1 ) 0.10396411029
+Epoch( 11 ) Batch( 129 ) 17.1105495524
+Epoch( 11 ) Batch( 257 ) 32.041124686
+Epoch( 11 ) Batch( 385 ) 48.4287984374
+Final results:
+ training loss:0.125415,Train accuracy:98.28 %,test loss:0.060982,test accuracy:97.93 %
+Epoch( 12 ) Batch( 1 ) 0.229938015152
+Epoch( 12 ) Batch( 129 ) 15.1647365463
+Epoch( 12 ) Batch( 257 ) 30.0627769981
+Epoch( 12 ) Batch( 385 ) 44.1684673419
+Final results:
+ training loss:0.113097,Train accuracy:98.42 %,test loss:0.055932,test accuracy:98.20 %
+Epoch( 13 ) Batch( 1 ) 0.0499043547236
+Epoch( 13 ) Batch( 129 ) 13.2211820584
+Epoch( 13 ) Batch( 257 ) 27.8295989595
+Epoch( 13 ) Batch( 385 ) 40.7339301016
+Final results:
+ training loss:0.106222,Train accuracy:98.52 %,test loss:0.052272,test accuracy:98.19 %
+Epoch( 14 ) Batch( 1 ) 0.145493702821
+Epoch( 14 ) Batch( 129 ) 12.5606587084
+Epoch( 14 ) Batch( 257 ) 25.8904429085
+Epoch( 14 ) Batch( 385 ) 39.269550661
+Final results:
+ training loss:0.101410,Train accuracy:98.62 %,test loss:0.050629,test accuracy:98.37 %
+MNIST Training Finished.....
+1:07:13.320116

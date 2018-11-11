@@ -1,0 +1,116 @@
+Downloading http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz
+Downloading http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz
+Downloading http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz
+Downloading http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz
+Processing...
+Done!
+/home/yousefpc/anaconda3/envs/Pytorch1/lib/python3.6/site-packages/ipykernel_launcher.py:24: UserWarning: nn.init.xavier_uniform is now deprecated in favor of nn.init.xavier_uniform_.
+/home/yousefpc/anaconda3/envs/Pytorch1/lib/python3.6/site-packages/ipykernel_launcher.py:115: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+MNIST Training Started.....
+Train Epoch: 1 [0/60000 (0%)]	 Loss: 2.301887
+Train Epoch: 1 [16384/60000 (27%)]	 Loss: 0.432660
+Train Epoch: 1 [32768/60000 (55%)]	 Loss: 0.272444
+Train Epoch: 1 [49152/60000 (82%)]	 Loss: 0.161396
+
+Train_Loss: 0.486830 , Train_accuracy: 0.862533, Test_loss: 0.1987, Test_accuracy: 0.94110
+
+Train Epoch: 2 [0/60000 (0%)]	 Loss: 0.247877
+Train Epoch: 2 [16384/60000 (27%)]	 Loss: 0.285705
+Train Epoch: 2 [32768/60000 (55%)]	 Loss: 0.190430
+Train Epoch: 2 [49152/60000 (82%)]	 Loss: 0.100774
+
+Train_Loss: 0.178208 , Train_accuracy: 0.946850, Test_loss: 0.1451, Test_accuracy: 0.95410
+
+Train Epoch: 3 [0/60000 (0%)]	 Loss: 0.198916
+Train Epoch: 3 [16384/60000 (27%)]	 Loss: 0.077363
+Train Epoch: 3 [32768/60000 (55%)]	 Loss: 0.076493
+Train Epoch: 3 [49152/60000 (82%)]	 Loss: 0.121995
+
+Train_Loss: 0.125317 , Train_accuracy: 0.962450, Test_loss: 0.1032, Test_accuracy: 0.96820
+
+Train Epoch: 4 [0/60000 (0%)]	 Loss: 0.118328
+Train Epoch: 4 [16384/60000 (27%)]	 Loss: 0.059157
+Train Epoch: 4 [32768/60000 (55%)]	 Loss: 0.255477
+Train Epoch: 4 [49152/60000 (82%)]	 Loss: 0.060994
+
+Train_Loss: 0.098590 , Train_accuracy: 0.969917, Test_loss: 0.0902, Test_accuracy: 0.97120
+
+Train Epoch: 5 [0/60000 (0%)]	 Loss: 0.110667
+Train Epoch: 5 [16384/60000 (27%)]	 Loss: 0.063037
+Train Epoch: 5 [32768/60000 (55%)]	 Loss: 0.070272
+Train Epoch: 5 [49152/60000 (82%)]	 Loss: 0.093951
+
+Train_Loss: 0.080029 , Train_accuracy: 0.975617, Test_loss: 0.0764, Test_accuracy: 0.97600
+
+Train Epoch: 6 [0/60000 (0%)]	 Loss: 0.064728
+Train Epoch: 6 [16384/60000 (27%)]	 Loss: 0.057762
+Train Epoch: 6 [32768/60000 (55%)]	 Loss: 0.108027
+Train Epoch: 6 [49152/60000 (82%)]	 Loss: 0.024927
+
+Train_Loss: 0.066054 , Train_accuracy: 0.980183, Test_loss: 0.0712, Test_accuracy: 0.97770
+
+Train Epoch: 7 [0/60000 (0%)]	 Loss: 0.082394
+Train Epoch: 7 [16384/60000 (27%)]	 Loss: 0.053669
+Train Epoch: 7 [32768/60000 (55%)]	 Loss: 0.102287
+Train Epoch: 7 [49152/60000 (82%)]	 Loss: 0.024452
+
+Train_Loss: 0.057511 , Train_accuracy: 0.982350, Test_loss: 0.0692, Test_accuracy: 0.97930
+
+Train Epoch: 8 [0/60000 (0%)]	 Loss: 0.027886
+Train Epoch: 8 [16384/60000 (27%)]	 Loss: 0.027582
+Train Epoch: 8 [32768/60000 (55%)]	 Loss: 0.057033
+Train Epoch: 8 [49152/60000 (82%)]	 Loss: 0.110245
+
+Train_Loss: 0.049159 , Train_accuracy: 0.985200, Test_loss: 0.0659, Test_accuracy: 0.97900
+
+Train Epoch: 9 [0/60000 (0%)]	 Loss: 0.028966
+Train Epoch: 9 [16384/60000 (27%)]	 Loss: 0.061331
+Train Epoch: 9 [32768/60000 (55%)]	 Loss: 0.026146
+Train Epoch: 9 [49152/60000 (82%)]	 Loss: 0.035492
+
+Train_Loss: 0.044450 , Train_accuracy: 0.986317, Test_loss: 0.0584, Test_accuracy: 0.98050
+
+Train Epoch: 10 [0/60000 (0%)]	 Loss: 0.026162
+Train Epoch: 10 [16384/60000 (27%)]	 Loss: 0.011703
+Train Epoch: 10 [32768/60000 (55%)]	 Loss: 0.025056
+Train Epoch: 10 [49152/60000 (82%)]	 Loss: 0.008109
+
+Train_Loss: 0.037908 , Train_accuracy: 0.988317, Test_loss: 0.0614, Test_accuracy: 0.97990
+
+Train Epoch: 11 [0/60000 (0%)]	 Loss: 0.062689
+Train Epoch: 11 [16384/60000 (27%)]	 Loss: 0.006092
+Train Epoch: 11 [32768/60000 (55%)]	 Loss: 0.012593
+Train Epoch: 11 [49152/60000 (82%)]	 Loss: 0.057340
+
+Train_Loss: 0.034029 , Train_accuracy: 0.989450, Test_loss: 0.0546, Test_accuracy: 0.98360
+
+Train Epoch: 12 [0/60000 (0%)]	 Loss: 0.008871
+Train Epoch: 12 [16384/60000 (27%)]	 Loss: 0.032553
+Train Epoch: 12 [32768/60000 (55%)]	 Loss: 0.014107
+Train Epoch: 12 [49152/60000 (82%)]	 Loss: 0.042313
+
+Train_Loss: 0.030297 , Train_accuracy: 0.991067, Test_loss: 0.0512, Test_accuracy: 0.98370
+
+Train Epoch: 13 [0/60000 (0%)]	 Loss: 0.021883
+Train Epoch: 13 [16384/60000 (27%)]	 Loss: 0.034745
+Train Epoch: 13 [32768/60000 (55%)]	 Loss: 0.030581
+Train Epoch: 13 [49152/60000 (82%)]	 Loss: 0.015470
+
+Train_Loss: 0.027061 , Train_accuracy: 0.991967, Test_loss: 0.0479, Test_accuracy: 0.98510
+
+Train Epoch: 14 [0/60000 (0%)]	 Loss: 0.021857
+Train Epoch: 14 [16384/60000 (27%)]	 Loss: 0.029795
+Train Epoch: 14 [32768/60000 (55%)]	 Loss: 0.058950
+Train Epoch: 14 [49152/60000 (82%)]	 Loss: 0.018590
+
+Train_Loss: 0.024729 , Train_accuracy: 0.992350, Test_loss: 0.0460, Test_accuracy: 0.98540
+
+Train Epoch: 15 [0/60000 (0%)]	 Loss: 0.025216
+Train Epoch: 15 [16384/60000 (27%)]	 Loss: 0.008533
+Train Epoch: 15 [32768/60000 (55%)]	 Loss: 0.030016
+Train Epoch: 15 [49152/60000 (82%)]	 Loss: 0.022084
+
+Train_Loss: 0.021819 , Train_accuracy: 0.993350, Test_loss: 0.0526, Test_accuracy: 0.98400
+
+0:27:35.932446
+MNIST Training Finished.....

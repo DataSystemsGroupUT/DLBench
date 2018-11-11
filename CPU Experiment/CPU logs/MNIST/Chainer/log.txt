@@ -1,0 +1,80 @@
+Downloading from http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz...
+Downloading from http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz...
+Downloading from http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz...
+Downloading from http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz...
+Epoch: 0  Batch ( 1 )
+Epoch: 0  Batch ( 128 )
+Epoch: 0  Batch ( 256 )
+Epoch: 0  Batch ( 384 )
+epoch:01 train_accuracy:0.7646 train_loss:0.3135 test_loss:0.3885 test_accuracy:0.8820
+Epoch: 1  Batch ( 1 )
+Epoch: 1  Batch ( 128 )
+Epoch: 1  Batch ( 256 )
+Epoch: 1  Batch ( 384 )
+epoch:02 train_accuracy:0.8914 train_loss:0.3040 test_loss:0.2973 test_accuracy:0.9080
+Epoch: 2  Batch ( 1 )
+Epoch: 2  Batch ( 128 )
+Epoch: 2  Batch ( 256 )
+Epoch: 2  Batch ( 384 )
+epoch:03 train_accuracy:0.9116 train_loss:0.2855 test_loss:0.2596 test_accuracy:0.9204
+Epoch: 3  Batch ( 1 )
+Epoch: 3  Batch ( 128 )
+Epoch: 3  Batch ( 256 )
+Epoch: 3  Batch ( 384 )
+epoch:04 train_accuracy:0.9233 train_loss:0.1797 test_loss:0.2360 test_accuracy:0.9285
+Epoch: 4  Batch ( 1 )
+Epoch: 4  Batch ( 128 )
+Epoch: 4  Batch ( 256 )
+Epoch: 4  Batch ( 384 )
+epoch:05 train_accuracy:0.9292 train_loss:0.1828 test_loss:0.2209 test_accuracy:0.9337
+Epoch: 5  Batch ( 1 )
+Epoch: 5  Batch ( 128 )
+Epoch: 5  Batch ( 256 )
+Epoch: 5  Batch ( 384 )
+epoch:06 train_accuracy:0.9362 train_loss:0.1729 test_loss:0.1969 test_accuracy:0.9424
+Epoch: 6  Batch ( 1 )
+Epoch: 6  Batch ( 128 )
+Epoch: 6  Batch ( 256 )
+Epoch: 6  Batch ( 384 )
+epoch:07 train_accuracy:0.9397 train_loss:0.0985 test_loss:0.1852 test_accuracy:0.9440
+Epoch: 7  Batch ( 1 )
+Epoch: 7  Batch ( 128 )
+Epoch: 7  Batch ( 256 )
+Epoch: 7  Batch ( 384 )
+epoch:08 train_accuracy:0.9444 train_loss:0.2687 test_loss:0.1746 test_accuracy:0.9471
+Epoch: 8  Batch ( 1 )
+Epoch: 8  Batch ( 128 )
+Epoch: 8  Batch ( 256 )
+Epoch: 8  Batch ( 384 )
+epoch:09 train_accuracy:0.9484 train_loss:0.1573 test_loss:0.1638 test_accuracy:0.9503
+Epoch: 9  Batch ( 1 )
+Epoch: 9  Batch ( 128 )
+Epoch: 9  Batch ( 256 )
+Epoch: 9  Batch ( 384 )
+epoch:10 train_accuracy:0.9513 train_loss:0.1200 test_loss:0.1454 test_accuracy:0.9577
+Epoch: 10  Batch ( 1 )
+Epoch: 10  Batch ( 128 )
+Epoch: 10  Batch ( 256 )
+Epoch: 10  Batch ( 384 )
+epoch:11 train_accuracy:0.9554 train_loss:0.1210 test_loss:0.1389 test_accuracy:0.9581
+Epoch: 11  Batch ( 1 )
+Epoch: 11  Batch ( 128 )
+Epoch: 11  Batch ( 256 )
+Epoch: 11  Batch ( 384 )
+epoch:12 train_accuracy:0.9588 train_loss:0.0734 test_loss:0.1289 test_accuracy:0.9584
+Epoch: 12  Batch ( 1 )
+Epoch: 12  Batch ( 128 )
+Epoch: 12  Batch ( 256 )
+Epoch: 12  Batch ( 384 )
+epoch:13 train_accuracy:0.9620 train_loss:0.1165 test_loss:0.1253 test_accuracy:0.9621
+Epoch: 13  Batch ( 1 )
+Epoch: 13  Batch ( 128 )
+Epoch: 13  Batch ( 256 )
+Epoch: 13  Batch ( 384 )
+epoch:14 train_accuracy:0.9632 train_loss:0.0282 test_loss:0.1176 test_accuracy:0.9665
+Epoch: 14  Batch ( 1 )
+Epoch: 14  Batch ( 128 )
+Epoch: 14  Batch ( 256 )
+Epoch: 14  Batch ( 384 )
+epoch:15 train_accuracy:0.9665 train_loss:0.0647 test_loss:0.1126 test_accuracy:0.9644
+1:28:01.645961
