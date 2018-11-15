@@ -6,7 +6,7 @@ conda --version
 conda create --name TensorFlow1
 source activate TensorFlow1
 pip install --upgrade pip
-conda install tensorflow==1.5
+conda install tensorflow==1.11
 conda install python=3.6.0
 pip install keras
 pip install matplotlib
