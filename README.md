@@ -41,6 +41,7 @@ There are two experiments one of them uses CPU and the other uses GPU.
     * The logs of the experiment 
     
  ### 3- Installation Guide <br />
+    * It contain file for each framework with the commands needed for installation 
     * It contains the required packages to be included for each environment.
     * It's recommended to create different environmnet for each framework using conda or virtualenvs
 
@@ -60,4 +61,13 @@ There are  many other optional parameters with the following default values, the
      2- momentum=0.5 <br />
      3- Weight Decay=1e-6 <br />
      4- batch size = 128 <br />
-
+     
+ ## #Installation steps:
+ create a new environment with conda
+  $ conda create -n [my-env-name]
+ activate the environment you created
+  $ source activate [my-env-name]
+ install pip in the virtual environment
+  $ conda install pip
+  
+  
