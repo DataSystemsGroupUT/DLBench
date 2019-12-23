@@ -1,0 +1,398 @@
+Epoch 1/50
+[0,  4500] train loss: 6.370
+[0,  9000] train loss: 5.917
+ - 871s - loss: 6.1351 - acc: 0.1251
+[0] test loss: 5.848 perplexity: 346.679
+[0] accuracy: 0.157
+
+
+Epoch 2/50
+[1,  4500] train loss: 5.822
+[1,  9000] train loss: 5.661
+ - 873s - loss: 5.7375 - acc: 0.1651
+[1] test loss: 5.638 perplexity: 280.789
+[1] accuracy: 0.176
+
+
+Epoch 3/50
+[2,  4500] train loss: 5.650
+[2,  9000] train loss: 5.527
+ - 873s - loss: 5.5864 - acc: 0.1793
+[2] test loss: 5.523 perplexity: 250.480
+[2] accuracy: 0.186
+
+
+Epoch 4/50
+[3,  4500] train loss: 5.537
+[3,  9000] train loss: 5.436
+ - 870s - loss: 5.4853 - acc: 0.1884
+[3] test loss: 5.462 perplexity: 235.664
+[3] accuracy: 0.190
+
+
+Epoch 5/50
+[4,  4500] train loss: 5.457
+[4,  9000] train loss: 5.361
+ - 867s - loss: 5.4083 - acc: 0.1957
+[4] test loss: 5.416 perplexity: 224.995
+[4] accuracy: 0.195
+
+
+Epoch 6/50
+[5,  4500] train loss: 5.394
+[5,  9000] train loss: 5.301
+ - 871s - loss: 5.3471 - acc: 0.2014
+[5] test loss: 5.373 perplexity: 215.419
+[5] accuracy: 0.199
+
+
+Epoch 7/50
+[6,  4500] train loss: 5.337
+[6,  9000] train loss: 5.254
+ - 866s - loss: 5.2952 - acc: 0.2064
+[6] test loss: 5.362 perplexity: 213.229
+[6] accuracy: 0.199
+
+
+Epoch 8/50
+[7,  4500] train loss: 5.292
+[7,  9000] train loss: 5.210
+ - 871s - loss: 5.2511 - acc: 0.2110
+[7] test loss: 5.353 perplexity: 211.161
+[7] accuracy: 0.201
+
+
+Epoch 9/50
+[8,  4500] train loss: 5.253
+[8,  9000] train loss: 5.178
+ - 870s - loss: 5.2151 - acc: 0.2144
+[8] test loss: 5.336 perplexity: 207.772
+[8] accuracy: 0.205
+
+
+Epoch 10/50
+[9,  4500] train loss: 5.222
+[9,  9000] train loss: 5.142
+ - 866s - loss: 5.1826 - acc: 0.2180
+[9] test loss: 5.323 perplexity: 204.976
+[9] accuracy: 0.208
+
+
+Epoch 11/50
+[10,  4500] train loss: 5.192
+[10,  9000] train loss: 5.116
+ - 859s - loss: 5.1548 - acc: 0.2206
+[10] test loss: 5.327 perplexity: 205.870
+[10] accuracy: 0.207
+
+
+Epoch 12/50
+[11,  4500] train loss: 5.162
+[11,  9000] train loss: 5.088
+ - 869s - loss: 5.1250 - acc: 0.2239
+[11] test loss: 5.320 perplexity: 204.425
+[11] accuracy: 0.211
+
+
+Epoch 13/50
+[12,  4500] train loss: 5.135
+[12,  9000] train loss: 5.066
+ - 872s - loss: 5.1010 - acc: 0.2262
+[12] test loss: 5.328 perplexity: 205.968
+[12] accuracy: 0.208
+
+
+Epoch 14/50
+[13,  4500] train loss: 5.114
+[13,  9000] train loss: 5.045
+ - 872s - loss: 5.0799 - acc: 0.2286
+[13] test loss: 5.340 perplexity: 208.545
+[13] accuracy: 0.208
+
+
+Epoch 15/50
+[14,  4500] train loss: 5.097
+[14,  9000] train loss: 5.023
+ - 868s - loss: 5.0608 - acc: 0.2305
+[14] test loss: 5.336 perplexity: 207.610
+[14] accuracy: 0.209
+
+
+Epoch 16/50
+[15,  4500] train loss: 5.077
+[15,  9000] train loss: 5.005
+ - 868s - loss: 5.0408 - acc: 0.2327
+[15] test loss: 5.343 perplexity: 209.089
+[15] accuracy: 0.210
+
+
+Epoch 17/50
+[16,  4500] train loss: 5.058
+[16,  9000] train loss: 4.986
+ - 872s - loss: 5.0228 - acc: 0.2347
+[16] test loss: 5.343 perplexity: 209.242
+[16] accuracy: 0.211
+
+
+Epoch 18/50
+[17,  4500] train loss: 5.043
+[17,  9000] train loss: 4.970
+ - 874s - loss: 5.0071 - acc: 0.2360
+[17] test loss: 5.360 perplexity: 212.646
+[17] accuracy: 0.212
+
+
+Epoch 19/50
+[18,  4500] train loss: 5.028
+[18,  9000] train loss: 4.957
+ - 875s - loss: 4.9932 - acc: 0.2378
+[18] test loss: 5.354 perplexity: 211.416
+[18] accuracy: 0.213
+
+
+Epoch 20/50
+[19,  4500] train loss: 5.016
+[19,  9000] train loss: 4.939
+ - 874s - loss: 4.9787 - acc: 0.2392
+[19] test loss: 5.375 perplexity: 216.029
+[19] accuracy: 0.214
+
+
+Epoch 21/50
+[20,  4500] train loss: 5.002
+[20,  9000] train loss: 4.929
+ - 873s - loss: 4.9660 - acc: 0.2409
+[20] test loss: 5.371 perplexity: 215.151
+[20] accuracy: 0.215
+
+
+Epoch 22/50
+[21,  4500] train loss: 4.991
+[21,  9000] train loss: 4.918
+ - 874s - loss: 4.9550 - acc: 0.2419
+[21] test loss: 5.385 perplexity: 218.083
+[21] accuracy: 0.213
+
+
+Epoch 23/50
+[22,  4500] train loss: 4.977
+[22,  9000] train loss: 4.904
+ - 874s - loss: 4.9416 - acc: 0.2433
+[22] test loss: 5.399 perplexity: 221.185
+[22] accuracy: 0.214
+
+
+Epoch 24/50
+[23,  4500] train loss: 4.965
+[23,  9000] train loss: 4.898
+ - 877s - loss: 4.9316 - acc: 0.2443
+[23] test loss: 5.402 perplexity: 221.936
+[23] accuracy: 0.214
+
+
+Epoch 25/50
+[24,  4500] train loss: 4.952
+[24,  9000] train loss: 4.884
+ - 875s - loss: 4.9188 - acc: 0.2455
+[24] test loss: 5.412 perplexity: 224.019
+[24] accuracy: 0.214
+
+
+Epoch 26/50
+[25,  4500] train loss: 4.944
+[25,  9000] train loss: 4.870
+ - 872s - loss: 4.9073 - acc: 0.2464
+[25] test loss: 5.428 perplexity: 227.740
+[25] accuracy: 0.214
+
+
+Epoch 27/50
+[26,  4500] train loss: 4.930
+[26,  9000] train loss: 4.861
+ - 873s - loss: 4.8963 - acc: 0.2477
+[26] test loss: 5.434 perplexity: 229.038
+[26] accuracy: 0.213
+
+
+Epoch 28/50
+[27,  4500] train loss: 4.922
+[27,  9000] train loss: 4.851
+ - 874s - loss: 4.8881 - acc: 0.2485
+[27] test loss: 5.454 perplexity: 233.615
+[27] accuracy: 0.214
+
+
+Epoch 29/50
+[28,  4500] train loss: 4.912
+[28,  9000] train loss: 4.845
+ - 874s - loss: 4.8792 - acc: 0.2494
+[28] test loss: 5.468 perplexity: 237.015
+[28] accuracy: 0.216
+
+
+Epoch 30/50
+[29,  4500] train loss: 4.904
+[29,  9000] train loss: 4.837
+ - 877s - loss: 4.8713 - acc: 0.2504
+[29] test loss: 5.472 perplexity: 237.909
+[29] accuracy: 0.216
+
+
+Epoch 31/50
+[30,  4500] train loss: 4.892
+[30,  9000] train loss: 4.827
+ - 870s - loss: 4.8608 - acc: 0.2514
+[30] test loss: 5.480 perplexity: 239.896
+[30] accuracy: 0.215
+
+
+Epoch 32/50
+[31,  4500] train loss: 4.882
+[31,  9000] train loss: 4.818
+ - 867s - loss: 4.8506 - acc: 0.2524
+[31] test loss: 5.468 perplexity: 236.922
+[31] accuracy: 0.216
+
+
+Epoch 33/50
+[32,  4500] train loss: 4.877
+[32,  9000] train loss: 4.808
+ - 857s - loss: 4.8440 - acc: 0.2535
+[32] test loss: 5.462 perplexity: 235.589
+[32] accuracy: 0.218
+
+
+Epoch 34/50
+[33,  4500] train loss: 4.861
+[33,  9000] train loss: 4.796
+ - 866s - loss: 4.8280 - acc: 0.2550
+[33] test loss: 5.475 perplexity: 238.557
+[33] accuracy: 0.218
+
+
+Epoch 35/50
+[34,  4500] train loss: 4.861
+[34,  9000] train loss: 4.783
+ - 857s - loss: 4.8230 - acc: 0.2557
+[34] test loss: 5.480 perplexity: 239.767
+[34] accuracy: 0.218
+
+
+Epoch 36/50
+[35,  4500] train loss: 4.845
+[35,  9000] train loss: 4.768
+ - 860s - loss: 4.8068 - acc: 0.2571
+[35] test loss: 5.491 perplexity: 242.490
+[35] accuracy: 0.219
+
+
+Epoch 37/50
+[36,  4500] train loss: 4.831
+[36,  9000] train loss: 4.766
+ - 858s - loss: 4.7993 - acc: 0.2579
+[36] test loss: 5.487 perplexity: 241.466
+[36] accuracy: 0.218
+
+
+Epoch 38/50
+[37,  4500] train loss: 4.834
+[37,  9000] train loss: 4.762
+ - 864s - loss: 4.7996 - acc: 0.2580
+[37] test loss: 5.498 perplexity: 244.219
+[37] accuracy: 0.217
+
+
+Epoch 39/50
+[38,  4500] train loss: 4.815
+[38,  9000] train loss: 4.751
+ - 878s - loss: 4.7836 - acc: 0.2593
+[38] test loss: 5.504 perplexity: 245.613
+[38] accuracy: 0.217
+
+
+Epoch 40/50
+[39,  4500] train loss: 4.811
+[39,  9000] train loss: 4.747
+ - 874s - loss: 4.7794 - acc: 0.2600
+[39] test loss: 5.507 perplexity: 246.308
+[39] accuracy: 0.217
+
+
+Epoch 41/50
+[40,  4500] train loss: 4.807
+[40,  9000] train loss: 4.740
+ - 871s - loss: 4.7754 - acc: 0.2603
+[40] test loss: 5.510 perplexity: 247.054
+[40] accuracy: 0.218
+
+
+Epoch 42/50
+[41,  4500] train loss: 4.799
+[41,  9000] train loss: 4.730
+ - 867s - loss: 4.7647 - acc: 0.2611
+[41] test loss: 5.533 perplexity: 252.993
+[41] accuracy: 0.216
+
+
+Epoch 43/50
+[42,  4500] train loss: 4.791
+[42,  9000] train loss: 4.724
+ - 868s - loss: 4.7585 - acc: 0.2618
+[42] test loss: 5.597 perplexity: 269.544
+[42] accuracy: 0.216
+
+
+Epoch 44/50
+[43,  4500] train loss: 4.786
+[43,  9000] train loss: 4.720
+ - 873s - loss: 4.7536 - acc: 0.2621
+[43] test loss: 5.543 perplexity: 255.383
+[43] accuracy: 0.217
+
+
+Epoch 45/50
+[44,  4500] train loss: 4.778
+[44,  9000] train loss: 4.712
+ - 869s - loss: 4.7466 - acc: 0.2629
+[44] test loss: 5.548 perplexity: 256.784
+[44] accuracy: 0.217
+
+
+Epoch 46/50
+[45,  4500] train loss: 4.772
+[45,  9000] train loss: 4.703
+ - 869s - loss: 4.7378 - acc: 0.2635
+[45] test loss: 5.545 perplexity: 255.904
+[45] accuracy: 0.217
+
+
+Epoch 47/50
+[46,  4500] train loss: 4.765
+[46,  9000] train loss: 4.701
+ - 860s - loss: 4.7338 - acc: 0.2641
+[46] test loss: 5.568 perplexity: 261.973
+[46] accuracy: 0.218
+
+
+Epoch 48/50
+[47,  4500] train loss: 4.761
+[47,  9000] train loss: 4.697
+ - 859s - loss: 4.7298 - acc: 0.2641
+[47] test loss: 5.565 perplexity: 261.015
+[47] accuracy: 0.218
+
+
+Epoch 49/50
+[48,  4500] train loss: 4.755
+[48,  9000] train loss: 4.688
+ - 861s - loss: 4.7227 - acc: 0.2647
+[48] test loss: 5.565 perplexity: 261.087
+[48] accuracy: 0.217
+
+
+Epoch 50/50
+[49,  4500] train loss: 4.747
+[49,  9000] train loss: 4.684
+ - 864s - loss: 4.7168 - acc: 0.2654
+[49] test loss: 5.571 perplexity: 262.606
+[49] accuracy: 0.217

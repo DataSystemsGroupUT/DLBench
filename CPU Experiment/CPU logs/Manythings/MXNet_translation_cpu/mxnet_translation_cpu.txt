@@ -1,0 +1,1099 @@
+Epoch  1
+Time since beginning  0:00:00.000001
+Batch 0 Loss 9.291618347167969
+Batch 0 Accuracy 0.0
+Batch 600 Loss 2.421449899673462
+Batch 600 Accuracy 0.64697265625
+Validation Loss : 2.418565714970613
+Validation Perplexity : 5.346392349927819
+Validation Acc : 0.6469507461939102
+
+
+Epoch  2
+Time since beginning  0:04:07.516418
+Batch 0 Loss 2.462994337081909
+Batch 0 Accuracy 0.63330078125
+Batch 600 Loss 2.237394094467163
+Batch 600 Accuracy 0.65771484375
+Validation Loss : 2.182495598609631
+Validation Perplexity : 4.539381052727041
+Validation Acc : 0.6697434645432693
+
+
+Epoch  3
+Time since beginning  0:07:45.224138
+Batch 0 Loss 2.2315311431884766
+Batch 0 Accuracy 0.6513671875
+Batch 600 Loss 1.9850058555603027
+Batch 600 Accuracy 0.69091796875
+Validation Loss : 2.0300769928174143
+Validation Perplexity : 4.0842664635082
+Validation Acc : 0.6906926081730769
+
+
+Epoch  4
+Time since beginning  0:11:16.346032
+Batch 0 Loss 1.9942922592163086
+Batch 0 Accuracy 0.68359375
+Batch 600 Loss 1.9954824447631836
+Batch 600 Accuracy 0.68359375
+Validation Loss : 1.9035288362930982
+Validation Perplexity : 3.741271945512345
+Validation Acc : 0.7056728265224359
+
+
+Epoch  5
+Time since beginning  0:14:49.526417
+Batch 0 Loss 1.9266456365585327
+Batch 0 Accuracy 0.701171875
+Batch 600 Loss 1.6900248527526855
+Batch 600 Accuracy 0.72265625
+Validation Loss : 1.8045661548773448
+Validation Perplexity : 3.4932409434422267
+Validation Acc : 0.7153101211939102
+
+
+Epoch  6
+Time since beginning  0:18:14.430189
+Batch 0 Loss 1.7437877655029297
+Batch 0 Accuracy 0.71826171875
+Batch 600 Loss 1.6586908102035522
+Batch 600 Accuracy 0.7197265625
+Validation Loss : 1.7236945972992823
+Validation Perplexity : 3.302811416819297
+Validation Acc : 0.7241461338141025
+
+
+Epoch  7
+Time since beginning  0:21:35.989413
+Batch 0 Loss 1.7421420812606812
+Batch 0 Accuracy 0.71337890625
+Batch 600 Loss 1.6306684017181396
+Batch 600 Accuracy 0.71875
+Validation Loss : 1.6574538472371223
+Validation Perplexity : 3.1545929212414077
+Validation Acc : 0.7323811848958334
+
+
+Epoch  8
+Time since beginning  0:24:59.992832
+Batch 0 Loss 1.5712331533432007
+Batch 0 Accuracy 0.73583984375
+Batch 600 Loss 1.65681791305542
+Batch 600 Accuracy 0.71337890625
+Validation Loss : 1.5991944471995037
+Validation Perplexity : 3.0297409543222087
+Validation Acc : 0.7398775540865384
+
+
+Epoch  9
+Time since beginning  0:28:23.137568
+Batch 0 Loss 1.5621432065963745
+Batch 0 Accuracy 0.736328125
+Batch 600 Loss 1.612145185470581
+Batch 600 Accuracy 0.73828125
+Validation Loss : 1.5544560796175249
+Validation Perplexity : 2.9372296726132068
+Validation Acc : 0.7443534655448718
+
+
+Epoch  10
+Time since beginning  0:31:51.145736
+Batch 0 Loss 1.5146220922470093
+Batch 0 Accuracy 0.73486328125
+Batch 600 Loss 1.4629477262496948
+Batch 600 Accuracy 0.7412109375
+Validation Loss : 1.5097290269839458
+Validation Perplexity : 2.847565499302058
+Validation Acc : 0.7511612329727564
+
+
+Epoch  11
+Time since beginning  0:35:15.860309
+Batch 0 Loss 1.4693925380706787
+Batch 0 Accuracy 0.74853515625
+Batch 600 Loss 1.3674691915512085
+Batch 600 Accuracy 0.7705078125
+Validation Loss : 1.4693568662191048
+Validation Perplexity : 2.7689842856022673
+Validation Acc : 0.7571019881810898
+
+
+Epoch  12
+Time since beginning  0:38:30.915327
+Batch 0 Loss 1.2912383079528809
+Batch 0 Accuracy 0.77490234375
+Batch 600 Loss 1.309390664100647
+Batch 600 Accuracy 0.7724609375
+Validation Loss : 1.4343496110194769
+Validation Perplexity : 2.702603016626388
+Validation Acc : 0.7620067107371795
+
+
+Epoch  13
+Time since beginning  0:41:46.378105
+Batch 0 Loss 1.3578977584838867
+Batch 0 Accuracy 0.7578125
+Batch 600 Loss 1.3854666948318481
+Batch 600 Accuracy 0.75927734375
+Validation Loss : 1.4008676493779206
+Validation Perplexity : 2.6406034260248745
+Validation Acc : 0.7670773237179487
+
+
+Epoch  14
+Time since beginning  0:45:02.248986
+Batch 0 Loss 1.3789939880371094
+Batch 0 Accuracy 0.7646484375
+Batch 600 Loss 1.3054068088531494
+Batch 600 Accuracy 0.771484375
+Validation Loss : 1.3713707152085426
+Validation Perplexity : 2.5871625761861266
+Validation Acc : 0.7717566856971154
+
+
+Epoch  15
+Time since beginning  0:48:16.520939
+Batch 0 Loss 1.268133521080017
+Batch 0 Accuracy 0.7763671875
+Batch 600 Loss 1.2419568300247192
+Batch 600 Accuracy 0.7783203125
+Validation Loss : 1.342886710778261
+Validation Perplexity : 2.5365836028013873
+Validation Acc : 0.7753342848557693
+
+
+Epoch  16
+Time since beginning  0:51:39.229667
+Batch 0 Loss 1.3255884647369385
+Batch 0 Accuracy 0.76806640625
+Batch 600 Loss 1.2819236516952515
+Batch 600 Accuracy 0.765625
+Validation Loss : 1.3147777632260933
+Validation Perplexity : 2.4876400740549816
+Validation Acc : 0.7788492838541666
+
+
+Epoch  17
+Time since beginning  0:55:19.167098
+Batch 0 Loss 1.297813057899475
+Batch 0 Accuracy 0.76416015625
+Batch 600 Loss 1.206421136856079
+Batch 600 Accuracy 0.7802734375
+Validation Loss : 1.2902377102619562
+Validation Perplexity : 2.445683493049267
+Validation Acc : 0.7828463040865384
+
+
+Epoch  18
+Time since beginning  0:58:55.972899
+Batch 0 Loss 1.1291204690933228
+Batch 0 Accuracy 0.79541015625
+Batch 600 Loss 1.2111175060272217
+Batch 600 Accuracy 0.77734375
+Validation Loss : 1.267955713547193
+Validation Perplexity : 2.4082008367150967
+Validation Acc : 0.7866962139423077
+
+
+Epoch  19
+Time since beginning  1:02:33.490336
+Batch 0 Loss 1.1837266683578491
+Batch 0 Accuracy 0.7880859375
+Batch 600 Loss 1.1848053932189941
+Batch 600 Accuracy 0.7841796875
+Validation Loss : 1.2453041665064983
+Validation Perplexity : 2.3706853058933386
+Validation Acc : 0.7889811197916666
+
+
+Epoch  20
+Time since beginning  1:06:07.008012
+Batch 0 Loss 1.119931697845459
+Batch 0 Accuracy 0.79150390625
+Batch 600 Loss 1.1651170253753662
+Batch 600 Accuracy 0.78564453125
+Validation Loss : 1.2246237687575512
+Validation Perplexity : 2.336944980666642
+Validation Acc : 0.791816907051282
+
+
+Epoch  21
+Time since beginning  1:09:39.012123
+Batch 0 Loss 1.0990383625030518
+Batch 0 Accuracy 0.79833984375
+Batch 600 Loss 1.0903511047363281
+Batch 600 Accuracy 0.8017578125
+Validation Loss : 1.20433870722086
+Validation Perplexity : 2.304316214629782
+Validation Acc : 0.7943459535256411
+
+
+Epoch  22
+Time since beginning  1:13:16.347308
+Batch 0 Loss 1.07108473777771
+Batch 0 Accuracy 0.8017578125
+Batch 600 Loss 1.044101595878601
+Batch 600 Accuracy 0.80859375
+Validation Loss : 1.1855890834942842
+Validation Perplexity : 2.274562509802459
+Validation Acc : 0.7966590294471154
+
+
+Epoch  23
+Time since beginning  1:16:50.289159
+Batch 0 Loss 1.0996173620224
+Batch 0 Accuracy 0.79150390625
+Batch 600 Loss 1.1239073276519775
+Batch 600 Accuracy 0.79052734375
+Validation Loss : 1.1697877202278528
+Validation Perplexity : 2.2497859089910133
+Validation Acc : 0.7993946564503205
+
+
+Epoch  24
+Time since beginning  1:20:22.951502
+Batch 0 Loss 1.0631248950958252
+Batch 0 Accuracy 0.810546875
+Batch 600 Loss 1.0434402227401733
+Batch 600 Accuracy 0.81201171875
+Validation Loss : 1.1520863255629172
+Validation Perplexity : 2.222350430604563
+Validation Acc : 0.801513671875
+
+
+Epoch  25
+Time since beginning  1:23:53.709458
+Batch 0 Loss 0.965604841709137
+Batch 0 Accuracy 0.81494140625
+Batch 600 Loss 1.0983327627182007
+Batch 600 Accuracy 0.7822265625
+Validation Loss : 1.1369302796247678
+Validation Perplexity : 2.199126020038121
+Validation Acc : 0.8041741786858975
+
+
+Epoch  26
+Time since beginning  1:27:24.788336
+Batch 0 Loss 0.9582682847976685
+Batch 0 Accuracy 0.826171875
+Batch 600 Loss 0.930785596370697
+Batch 600 Accuracy 0.81787109375
+Validation Loss : 1.123130772358332
+Validation Perplexity : 2.1781914627814856
+Validation Acc : 0.805473132011218
+
+
+Epoch  27
+Time since beginning  1:30:56.725910
+Batch 0 Loss 0.9860308766365051
+Batch 0 Accuracy 0.81396484375
+Batch 600 Loss 0.9290778636932373
+Batch 600 Accuracy 0.822265625
+Validation Loss : 1.1079109666439204
+Validation Perplexity : 2.15533327342702
+Validation Acc : 0.8078894981971154
+
+
+Epoch  28
+Time since beginning  1:34:25.650775
+Batch 0 Loss 0.9816181659698486
+Batch 0 Accuracy 0.810546875
+Batch 600 Loss 0.9842174053192139
+Batch 600 Accuracy 0.8095703125
+Validation Loss : 1.0975515085917253
+Validation Perplexity : 2.1399120577920647
+Validation Acc : 0.8094044220753205
+
+
+Epoch  29
+Time since beginning  1:37:53.441666
+Batch 0 Loss 0.9854094386100769
+Batch 0 Accuracy 0.8115234375
+Batch 600 Loss 0.848618745803833
+Batch 600 Accuracy 0.8291015625
+Validation Loss : 1.0820670219568105
+Validation Perplexity : 2.117067138106986
+Validation Acc : 0.8121087489983975
+
+
+Epoch  30
+Time since beginning  1:41:20.852843
+Batch 0 Loss 0.9390386343002319
+Batch 0 Accuracy 0.8251953125
+Batch 600 Loss 0.9493829011917114
+Batch 600 Accuracy 0.81884765625
+Validation Loss : 1.0701808436558797
+Validation Perplexity : 2.0996965503802345
+Validation Acc : 0.8140618739983975
+
+
+Epoch  31
+Time since beginning  1:44:43.356894
+Batch 0 Loss 0.9172643423080444
+Batch 0 Accuracy 0.82470703125
+Batch 600 Loss 0.9123410582542419
+Batch 600 Accuracy 0.82080078125
+Validation Loss : 1.0582282206951044
+Validation Perplexity : 2.082372580939759
+Validation Acc : 0.8156456580528846
+
+
+Epoch  32
+Time since beginning  1:48:08.104780
+Batch 0 Loss 0.8827430009841919
+Batch 0 Accuracy 0.8193359375
+Batch 600 Loss 0.9193969964981079
+Batch 600 Accuracy 0.8291015625
+Validation Loss : 1.0477286137831516
+Validation Perplexity : 2.067272560054665
+Validation Acc : 0.8172795222355769
+
+
+Epoch  33
+Time since beginning  1:51:38.614078
+Batch 0 Loss 0.8224537968635559
+Batch 0 Accuracy 0.837890625
+Batch 600 Loss 0.8266994953155518
+Batch 600 Accuracy 0.8408203125
+Validation Loss : 1.0378067168669822
+Validation Perplexity : 2.053104011157585
+Validation Acc : 0.8190010266426282
+
+
+Epoch  34
+Time since beginning  1:55:08.719171
+Batch 0 Loss 0.7830750346183777
+Batch 0 Accuracy 0.84765625
+Batch 600 Loss 0.8454710245132446
+Batch 600 Accuracy 0.83056640625
+Validation Loss : 1.0271260425066338
+Validation Perplexity : 2.037960433923766
+Validation Acc : 0.8201309595352564
+
+
+Epoch  35
+Time since beginning  1:58:32.198836
+Batch 0 Loss 0.7816897034645081
+Batch 0 Accuracy 0.8466796875
+Batch 600 Loss 0.8185259103775024
+Batch 600 Accuracy 0.8349609375
+Validation Loss : 1.0164329019876628
+Validation Perplexity : 2.022911075032777
+Validation Acc : 0.8220246143830128
+
+
+Epoch  36
+Time since beginning  2:01:55.190280
+Batch 0 Loss 0.7767470479011536
+Batch 0 Accuracy 0.8525390625
+Batch 600 Loss 0.8913995027542114
+Batch 600 Accuracy 0.82763671875
+Validation Loss : 1.0077907630266287
+Validation Perplexity : 2.0108295049864457
+Validation Acc : 0.8232390574919872
+
+
+Epoch  37
+Time since beginning  2:05:22.394039
+Batch 0 Loss 0.724078893661499
+Batch 0 Accuracy 0.8515625
+Batch 600 Loss 0.7526223063468933
+Batch 600 Accuracy 0.853515625
+Validation Loss : 0.9970609599199051
+Validation Perplexity : 1.9959297726253737
+Validation Acc : 0.8250231620592948
+
+
+Epoch  38
+Time since beginning  2:08:51.923222
+Batch 0 Loss 0.7754532098770142
+Batch 0 Accuracy 0.849609375
+Batch 600 Loss 0.7780311703681946
+Batch 600 Accuracy 0.8486328125
+Validation Loss : 0.9885062055710034
+Validation Perplexity : 1.984129520729364
+Validation Acc : 0.8263252453926282
+
+
+Epoch  39
+Time since beginning  2:12:28.321404
+Batch 0 Loss 0.6984081268310547
+Batch 0 Accuracy 0.85986328125
+Batch 600 Loss 0.6993683576583862
+Batch 600 Accuracy 0.86376953125
+Validation Loss : 0.9794319822238042
+Validation Perplexity : 1.9716889629247063
+Validation Acc : 0.8277775691105769
+
+
+Epoch  40
+Time since beginning  2:15:56.525355
+Batch 0 Loss 0.6949934959411621
+Batch 0 Accuracy 0.85546875
+Batch 600 Loss 0.7755616307258606
+Batch 600 Accuracy 0.8388671875
+Validation Loss : 0.9738072065206674
+Validation Perplexity : 1.9640167130757238
+Validation Acc : 0.8289826221955128
+
+
+Epoch  41
+Time since beginning  2:19:23.768697
+Batch 0 Loss 0.8003586530685425
+Batch 0 Accuracy 0.8349609375
+Batch 600 Loss 0.7740374207496643
+Batch 600 Accuracy 0.83837890625
+Validation Loss : 0.9657809875714474
+Validation Perplexity : 1.9531205363936144
+Validation Acc : 0.8303692157451923
+
+
+Epoch  42
+Time since beginning  2:22:50.892254
+Batch 0 Loss 0.624982476234436
+Batch 0 Accuracy 0.875
+Batch 600 Loss 0.7007895112037659
+Batch 600 Accuracy 0.85595703125
+Validation Loss : 0.957759942763891
+Validation Perplexity : 1.9422917765602392
+Validation Acc : 0.8314490685096154
+
+
+Epoch  43
+Time since beginning  2:26:19.675577
+Batch 0 Loss 0.6625431776046753
+Batch 0 Accuracy 0.8642578125
+Batch 600 Loss 0.7217005491256714
+Batch 600 Accuracy 0.85009765625
+Validation Loss : 0.9511419591995386
+Validation Perplexity : 1.9334024288991836
+Validation Acc : 0.8324444110576923
+
+
+Epoch  44
+Time since beginning  2:29:37.854717
+Batch 0 Loss 0.644219696521759
+Batch 0 Accuracy 0.865234375
+Batch 600 Loss 0.693289577960968
+Batch 600 Accuracy 0.85595703125
+Validation Loss : 0.945275692603527
+Validation Perplexity : 1.925556816387966
+Validation Acc : 0.8333896734775641
+
+
+Epoch  45
+Time since beginning  2:32:54.151225
+Batch 0 Loss 0.6224717497825623
+Batch 0 Accuracy 0.87109375
+Batch 600 Loss 0.7103577256202698
+Batch 600 Accuracy 0.8515625
+Validation Loss : 0.9369052354341898
+Validation Perplexity : 1.9144171622537391
+Validation Acc : 0.8344945663060898
+
+
+Epoch  46
+Time since beginning  2:36:11.274239
+Batch 0 Loss 0.674336850643158
+Batch 0 Accuracy 0.85791015625
+Batch 600 Loss 0.6527195572853088
+Batch 600 Accuracy 0.87158203125
+Validation Loss : 0.9342883305671887
+Validation Perplexity : 1.9109477480589996
+Validation Acc : 0.8347825270432693
+
+
+Epoch  47
+Time since beginning  2:39:41.658354
+Batch 0 Loss 0.6270650625228882
+Batch 0 Accuracy 0.87353515625
+Batch 600 Loss 0.5581040978431702
+Batch 600 Accuracy 0.89111328125
+Validation Loss : 0.9260135014087726
+Validation Perplexity : 1.9000185469206465
+Validation Acc : 0.8365415915464743
+
+
+Epoch  48
+Time since beginning  2:43:06.993288
+Batch 0 Loss 0.6117306351661682
+Batch 0 Accuracy 0.87158203125
+Batch 600 Loss 0.6768998503684998
+Batch 600 Accuracy 0.86328125
+Validation Loss : 0.923168726838552
+Validation Perplexity : 1.8962756915335715
+Validation Acc : 0.8368765024038461
+
+
+Epoch  49
+Time since beginning  2:46:37.855913
+Batch 0 Loss 0.5881161689758301
+Batch 0 Accuracy 0.8828125
+Batch 600 Loss 0.5989113450050354
+Batch 600 Accuracy 0.8759765625
+Validation Loss : 0.9160258919000626
+Validation Perplexity : 1.8869103656738202
+Validation Acc : 0.8382192758413461
+
+
+Epoch  50
+Time since beginning  2:50:04.062836
+Batch 0 Loss 0.5862181782722473
+Batch 0 Accuracy 0.87353515625
+Batch 600 Loss 0.5758681297302246
+Batch 600 Accuracy 0.8759765625
+Validation Loss : 0.9117499716006793
+Validation Perplexity : 1.8813261407617201
+Validation Acc : 0.8386699969951923
+
+
+Epoch  51
+Time since beginning  2:53:20.874638
+Batch 0 Loss 0.6506257653236389
+Batch 0 Accuracy 0.85400390625
+Batch 600 Loss 0.5595892667770386
+Batch 600 Accuracy 0.880859375
+Validation Loss : 0.9078740592186267
+Validation Perplexity : 1.8762785951785759
+Validation Acc : 0.8392897385817307
+
+
+Epoch  52
+Time since beginning  2:56:35.336718
+Batch 0 Loss 0.5522555112838745
+Batch 0 Accuracy 0.88134765625
+Batch 600 Loss 0.6022638082504272
+Batch 600 Accuracy 0.87060546875
+Validation Loss : 0.9026031956458703
+Validation Perplexity : 1.8694361479277826
+Validation Acc : 0.840278821113782
+
+
+Epoch  53
+Time since beginning  2:59:51.157164
+Batch 0 Loss 0.6021481156349182
+Batch 0 Accuracy 0.87255859375
+Batch 600 Loss 0.5525932908058167
+Batch 600 Accuracy 0.88330078125
+Validation Loss : 0.8989206063441741
+Validation Perplexity : 1.8646703544645467
+Validation Acc : 0.8409924629407052
+
+
+Epoch  54
+Time since beginning  3:03:17.266000
+Batch 0 Loss 0.5530582666397095
+Batch 0 Accuracy 0.87939453125
+Batch 600 Loss 0.5335234999656677
+Batch 600 Accuracy 0.88330078125
+Validation Loss : 0.8956780036290487
+Validation Perplexity : 1.8604840260025475
+Validation Acc : 0.8415871644631411
+
+
+Epoch  55
+Time since beginning  3:06:37.607763
+Batch 0 Loss 0.5174558162689209
+Batch 0 Accuracy 0.8857421875
+Batch 600 Loss 0.5736249685287476
+Batch 600 Accuracy 0.88134765625
+Validation Loss : 0.8923250589615259
+Validation Perplexity : 1.8561651252680107
+Validation Acc : 0.8421536959134616
+
+
+Epoch  56
+Time since beginning  3:10:05.804126
+Batch 0 Loss 0.5316354036331177
+Batch 0 Accuracy 0.88720703125
+Batch 600 Loss 0.5393949151039124
+Batch 600 Accuracy 0.88623046875
+Validation Loss : 0.8892326886073137
+Validation Perplexity : 1.8521907560926976
+Validation Acc : 0.8427108373397436
+
+
+Epoch  57
+Time since beginning  3:13:31.451751
+Batch 0 Loss 0.6032729148864746
+Batch 0 Accuracy 0.86328125
+Batch 600 Loss 0.4885372817516327
+Batch 600 Accuracy 0.8984375
+Validation Loss : 0.8849185735751421
+Validation Perplexity : 1.8466603920874638
+Validation Acc : 0.8438720703125
+
+
+Epoch  58
+Time since beginning  3:17:01.067834
+Batch 0 Loss 0.5488743782043457
+Batch 0 Accuracy 0.8857421875
+Batch 600 Loss 0.5616291761398315
+Batch 600 Accuracy 0.875
+Validation Loss : 0.8815869773045565
+Validation Perplexity : 1.842400844211234
+Validation Acc : 0.8443760016025641
+
+
+Epoch  59
+Time since beginning  3:20:28.929646
+Batch 0 Loss 0.4568425118923187
+Batch 0 Accuracy 0.90771484375
+Batch 600 Loss 0.5129738450050354
+Batch 600 Accuracy 0.8896484375
+Validation Loss : 0.8788959269340222
+Validation Perplexity : 1.8389674281737827
+Validation Acc : 0.8446983924278846
+
+
+Epoch  60
+Time since beginning  3:23:44.562373
+Batch 0 Loss 0.4709019958972931
+Batch 0 Accuracy 0.90283203125
+Batch 600 Loss 0.5043178200721741
+Batch 600 Accuracy 0.8916015625
+Validation Loss : 0.8762299036368345
+Validation Perplexity : 1.8355722527104277
+Validation Acc : 0.8449926131810898
+
+
+Epoch  61
+Time since beginning  3:27:03.096357
+Batch 0 Loss 0.5193010568618774
+Batch 0 Accuracy 0.88720703125
+Batch 600 Loss 0.4565470814704895
+Batch 600 Accuracy 0.89990234375
+Validation Loss : 0.8744943386469132
+Validation Perplexity : 1.8333653833572583
+Validation Acc : 0.8454214242788461
+
+
+Epoch  62
+Time since beginning  3:30:17.222230
+Batch 0 Loss 0.4808444082736969
+Batch 0 Accuracy 0.90185546875
+Batch 600 Loss 0.4965273141860962
+Batch 600 Accuracy 0.8935546875
+Validation Loss : 0.8725789659298383
+Validation Perplexity : 1.830932957986544
+Validation Acc : 0.8461413261217948
+
+
+Epoch  63
+Time since beginning  3:33:37.391975
+Batch 0 Loss 0.47958582639694214
+Batch 0 Accuracy 0.90380859375
+Batch 600 Loss 0.48252061009407043
+Batch 600 Accuracy 0.8935546875
+Validation Loss : 0.8704160822507663
+Validation Perplexity : 1.828190085860207
+Validation Acc : 0.8464793669871795
+
+
+Epoch  64
+Time since beginning  3:37:07.138232
+Batch 0 Loss 0.4314456284046173
+Batch 0 Accuracy 0.91259765625
+Batch 600 Loss 0.5152137279510498
+Batch 600 Accuracy 0.89306640625
+Validation Loss : 0.8683960995613
+Validation Perplexity : 1.8256321452551936
+Validation Acc : 0.8465419671474359
+
+
+Epoch  65
+Time since beginning  3:40:26.562355
+Batch 0 Loss 0.42655766010284424
+Batch 0 Accuracy 0.91455078125
+Batch 600 Loss 0.4312244951725006
+Batch 600 Accuracy 0.90087890625
+Validation Loss : 0.8678989062706629
+Validation Perplexity : 1.8250030894686757
+Validation Acc : 0.8470145983573718
+
+
+Epoch  66
+Time since beginning  3:43:56.661116
+Batch 0 Loss 0.4407004714012146
+Batch 0 Accuracy 0.90283203125
+Batch 600 Loss 0.41028764843940735
+Batch 600 Accuracy 0.912109375
+Validation Loss : 0.8663365986102667
+Validation Perplexity : 1.8230278466216705
+Validation Acc : 0.8471241486378205
+
+
+Epoch  67
+Time since beginning  3:47:32.094556
+Batch 0 Loss 0.39552879333496094
+Batch 0 Accuracy 0.91650390625
+Batch 600 Loss 0.4122123420238495
+Batch 600 Accuracy 0.91015625
+Validation Loss : 0.8647259909373063
+Validation Perplexity : 1.8209937755223904
+Validation Acc : 0.8482165214342948
+
+
+Epoch  68
+Time since beginning  3:51:01.367199
+Batch 0 Loss 0.41806355118751526
+Batch 0 Accuracy 0.90869140625
+Batch 600 Loss 0.39956429600715637
+Batch 600 Accuracy 0.916015625
+Validation Loss : 0.8616252480409085
+Validation Perplexity : 1.8170841689594353
+Validation Acc : 0.8483135516826923
+
+
+Epoch  69
+Time since beginning  3:54:25.987851
+Batch 0 Loss 0.4078195095062256
+Batch 0 Accuracy 0.91552734375
+Batch 600 Loss 0.40635842084884644
+Batch 600 Accuracy 0.90966796875
+Validation Loss : 0.8628620341038092
+Validation Perplexity : 1.8186425772735368
+Validation Acc : 0.8479504707532052
+
+
+Epoch  70
+Time since beginning  3:57:49.105993
+Batch 0 Loss 0.3966418504714966
+Batch 0 Accuracy 0.91650390625
+Batch 600 Loss 0.38100671768188477
+Batch 600 Accuracy 0.91064453125
+Validation Loss : 0.8629931498032349
+Validation Perplexity : 1.8188078675273156
+Validation Acc : 0.8484074519230769
+
+
+Epoch  71
+Time since beginning  4:01:16.689296
+Batch 0 Loss 0.39525070786476135
+Batch 0 Accuracy 0.9169921875
+Batch 600 Loss 0.41511842608451843
+Batch 600 Accuracy 0.908203125
+Validation Loss : 0.8600346075418668
+Validation Perplexity : 1.8150818505134687
+Validation Acc : 0.8491179637419872
+
+
+Epoch  72
+Time since beginning  4:04:41.378305
+Batch 0 Loss 0.3242594599723816
+Batch 0 Accuracy 0.92919921875
+Batch 600 Loss 0.4124149978160858
+Batch 600 Accuracy 0.91455078125
+Validation Loss : 0.8605312376450269
+Validation Perplexity : 1.8157067777718658
+Validation Acc : 0.8486422025240384
+
+
+Epoch  73
+Time since beginning  4:08:07.176575
+Batch 0 Loss 0.39051154255867004
+Batch 0 Accuracy 0.92138671875
+Batch 600 Loss 0.39373260736465454
+Batch 600 Accuracy 0.91064453125
+Validation Loss : 0.8594932911487726
+Validation Perplexity : 1.8144009378974664
+Validation Acc : 0.8491774338942307
+
+
+Epoch  74
+Time since beginning  4:11:32.105666
+Batch 0 Loss 0.34149178862571716
+Batch 0 Accuracy 0.93310546875
+Batch 600 Loss 0.36551761627197266
+Batch 600 Accuracy 0.92138671875
+Validation Loss : 0.8584180562159954
+Validation Perplexity : 1.8130491758174407
+Validation Acc : 0.8496719751602564
+
+
+Epoch  75
+Time since beginning  4:14:53.963034
+Batch 0 Loss 0.3614526093006134
+Batch 0 Accuracy 0.919921875
+Batch 600 Loss 0.33526384830474854
+Batch 600 Accuracy 0.92724609375
+Validation Loss : 0.858731441008739
+Validation Perplexity : 1.813443052374384
+Validation Acc : 0.8497940454727564
+
+
+Epoch  76
+Time since beginning  4:18:26.283618
+Batch 0 Loss 0.3661326467990875
+Batch 0 Accuracy 0.916015625
+Batch 600 Loss 0.34522712230682373
+Batch 600 Accuracy 0.9267578125
+Validation Loss : 0.8581905961036682
+Validation Perplexity : 1.812763346969823
+Validation Acc : 0.8500694861778846
+
+
+Epoch  77
+Time since beginning  4:21:50.698900
+Batch 0 Loss 0.3627590835094452
+Batch 0 Accuracy 0.92041015625
+Batch 600 Loss 0.383772075176239
+Batch 600 Accuracy 0.916015625
+Validation Loss : 0.8582842968977414
+Validation Perplexity : 1.8128810869469967
+Validation Acc : 0.8502572866586539
+
+
+Epoch  78
+Time since beginning  4:25:12.210613
+Batch 0 Loss 0.3349848687648773
+Batch 0 Accuracy 0.9296875
+Batch 600 Loss 0.3427533209323883
+Batch 600 Accuracy 0.92578125
+Validation Loss : 0.8576035060179539
+Validation Perplexity : 1.8120258114241892
+Validation Acc : 0.8505546374198718
+
+
+Epoch  79
+Time since beginning  4:28:39.470325
+Batch 0 Loss 0.33165696263313293
+Batch 0 Accuracy 0.927734375
+Batch 600 Loss 0.3147493898868561
+Batch 600 Accuracy 0.931640625
+Validation Loss : 0.856820381222627
+Validation Perplexity : 1.811042473137608
+Validation Acc : 0.8511587289663461
+
+
+Epoch  80
+Time since beginning  4:32:05.519972
+Batch 0 Loss 0.2716917395591736
+Batch 0 Accuracy 0.94775390625
+Batch 600 Loss 0.33385029435157776
+Batch 600 Accuracy 0.92919921875
+Validation Loss : 0.8586223125457764
+Validation Perplexity : 1.8133058849461767
+Validation Acc : 0.8503856169871795
+
+
+Epoch  81
+Time since beginning  4:35:23.668241
+Batch 0 Loss 0.3197872042655945
+Batch 0 Accuracy 0.93212890625
+Batch 600 Loss 0.3192254900932312
+Batch 600 Accuracy 0.9287109375
+Validation Loss : 0.8594530656551703
+Validation Perplexity : 1.8143503491356234
+Validation Acc : 0.8511180388621795
+
+
+Epoch  82
+Time since beginning  4:38:41.556451
+Batch 0 Loss 0.29115745425224304
+Batch 0 Accuracy 0.94091796875
+Batch 600 Loss 0.28265586495399475
+Batch 600 Accuracy 0.94287109375
+Validation Loss : 0.8609600411011622
+Validation Perplexity : 1.8162465294432346
+Validation Acc : 0.8501258263221154
+
+
+Epoch  83
+Time since beginning  4:42:06.738667
+Batch 0 Loss 0.3191022574901581
+Batch 0 Accuracy 0.93359375
+Batch 600 Loss 0.33350464701652527
+Batch 600 Accuracy 0.93017578125
+Validation Loss : 0.860488779269732
+Validation Perplexity : 1.8156533424835908
+Validation Acc : 0.8508676382211539
+
+
+Epoch  84
+Time since beginning  4:45:30.430906
+Batch 0 Loss 0.2758784294128418
+Batch 0 Accuracy 0.9443359375
+Batch 600 Loss 0.33284637331962585
+Batch 600 Accuracy 0.9287109375
+Validation Loss : 0.8622119736212951
+Validation Perplexity : 1.8178233040874199
+Validation Acc : 0.8510303986378205
+
+
+Epoch  85
+Time since beginning  4:49:00.316244
+Batch 0 Loss 0.28930357098579407
+Batch 0 Accuracy 0.93505859375
+Batch 600 Loss 0.30349859595298767
+Batch 600 Accuracy 0.927734375
+Validation Loss : 0.8619550183797494
+Validation Perplexity : 1.8174995644068823
+Validation Acc : 0.8515812800480769
+
+
+Epoch  86
+Time since beginning  4:52:20.475568
+Batch 0 Loss 0.3316596746444702
+Batch 0 Accuracy 0.92431640625
+Batch 600 Loss 0.2733871638774872
+Batch 600 Accuracy 0.94091796875
+Validation Loss : 0.8622242540885241
+Validation Perplexity : 1.817838777776518
+Validation Acc : 0.8512745392628205
+
+
+Epoch  87
+Time since beginning  4:55:42.219977
+Batch 0 Loss 0.3550207316875458
+Batch 0 Accuracy 0.923828125
+Batch 600 Loss 0.27366262674331665
+Batch 600 Accuracy 0.94189453125
+Validation Loss : 0.8628620581749158
+Validation Perplexity : 1.8186426076172604
+Validation Acc : 0.8512244591346154
+
+
+Epoch  88
+Time since beginning  4:59:01.501591
+Batch 0 Loss 0.2639155089855194
+Batch 0 Accuracy 0.94970703125
+Batch 600 Loss 0.2593466639518738
+Batch 600 Accuracy 0.94580078125
+Validation Loss : 0.8625405067816759
+Validation Perplexity : 1.8182373092810429
+Validation Acc : 0.8519443609775641
+
+
+Epoch  89
+Time since beginning  5:02:24.000835
+Batch 0 Loss 0.26152873039245605
+Batch 0 Accuracy 0.943359375
+Batch 600 Loss 0.30460822582244873
+Batch 600 Accuracy 0.93212890625
+Validation Loss : 0.8667075553765664
+Validation Perplexity : 1.82349665773302
+Validation Acc : 0.8510084885817307
+
+
+Epoch  90
+Time since beginning  5:05:46.945591
+Batch 0 Loss 0.2962334156036377
+Batch 0 Accuracy 0.9423828125
+Batch 600 Loss 0.23983946442604065
+Batch 600 Accuracy 0.95458984375
+Validation Loss : 0.8670264253249536
+Validation Perplexity : 1.8238997384475508
+Validation Acc : 0.8512557592147436
+
+
+Epoch  91
+Time since beginning  5:09:10.047216
+Batch 0 Loss 0.27912643551826477
+Batch 0 Accuracy 0.93896484375
+Batch 600 Loss 0.2735411524772644
+Batch 600 Accuracy 0.9423828125
+Validation Loss : 0.8683606661283053
+Validation Perplexity : 1.8255873072138387
+Validation Acc : 0.8510961288060898
+
+
+Epoch  92
+Time since beginning  5:12:33.589535
+Batch 0 Loss 0.2845537066459656
+Batch 0 Accuracy 0.9453125
+Batch 600 Loss 0.2889121472835541
+Batch 600 Accuracy 0.94775390625
+Validation Loss : 0.8702762543390958
+Validation Perplexity : 1.8280129038453652
+Validation Acc : 0.8517158703926282
+
+
+Epoch  93
+Time since beginning  5:15:58.049194
+Batch 0 Loss 0.2387094646692276
+Batch 0 Accuracy 0.9482421875
+Batch 600 Loss 0.28103938698768616
+Batch 600 Accuracy 0.9384765625
+Validation Loss : 0.8713240310167655
+Validation Perplexity : 1.82934100502082
+Validation Acc : 0.8515875400641025
+
+
+Epoch  94
+Time since beginning  5:19:24.770519
+Batch 0 Loss 0.21143893897533417
+Batch 0 Accuracy 0.95703125
+Batch 600 Loss 0.28022438287734985
+Batch 600 Accuracy 0.94482421875
+Validation Loss : 0.8730471000457422
+Validation Perplexity : 1.8315271662109565
+Validation Acc : 0.8513340094150641
+
+
+Epoch  95
+Time since beginning  5:22:49.515180
+Batch 0 Loss 0.21331708133220673
+Batch 0 Accuracy 0.95556640625
+Batch 600 Loss 0.21122872829437256
+Batch 600 Accuracy 0.9580078125
+Validation Loss : 0.8731004194571421
+Validation Perplexity : 1.8315948574085512
+Validation Acc : 0.8516438802083334
+
+
+Epoch  96
+Time since beginning  5:26:13.136037
+Batch 0 Loss 0.24891424179077148
+Batch 0 Accuracy 0.9482421875
+Batch 600 Loss 0.21290093660354614
+Batch 600 Accuracy 0.951171875
+Validation Loss : 0.8735153266252615
+Validation Perplexity : 1.8321216847011248
+Validation Acc : 0.8519725310496795
+
+
+Epoch  97
+Time since beginning  5:29:33.961197
+Batch 0 Loss 0.21915212273597717
+Batch 0 Accuracy 0.95654296875
+Batch 600 Loss 0.22398899495601654
+Batch 600 Accuracy 0.953125
+Validation Loss : 0.8765911284165505
+Validation Perplexity : 1.8360319043895195
+Validation Acc : 0.8517127403846154
+
+
+Epoch  98
+Time since beginning  5:32:58.171938
+Batch 0 Loss 0.2313561886548996
+Batch 0 Accuracy 0.95361328125
+Batch 600 Loss 0.20208314061164856
+Batch 600 Accuracy 0.96044921875
+Validation Loss : 0.880518227815628
+Validation Perplexity : 1.8410364978021971
+Validation Acc : 0.8516438802083334
+
+
+Epoch  99
+Time since beginning  5:36:24.809270
+Batch 0 Loss 0.21697917580604553
+Batch 0 Accuracy 0.95361328125
+Batch 600 Loss 0.2202264368534088
+Batch 600 Accuracy 0.9580078125
+Validation Loss : 0.8802078125568537
+Validation Perplexity : 1.8406404166293515
+Validation Acc : 0.8512839292868589
+
+
+Epoch  100
+Time since beginning  5:39:49.691216
+Batch 0 Loss 0.19787180423736572
+Batch 0 Accuracy 0.96484375
+Batch 600 Loss 0.21738708019256592
+Batch 600 Accuracy 0.95556640625
+Validation Loss : 0.88301759155897
+Validation Perplexity : 1.8442287233639492
+Validation Acc : 0.8517409104567307
+

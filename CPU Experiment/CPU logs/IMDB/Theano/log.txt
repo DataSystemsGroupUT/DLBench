@@ -1,0 +1,453 @@
+[1,    50] train loss: 0.700
+[1,   100] train loss: 0.693
+[1,   150] train loss: 0.686
+[1,   200] train loss: 0.688
+[1,   250] train loss: 0.677
+[1,   300] train loss: 0.666
+[1,   350] train loss: 0.648
+[1] test loss: 0.661 accuracy: 60.818
+Time since beginning  0:19:18.822462
+[2,    50] train loss: 0.623
+[2,   100] train loss: 0.594
+[2,   150] train loss: 0.576
+[2,   200] train loss: 0.520
+[2,   250] train loss: 0.478
+[2,   300] train loss: 0.518
+[2,   350] train loss: 0.457
+[2] test loss: 0.437 accuracy: 80.576
+Time since beginning  0:36:43.915083
+[3,    50] train loss: 0.400
+[3,   100] train loss: 0.384
+[3,   150] train loss: 0.380
+[3,   200] train loss: 0.370
+[3,   250] train loss: 0.423
+[3,   300] train loss: 0.420
+[3,   350] train loss: 0.377
+[3] test loss: 0.376 accuracy: 83.825
+Time since beginning  0:54:04.986545
+[4,    50] train loss: 0.320
+[4,   100] train loss: 0.310
+[4,   150] train loss: 0.322
+[4,   200] train loss: 0.338
+[4,   250] train loss: 0.356
+[4,   300] train loss: 0.324
+[4,   350] train loss: 0.306
+[4] test loss: 0.358 accuracy: 85.823
+Time since beginning  1:16:09.415988
+[5,    50] train loss: 0.306
+[5,   100] train loss: 0.295
+[5,   150] train loss: 0.262
+[5,   200] train loss: 0.430
+[5,   250] train loss: 0.346
+[5,   300] train loss: 0.339
+[5,   350] train loss: 0.286
+[5] test loss: 0.332 accuracy: 86.396
+Time since beginning  1:34:07.597901
+[6,    50] train loss: 0.290
+[6,   100] train loss: 0.285
+[6,   150] train loss: 0.258
+[6,   200] train loss: 0.297
+[6,   250] train loss: 0.268
+[6,   300] train loss: 0.259
+[6,   350] train loss: 0.247
+[6] test loss: 0.310 accuracy: 87.581
+Time since beginning  1:51:47.813292
+[7,    50] train loss: 0.229
+[7,   100] train loss: 0.235
+[7,   150] train loss: 0.260
+[7,   200] train loss: 0.292
+[7,   250] train loss: 0.245
+[7,   300] train loss: 0.261
+[7,   350] train loss: 0.247
+[7] test loss: 0.352 accuracy: 85.321
+Time since beginning  2:10:48.777632
+[8,    50] train loss: 0.232
+[8,   100] train loss: 0.252
+[8,   150] train loss: 0.222
+[8,   200] train loss: 0.201
+[8,   250] train loss: 0.213
+[8,   300] train loss: 0.204
+[8,   350] train loss: 0.227
+[8] test loss: 0.298 accuracy: 87.906
+Time since beginning  2:28:10.759036
+[9,    50] train loss: 0.181
+[9,   100] train loss: 0.197
+[9,   150] train loss: 0.200
+[9,   200] train loss: 0.213
+[9,   250] train loss: 0.197
+[9,   300] train loss: 0.221
+[9,   350] train loss: 0.214
+[9] test loss: 0.308 accuracy: 88.355
+Time since beginning  2:47:12.544400
+[10,    50] train loss: 0.185
+[10,   100] train loss: 0.197
+[10,   150] train loss: 0.176
+[10,   200] train loss: 0.184
+[10,   250] train loss: 0.192
+[10,   300] train loss: 0.183
+[10,   350] train loss: 0.171
+[10] test loss: 0.309 accuracy: 88.394
+Time since beginning  3:05:56.031959
+[11,    50] train loss: 0.164
+[11,   100] train loss: 0.164
+[11,   150] train loss: 0.171
+[11,   200] train loss: 0.189
+[11,   250] train loss: 0.170
+[11,   300] train loss: 0.174
+[11,   350] train loss: 0.177
+[11] test loss: 0.308 accuracy: 88.188
+Time since beginning  3:25:27.371307
+[12,    50] train loss: 0.155
+[12,   100] train loss: 0.133
+[12,   150] train loss: 0.148
+[12,   200] train loss: 0.173
+[12,   250] train loss: 0.161
+[12,   300] train loss: 0.155
+[12,   350] train loss: 0.188
+[12] test loss: 0.311 accuracy: 88.556
+Time since beginning  3:43:08.456592
+[13,    50] train loss: 0.158
+[13,   100] train loss: 0.145
+[13,   150] train loss: 0.142
+[13,   200] train loss: 0.116
+[13,   250] train loss: 0.137
+[13,   300] train loss: 0.159
+[13,   350] train loss: 0.155
+[13] test loss: 0.334 accuracy: 86.406
+Time since beginning  4:00:50.842258
+[14,    50] train loss: 0.134
+[14,   100] train loss: 0.119
+[14,   150] train loss: 0.122
+[14,   200] train loss: 0.130
+[14,   250] train loss: 0.133
+[14,   300] train loss: 0.117
+[14,   350] train loss: 0.143
+[14] test loss: 0.362 accuracy: 88.255
+Time since beginning  4:19:41.805760
+[15,    50] train loss: 0.087
+[15,   100] train loss: 0.119
+[15,   150] train loss: 0.103
+[15,   200] train loss: 0.112
+[15,   250] train loss: 0.104
+[15,   300] train loss: 0.123
+[15,   350] train loss: 0.128
+[15] test loss: 0.344 accuracy: 88.193
+Time since beginning  4:38:16.043298
+[16,    50] train loss: 0.118
+[16,   100] train loss: 0.103
+[16,   150] train loss: 0.105
+[16,   200] train loss: 0.111
+[16,   250] train loss: 0.102
+[16,   300] train loss: 0.104
+[16,   350] train loss: 0.124
+[16] test loss: 0.364 accuracy: 87.992
+Time since beginning  4:54:39.563455
+[17,    50] train loss: 0.082
+[17,   100] train loss: 0.082
+[17,   150] train loss: 0.101
+[17,   200] train loss: 0.101
+[17,   250] train loss: 0.104
+[17,   300] train loss: 0.114
+[17,   350] train loss: 0.115
+[17] test loss: 0.365 accuracy: 87.925
+Time since beginning  5:11:11.085638
+[18,    50] train loss: 0.101
+[18,   100] train loss: 0.077
+[18,   150] train loss: 0.080
+[18,   200] train loss: 0.075
+[18,   250] train loss: 0.073
+[18,   300] train loss: 0.078
+[18,   350] train loss: 0.091
+[18] test loss: 0.414 accuracy: 87.940
+Time since beginning  5:27:51.860816
+[19,    50] train loss: 0.065
+[19,   100] train loss: 0.075
+[19,   150] train loss: 0.078
+[19,   200] train loss: 0.072
+[19,   250] train loss: 0.079
+[19,   300] train loss: 0.074
+[19,   350] train loss: 0.071
+[19] test loss: 0.438 accuracy: 88.293
+Time since beginning  5:52:43.332068
+[20,    50] train loss: 0.057
+[20,   100] train loss: 0.049
+[20,   150] train loss: 0.053
+[20,   200] train loss: 0.052
+[20,   250] train loss: 0.054
+[20,   300] train loss: 0.069
+[20,   350] train loss: 0.067
+[20] test loss: nan accuracy: 49.981
+Time since beginning  6:06:47.714357
+[21,    50] train loss: nan
+[21,   100] train loss: nan
+[21,   150] train loss: nan
+[21,   200] train loss: nan
+[21,   250] train loss: nan
+[21,   300] train loss: nan
+[21,   350] train loss: nan
+[21] test loss: nan accuracy: 49.981
+Time since beginning  6:20:17.413564
+[22,    50] train loss: nan
+[22,   100] train loss: nan
+[22,   150] train loss: nan
+[22,   200] train loss: nan
+[22,   250] train loss: nan
+[22,   300] train loss: nan
+[22,   350] train loss: nan
+[22] test loss: nan accuracy: 49.981
+Time since beginning  6:29:04.635188
+[23,    50] train loss: nan
+[23,   100] train loss: nan
+[23,   150] train loss: nan
+[23,   200] train loss: nan
+[23,   250] train loss: nan
+[23,   300] train loss: nan
+[23,   350] train loss: nan
+[23] test loss: nan accuracy: 49.981
+Time since beginning  6:38:43.343276
+[24,    50] train loss: nan
+[24,   100] train loss: nan
+[24,   150] train loss: nan
+[24,   200] train loss: nan
+[24,   250] train loss: nan
+[24,   300] train loss: nan
+[24,   350] train loss: nan
+[24] test loss: nan accuracy: 49.981
+Time since beginning  6:48:26.345160
+[25,    50] train loss: nan
+[25,   100] train loss: nan
+[25,   150] train loss: nan
+[25,   200] train loss: nan
+[25,   250] train loss: nan
+[25,   300] train loss: nan
+[25,   350] train loss: nan
+[25] test loss: nan accuracy: 49.981
+Time since beginning  6:57:13.026636
+[26,    50] train loss: nan
+[26,   100] train loss: nan
+[26,   150] train loss: nan
+[26,   200] train loss: nan
+[26,   250] train loss: nan
+[26,   300] train loss: nan
+[26,   350] train loss: nan
+[26] test loss: nan accuracy: 49.981
+Time since beginning  7:10:50.525309
+[27,    50] train loss: nan
+[27,   100] train loss: nan
+[27,   150] train loss: nan
+[27,   200] train loss: nan
+[27,   250] train loss: nan
+[27,   300] train loss: nan
+[27,   350] train loss: nan
+[27] test loss: nan accuracy: 49.981
+Time since beginning  7:20:29.762456
+[28,    50] train loss: nan
+[28,   100] train loss: nan
+[28,   150] train loss: nan
+[28,   200] train loss: nan
+[28,   250] train loss: nan
+[28,   300] train loss: nan
+[28,   350] train loss: nan
+[28] test loss: nan accuracy: 49.981
+Time since beginning  7:35:11.672435
+[29,    50] train loss: nan
+[29,   100] train loss: nan
+[29,   150] train loss: nan
+[29,   200] train loss: nan
+[29,   250] train loss: nan
+[29,   300] train loss: nan
+[29,   350] train loss: nan
+[29] test loss: nan accuracy: 49.981
+Time since beginning  7:45:18.641774
+[30,    50] train loss: nan
+[30,   100] train loss: nan
+[30,   150] train loss: nan
+[30,   200] train loss: nan
+[30,   250] train loss: nan
+[30,   300] train loss: nan
+[30,   350] train loss: nan
+[30] test loss: nan accuracy: 49.981
+Time since beginning  7:54:05.313330
+[31,    50] train loss: nan
+[31,   100] train loss: nan
+[31,   150] train loss: nan
+[31,   200] train loss: nan
+[31,   250] train loss: nan
+[31,   300] train loss: nan
+[31,   350] train loss: nan
+[31] test loss: nan accuracy: 49.981
+Time since beginning  8:03:58.298187
+[32,    50] train loss: nan
+[32,   100] train loss: nan
+[32,   150] train loss: nan
+[32,   200] train loss: nan
+[32,   250] train loss: nan
+[32,   300] train loss: nan
+[32,   350] train loss: nan
+[32] test loss: nan accuracy: 49.981
+Time since beginning  8:12:44.227985
+[33,    50] train loss: nan
+[33,   100] train loss: nan
+[33,   150] train loss: nan
+[33,   200] train loss: nan
+[33,   250] train loss: nan
+[33,   300] train loss: nan
+[33,   350] train loss: nan
+[33] test loss: nan accuracy: 49.981
+Time since beginning  8:30:26.482654
+[34,    50] train loss: nan
+[34,   100] train loss: nan
+[34,   150] train loss: nan
+[34,   200] train loss: nan
+[34,   250] train loss: nan
+[34,   300] train loss: nan
+[34,   350] train loss: nan
+[34] test loss: nan accuracy: 49.981
+Time since beginning  8:39:41.281286
+[35,    50] train loss: nan
+[35,   100] train loss: nan
+[35,   150] train loss: nan
+[35,   200] train loss: nan
+[35,   250] train loss: nan
+[35,   300] train loss: nan
+[35,   350] train loss: nan
+[35] test loss: nan accuracy: 49.981
+Time since beginning  8:48:26.567122
+[36,    50] train loss: nan
+[36,   100] train loss: nan
+[36,   150] train loss: nan
+[36,   200] train loss: nan
+[36,   250] train loss: nan
+[36,   300] train loss: nan
+[36,   350] train loss: nan
+[36] test loss: nan accuracy: 49.981
+Time since beginning  8:58:02.783947
+[37,    50] train loss: nan
+[37,   100] train loss: nan
+[37,   150] train loss: nan
+[37,   200] train loss: nan
+[37,   250] train loss: nan
+[37,   300] train loss: nan
+[37,   350] train loss: nan
+[37] test loss: nan accuracy: 49.981
+Time since beginning  9:08:31.399796
+[38,    50] train loss: nan
+[38,   100] train loss: nan
+[38,   150] train loss: nan
+[38,   200] train loss: nan
+[38,   250] train loss: nan
+[38,   300] train loss: nan
+[38,   350] train loss: nan
+[38] test loss: nan accuracy: 49.981
+Time since beginning  9:21:00.529469
+[39,    50] train loss: nan
+[39,   100] train loss: nan
+[39,   150] train loss: nan
+[39,   200] train loss: nan
+[39,   250] train loss: nan
+[39,   300] train loss: nan
+[39,   350] train loss: nan
+[39] test loss: nan accuracy: 49.981
+Time since beginning  9:29:31.501448
+[40,    50] train loss: nan
+[40,   100] train loss: nan
+[40,   150] train loss: nan
+[40,   200] train loss: nan
+[40,   250] train loss: nan
+[40,   300] train loss: nan
+[40,   350] train loss: nan
+[40] test loss: nan accuracy: 49.981
+Time since beginning  9:38:03.288630
+[41,    50] train loss: nan
+[41,   100] train loss: nan
+[41,   150] train loss: nan
+[41,   200] train loss: nan
+[41,   250] train loss: nan
+[41,   300] train loss: nan
+[41,   350] train loss: nan
+[41] test loss: nan accuracy: 49.981
+Time since beginning  9:46:33.274831
+[42,    50] train loss: nan
+[42,   100] train loss: nan
+[42,   150] train loss: nan
+[42,   200] train loss: nan
+[42,   250] train loss: nan
+[42,   300] train loss: nan
+[42,   350] train loss: nan
+[42] test loss: nan accuracy: 49.981
+Time since beginning  9:55:13.693366
+[43,    50] train loss: nan
+[43,   100] train loss: nan
+[43,   150] train loss: nan
+[43,   200] train loss: nan
+[43,   250] train loss: nan
+[43,   300] train loss: nan
+[43,   350] train loss: nan
+[43] test loss: nan accuracy: 49.981
+Time since beginning  10:03:57.571290
+[44,    50] train loss: nan
+[44,   100] train loss: nan
+[44,   150] train loss: nan
+[44,   200] train loss: nan
+[44,   250] train loss: nan
+[44,   300] train loss: nan
+[44,   350] train loss: nan
+[44] test loss: nan accuracy: 49.981
+Time since beginning  10:12:42.121494
+[45,    50] train loss: nan
+[45,   100] train loss: nan
+[45,   150] train loss: nan
+[45,   200] train loss: nan
+[45,   250] train loss: nan
+[45,   300] train loss: nan
+[45,   350] train loss: nan
+[45] test loss: nan accuracy: 49.981
+Time since beginning  10:21:27.226270
+[46,    50] train loss: nan
+[46,   100] train loss: nan
+[46,   150] train loss: nan
+[46,   200] train loss: nan
+[46,   250] train loss: nan
+[46,   300] train loss: nan
+[46,   350] train loss: nan
+[46] test loss: nan accuracy: 49.981
+Time since beginning  10:30:11.817680
+[47,    50] train loss: nan
+[47,   100] train loss: nan
+[47,   150] train loss: nan
+[47,   200] train loss: nan
+[47,   250] train loss: nan
+[47,   300] train loss: nan
+[47,   350] train loss: nan
+[47] test loss: nan accuracy: 49.981
+Time since beginning  10:38:55.064169
+[48,    50] train loss: nan
+[48,   100] train loss: nan
+[48,   150] train loss: nan
+[48,   200] train loss: nan
+[48,   250] train loss: nan
+[48,   300] train loss: nan
+[48,   350] train loss: nan
+[48] test loss: nan accuracy: 49.981
+Time since beginning  10:47:37.817060
+[49,    50] train loss: nan
+[49,   100] train loss: nan
+[49,   150] train loss: nan
+[49,   200] train loss: nan
+[49,   250] train loss: nan
+[49,   300] train loss: nan
+[49,   350] train loss: nan
+[49] test loss: nan accuracy: 49.981
+Time since beginning  10:56:22.561661
+[50,    50] train loss: nan
+[50,   100] train loss: nan
+[50,   150] train loss: nan
+[50,   200] train loss: nan
+[50,   250] train loss: nan
+[50,   300] train loss: nan
+[50,   350] train loss: nan
+[50] test loss: nan accuracy: 49.981
+Time since beginning  11:05:05.957669
+
+
+Total Time Consumed  11:05:05.957669
