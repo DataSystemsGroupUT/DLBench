@@ -1,0 +1,14 @@
+[
+	{
+		"id": 0,
+		"name": "A",
+		"fee_hourly": 2.0,
+		"fee_real_time": 0.16
+	},
+	{
+		"id": 1,
+		"name": "B",
+		"fee_hourly": 1.0,
+		"fee_real_time": 0.08
+	}
+]

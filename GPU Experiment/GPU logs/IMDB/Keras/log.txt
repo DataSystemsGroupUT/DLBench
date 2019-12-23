@@ -1,0 +1,636 @@
+Epoch 1/100
+[0,    50] train loss: 0.686
+[0,   100] train loss: 0.653
+[0,   150] train loss: 0.613
+[0,   200] train loss: 0.577
+[0,   250] train loss: 0.531
+[0,   300] train loss: 0.498
+[0,   350] train loss: 0.475
+ - 300s - loss: 0.5642 - acc: 0.6968
+[0] test loss: 0.459 accuracy: 0.792
+Epoch 2/100
+[1,    50] train loss: 0.442
+[1,   100] train loss: 0.447
+[1,   150] train loss: 0.411
+[1,   200] train loss: 0.381
+[1,   250] train loss: 0.341
+[1,   300] train loss: 0.346
+[1,   350] train loss: 0.356
+ - 298s - loss: 0.3845 - acc: 0.8332
+[1] test loss: 0.342 accuracy: 0.854
+Epoch 3/100
+[2,    50] train loss: 0.349
+[2,   100] train loss: 0.341
+[2,   150] train loss: 0.298
+[2,   200] train loss: 0.299
+[2,   250] train loss: 0.349
+[2,   300] train loss: 0.319
+[2,   350] train loss: 0.284
+ - 301s - loss: 0.3175 - acc: 0.8695
+[2] test loss: 0.336 accuracy: 0.860
+Epoch 4/100
+[3,    50] train loss: 0.285
+[3,   100] train loss: 0.303
+[3,   150] train loss: 0.295
+[3,   200] train loss: 0.273
+[3,   250] train loss: 0.293
+[3,   300] train loss: 0.280
+[3,   350] train loss: 0.261
+ - 297s - loss: 0.2825 - acc: 0.8866
+[3] test loss: 0.308 accuracy: 0.877
+Epoch 5/100
+[4,    50] train loss: 0.262
+[4,   100] train loss: 0.228
+[4,   150] train loss: 0.240
+[4,   200] train loss: 0.243
+[4,   250] train loss: 0.240
+[4,   300] train loss: 0.240
+[4,   350] train loss: 0.216
+ - 297s - loss: 0.2350 - acc: 0.9106
+[4] test loss: 0.294 accuracy: 0.881
+Epoch 6/100
+[5,    50] train loss: 0.237
+[5,   100] train loss: 0.321
+[5,   150] train loss: 0.261
+[5,   200] train loss: 0.222
+[5,   250] train loss: 0.225
+[5,   300] train loss: 0.227
+[5,   350] train loss: 0.214
+ - 299s - loss: 0.2405 - acc: 0.9059
+[5] test loss: 0.298 accuracy: 0.879
+Epoch 7/100
+[6,    50] train loss: 0.193
+[6,   100] train loss: 0.207
+[6,   150] train loss: 0.200
+[6,   200] train loss: 0.202
+[6,   250] train loss: 0.185
+[6,   300] train loss: 0.214
+[6,   350] train loss: 0.215
+ - 299s - loss: 0.2029 - acc: 0.9233
+[6] test loss: 0.401 accuracy: 0.862
+Epoch 8/100
+[7,    50] train loss: 0.206
+[7,   100] train loss: 0.182
+[7,   150] train loss: 0.166
+[7,   200] train loss: 0.186
+[7,   250] train loss: 0.166
+[7,   300] train loss: 0.185
+[7,   350] train loss: 0.194
+ - 299s - loss: 0.1823 - acc: 0.9340
+[7] test loss: 0.300 accuracy: 0.885
+Epoch 9/100
+[8,    50] train loss: 0.166
+[8,   100] train loss: 0.163
+[8,   150] train loss: 0.268
+[8,   200] train loss: 0.242
+[8,   250] train loss: 0.195
+[8,   300] train loss: 0.189
+[8,   350] train loss: 0.178
+ - 296s - loss: 0.1956 - acc: 0.9259
+[8] test loss: 0.345 accuracy: 0.875
+Epoch 10/100
+[9,    50] train loss: 0.167
+[9,   100] train loss: 0.164
+[9,   150] train loss: 0.153
+[9,   200] train loss: 0.162
+[9,   250] train loss: 0.160
+[9,   300] train loss: 0.161
+[9,   350] train loss: 0.170
+ - 295s - loss: 0.1597 - acc: 0.9425
+[9] test loss: 0.316 accuracy: 0.886
+
+Epoch 00010: saving model to /home/wahab/DLBench_Addl/IMDB/weights_GPU_Keras_IMDB.hdf5
+Epoch 11/100
+[10,    50] train loss: 0.145
+[10,   100] train loss: 0.131
+[10,   150] train loss: 0.135
+[10,   200] train loss: 0.150
+[10,   250] train loss: 0.159
+[10,   300] train loss: 0.139
+[10,   350] train loss: 0.134
+ - 297s - loss: 0.1419 - acc: 0.9499
+[10] test loss: 0.330 accuracy: 0.884
+Epoch 12/100
+[11,    50] train loss: 0.137
+[11,   100] train loss: 0.111
+[11,   150] train loss: 0.157
+[11,   200] train loss: 0.124
+[11,   250] train loss: 0.122
+[11,   300] train loss: 0.132
+[11,   350] train loss: 0.138
+ - 295s - loss: 0.1335 - acc: 0.9533
+[11] test loss: 0.320 accuracy: 0.879
+Epoch 13/100
+[12,    50] train loss: 0.125
+[12,   100] train loss: 0.090
+[12,   150] train loss: 0.111
+[12,   200] train loss: 0.137
+[12,   250] train loss: 0.105
+[12,   300] train loss: 0.110
+[12,   350] train loss: 0.132
+ - 296s - loss: 0.1131 - acc: 0.9616
+[12] test loss: 0.340 accuracy: 0.881
+Epoch 14/100
+[13,    50] train loss: 0.107
+[13,   100] train loss: 0.098
+[13,   150] train loss: 0.082
+[13,   200] train loss: 0.095
+[13,   250] train loss: 0.118
+[13,   300] train loss: 0.121
+[13,   350] train loss: 0.094
+ - 296s - loss: 0.0997 - acc: 0.9673
+[13] test loss: 0.384 accuracy: 0.880
+Epoch 15/100
+[14,    50] train loss: 0.086
+[14,   100] train loss: 0.100
+[14,   150] train loss: 0.117
+[14,   200] train loss: 0.129
+[14,   250] train loss: 0.080
+[14,   300] train loss: 0.103
+[14,   350] train loss: 0.098
+ - 295s - loss: 0.1001 - acc: 0.9651
+[14] test loss: 0.430 accuracy: 0.871
+Epoch 16/100
+[15,    50] train loss: 0.081
+[15,   100] train loss: 0.103
+[15,   150] train loss: 0.080
+[15,   200] train loss: 0.096
+[15,   250] train loss: 0.090
+[15,   300] train loss: 0.096
+[15,   350] train loss: 0.082
+ - 297s - loss: 0.0870 - acc: 0.9695
+[15] test loss: 0.399 accuracy: 0.878
+Epoch 17/100
+[16,    50] train loss: 0.071
+[16,   100] train loss: 0.065
+[16,   150] train loss: 0.059
+[16,   200] train loss: 0.061
+[16,   250] train loss: 0.052
+[16,   300] train loss: 0.071
+[16,   350] train loss: 0.065
+ - 296s - loss: 0.0643 - acc: 0.9784
+[16] test loss: 0.423 accuracy: 0.873
+Epoch 18/100
+[17,    50] train loss: 0.067
+[17,   100] train loss: 0.071
+[17,   150] train loss: 0.057
+[17,   200] train loss: 0.091
+[17,   250] train loss: 0.097
+[17,   300] train loss: 0.078
+[17,   350] train loss: 0.131
+ - 296s - loss: 0.0817 - acc: 0.9722
+[17] test loss: 0.440 accuracy: 0.878
+Epoch 19/100
+[18,    50] train loss: 0.055
+[18,   100] train loss: 0.057
+[18,   150] train loss: 0.058
+[18,   200] train loss: 0.048
+[18,   250] train loss: 0.040
+[18,   300] train loss: 0.157
+[18,   350] train loss: 0.082
+ - 298s - loss: 0.0690 - acc: 0.9765
+[18] test loss: 0.443 accuracy: 0.881
+Epoch 20/100
+[19,    50] train loss: 0.063
+[19,   100] train loss: 0.064
+[19,   150] train loss: 0.046
+[19,   200] train loss: 0.040
+[19,   250] train loss: 0.045
+[19,   300] train loss: 0.040
+[19,   350] train loss: 0.035
+ - 296s - loss: 0.0466 - acc: 0.9848
+[19] test loss: 0.512 accuracy: 0.878
+
+Epoch 00020: saving model to /home/wahab/DLBench_Addl/IMDB/weights_GPU_Keras_IMDB.hdf5
+Epoch 21/100
+[20,    50] train loss: 0.035
+[20,   100] train loss: 0.016
+[20,   150] train loss: 0.026
+[20,   200] train loss: 0.025
+[20,   250] train loss: 0.032
+[20,   300] train loss: 0.044
+[20,   350] train loss: 0.044
+ - 296s - loss: 0.0327 - acc: 0.9902
+[20] test loss: 0.567 accuracy: 0.877
+Epoch 22/100
+[21,    50] train loss: 0.037
+[21,   100] train loss: 0.028
+[21,   150] train loss: 0.032
+[21,   200] train loss: 0.042
+[21,   250] train loss: 0.032
+[21,   300] train loss: 0.079
+[21,   350] train loss: 0.046
+ - 294s - loss: 0.0425 - acc: 0.9869
+[21] test loss: 0.553 accuracy: 0.877
+Epoch 23/100
+[22,    50] train loss: 0.041
+[22,   100] train loss: 0.024
+[22,   150] train loss: 0.034
+[22,   200] train loss: 0.021
+[22,   250] train loss: 0.019
+[22,   300] train loss: 0.027
+[22,   350] train loss: 0.027
+ - 296s - loss: 0.0253 - acc: 0.9926
+[22] test loss: 0.612 accuracy: 0.875
+Epoch 24/100
+[23,    50] train loss: 0.016
+[23,   100] train loss: 0.014
+[23,   150] train loss: 0.012
+[23,   200] train loss: 0.012
+[23,   250] train loss: 0.031
+[23,   300] train loss: 0.039
+[23,   350] train loss: 0.034
+ - 294s - loss: 0.0220 - acc: 0.9940
+[23] test loss: 0.647 accuracy: 0.876
+Epoch 25/100
+[24,    50] train loss: 0.051
+[24,   100] train loss: 0.046
+[24,   150] train loss: 0.104
+[24,   200] train loss: 0.068
+[24,   250] train loss: 0.033
+[24,   300] train loss: 0.030
+[24,   350] train loss: 0.025
+ - 294s - loss: 0.0513 - acc: 0.9830
+[24] test loss: 0.614 accuracy: 0.879
+Epoch 26/100
+[25,    50] train loss: 0.019
+[25,   100] train loss: 0.025
+[25,   150] train loss: 0.023
+[25,   200] train loss: 0.027
+[25,   250] train loss: 0.019
+[25,   300] train loss: 0.014
+[25,   350] train loss: 0.026
+ - 295s - loss: 0.0208 - acc: 0.9940
+[25] test loss: 0.638 accuracy: 0.876
+Epoch 27/100
+[26,    50] train loss: 0.014
+[26,   100] train loss: 0.012
+[26,   150] train loss: 0.057
+[26,   200] train loss: 0.049
+[26,   250] train loss: 0.031
+[26,   300] train loss: 0.037
+[26,   350] train loss: 0.030
+ - 296s - loss: 0.0313 - acc: 0.9906
+[26] test loss: 0.633 accuracy: 0.876
+Epoch 28/100
+[27,    50] train loss: 0.017
+[27,   100] train loss: 0.010
+[27,   150] train loss: 0.020
+[27,   200] train loss: 0.011
+[27,   250] train loss: 0.020
+[27,   300] train loss: 0.014
+[27,   350] train loss: 0.013
+ - 297s - loss: 0.0137 - acc: 0.9965
+[27] test loss: 0.686 accuracy: 0.867
+Epoch 29/100
+[28,    50] train loss: 0.011
+[28,   100] train loss: 0.005
+[28,   150] train loss: 0.004
+[28,   200] train loss: 0.003
+[28,   250] train loss: 0.006
+[28,   300] train loss: 0.012
+[28,   350] train loss: 0.008
+ - 295s - loss: 0.0072 - acc: 0.9984
+[28] test loss: 0.729 accuracy: 0.878
+Epoch 30/100
+[29,    50] train loss: 0.006
+[29,   100] train loss: 0.003
+[29,   150] train loss: 0.002
+[29,   200] train loss: 0.003
+[29,   250] train loss: 0.002
+[29,   300] train loss: 0.002
+[29,   350] train loss: 0.002
+ - 295s - loss: 0.0025 - acc: 0.9999
+[29] test loss: 0.799 accuracy: 0.877
+
+Epoch 00030: saving model to /home/wahab/DLBench_Addl/IMDB/weights_GPU_Keras_IMDB.hdf5
+Epoch 31/100
+[30,    50] train loss: 0.002
+[30,   100] train loss: 0.001
+[30,   150] train loss: 0.001
+[30,   200] train loss: 0.001
+[30,   250] train loss: 0.001
+[30,   300] train loss: 0.001
+[30,   350] train loss: 0.001
+ - 295s - loss: 0.0011 - acc: 1.0000
+[30] test loss: 0.889 accuracy: 0.879
+Epoch 32/100
+[31,    50] train loss: 0.001
+[31,   100] train loss: 0.001
+[31,   150] train loss: 0.001
+[31,   200] train loss: 0.001
+[31,   250] train loss: 0.001
+[31,   300] train loss: 0.001
+[31,   350] train loss: 0.001
+ - 294s - loss: 6.7462e-04 - acc: 1.0000
+[31] test loss: 0.916 accuracy: 0.876
+Epoch 33/100
+[32,    50] train loss: 0.001
+[32,   100] train loss: 0.000
+[32,   150] train loss: 0.000
+[32,   200] train loss: 0.000
+[32,   250] train loss: 0.000
+[32,   300] train loss: 0.000
+[32,   350] train loss: 0.000
+ - 294s - loss: 4.5470e-04 - acc: 1.0000
+[32] test loss: 0.949 accuracy: 0.876
+Epoch 34/100
+[33,    50] train loss: 0.000
+[33,   100] train loss: 0.000
+[33,   150] train loss: 0.000
+[33,   200] train loss: 0.000
+[33,   250] train loss: 0.000
+[33,   300] train loss: 0.000
+[33,   350] train loss: 0.000
+ - 294s - loss: 3.2024e-04 - acc: 1.0000
+[33] test loss: 0.992 accuracy: 0.877
+Epoch 35/100
+[34,    50] train loss: 0.000
+[34,   100] train loss: 0.000
+[34,   150] train loss: 0.000
+[34,   200] train loss: 0.000
+[34,   250] train loss: 0.000
+[34,   300] train loss: 0.000
+[34,   350] train loss: 0.000
+ - 295s - loss: 2.3627e-04 - acc: 1.0000
+[34] test loss: 1.015 accuracy: 0.876
+Epoch 36/100
+[35,    50] train loss: 0.000
+[35,   100] train loss: 0.000
+[35,   150] train loss: 0.000
+[35,   200] train loss: 0.000
+[35,   250] train loss: 0.000
+[35,   300] train loss: 0.000
+[35,   350] train loss: 0.000
+ - 294s - loss: 1.7639e-04 - acc: 1.0000
+[35] test loss: 1.047 accuracy: 0.876
+Epoch 37/100
+[36,    50] train loss: 0.000
+[36,   100] train loss: 0.000
+[36,   150] train loss: 0.000
+[36,   200] train loss: 0.000
+[36,   250] train loss: 0.000
+[36,   300] train loss: 0.000
+[36,   350] train loss: 0.000
+ - 295s - loss: 1.3240e-04 - acc: 1.0000
+[36] test loss: 1.067 accuracy: 0.876
+Epoch 38/100
+[37,    50] train loss: 0.000
+[37,   100] train loss: 0.000
+[37,   150] train loss: 0.000
+[37,   200] train loss: 0.000
+[37,   250] train loss: 0.000
+[37,   300] train loss: 0.000
+[37,   350] train loss: 0.000
+ - 296s - loss: 1.0013e-04 - acc: 1.0000
+[37] test loss: 1.098 accuracy: 0.876
+Epoch 39/100
+[38,    50] train loss: 0.000
+[38,   100] train loss: 0.000
+[38,   150] train loss: 0.000
+[38,   200] train loss: 0.000
+[38,   250] train loss: 0.000
+[38,   300] train loss: 0.000
+[38,   350] train loss: 0.000
+ - 295s - loss: 7.6576e-05 - acc: 1.0000
+[38] test loss: 1.111 accuracy: 0.875
+Epoch 40/100
+[39,    50] train loss: 0.000
+[39,   100] train loss: 0.000
+[39,   150] train loss: 0.262
+[39,   200] train loss: 0.172
+[39,   250] train loss: 0.087
+[39,   300] train loss: 0.086
+[39,   350] train loss: 0.048
+ - 294s - loss: 0.0891 - acc: 0.9709
+[39] test loss: 0.551 accuracy: 0.871
+
+Epoch 00040: saving model to /home/wahab/DLBench_Addl/IMDB/weights_GPU_Keras_IMDB.hdf5
+Epoch 41/100
+[40,    50] train loss: 0.041
+[40,   100] train loss: 0.108
+[40,   150] train loss: 0.090
+[40,   200] train loss: 0.050
+[40,   250] train loss: 0.030
+[40,   300] train loss: 0.034
+[40,   350] train loss: 0.025
+ - 296s - loss: 0.0511 - acc: 0.9845
+[40] test loss: 0.598 accuracy: 0.876
+Epoch 42/100
+[41,    50] train loss: 0.023
+[41,   100] train loss: 0.012
+[41,   150] train loss: 0.013
+[41,   200] train loss: 0.017
+[41,   250] train loss: 0.014
+[41,   300] train loss: 0.009
+[41,   350] train loss: 0.013
+ - 295s - loss: 0.0134 - acc: 0.9970
+[41] test loss: 0.697 accuracy: 0.879
+Epoch 43/100
+[42,    50] train loss: 0.013
+[42,   100] train loss: 0.004
+[42,   150] train loss: 0.010
+[42,   200] train loss: 0.054
+[42,   250] train loss: 0.019
+[42,   300] train loss: 0.010
+[42,   350] train loss: 0.009
+ - 295s - loss: 0.0159 - acc: 0.9960
+[42] test loss: 0.664 accuracy: 0.876
+Epoch 44/100
+[43,    50] train loss: 0.007
+[43,   100] train loss: 0.008
+[43,   150] train loss: 0.006
+[43,   200] train loss: 0.004
+[43,   250] train loss: 0.003
+[43,   300] train loss: 0.003
+[43,   350] train loss: 0.003
+ - 293s - loss: 0.0043 - acc: 0.9995
+[43] test loss: 0.757 accuracy: 0.877
+Epoch 45/100
+[44,    50] train loss: 0.002
+[44,   100] train loss: 0.001
+[44,   150] train loss: 0.001
+[44,   200] train loss: 0.001
+[44,   250] train loss: 0.001
+[44,   300] train loss: 0.001
+[44,   350] train loss: 0.001
+ - 295s - loss: 0.0016 - acc: 1.0000
+[44] test loss: 0.768 accuracy: 0.878
+Epoch 46/100
+[45,    50] train loss: 0.002
+[45,   100] train loss: 0.001
+[45,   150] train loss: 0.001
+[45,   200] train loss: 0.001
+[45,   250] train loss: 0.001
+[45,   300] train loss: 0.001
+[45,   350] train loss: 0.001
+ - 296s - loss: 8.5758e-04 - acc: 1.0000
+[45] test loss: 0.839 accuracy: 0.879
+Epoch 47/100
+[46,    50] train loss: 0.001
+[46,   100] train loss: 0.001
+[46,   150] train loss: 0.001
+[46,   200] train loss: 0.000
+[46,   250] train loss: 0.000
+[46,   300] train loss: 0.000
+[46,   350] train loss: 0.001
+ - 295s - loss: 5.1632e-04 - acc: 1.0000
+[46] test loss: 0.879 accuracy: 0.879
+Epoch 48/100
+[47,    50] train loss: 0.000
+[47,   100] train loss: 0.000
+[47,   150] train loss: 0.000
+[47,   200] train loss: 0.000
+[47,   250] train loss: 0.000
+[47,   300] train loss: 0.000
+[47,   350] train loss: 0.000
+ - 295s - loss: 3.6202e-04 - acc: 1.0000
+[47] test loss: 0.914 accuracy: 0.879
+Epoch 49/100
+[48,    50] train loss: 0.000
+[48,   100] train loss: 0.000
+[48,   150] train loss: 0.000
+[48,   200] train loss: 0.000
+[48,   250] train loss: 0.000
+[48,   300] train loss: 0.000
+[48,   350] train loss: 0.000
+ - 297s - loss: 2.6654e-04 - acc: 1.0000
+[48] test loss: 0.938 accuracy: 0.878
+Epoch 50/100
+[49,    50] train loss: 0.000
+[49,   100] train loss: 0.000
+[49,   150] train loss: 0.000
+[49,   200] train loss: 0.000
+[49,   250] train loss: 0.000
+[49,   300] train loss: 0.000
+[49,   350] train loss: 0.000
+ - 296s - loss: 1.9796e-04 - acc: 1.0000
+[49] test loss: 0.973 accuracy: 0.878
+
+Epoch 00050: saving model to /home/wahab/DLBench_Addl/IMDB/weights_GPU_Keras_IMDB.hdf5
+Epoch 51/100
+[50,    50] train loss: 0.000
+[50,   100] train loss: 0.000
+[50,   150] train loss: 0.000
+[50,   200] train loss: 0.000
+[50,   250] train loss: 0.000
+[50,   300] train loss: 0.000
+[50,   350] train loss: 0.000
+ - 297s - loss: 1.5135e-04 - acc: 1.0000
+[50] test loss: 0.993 accuracy: 0.878
+Epoch 52/100
+[51,    50] train loss: 0.000
+[51,   100] train loss: 0.000
+[51,   150] train loss: 0.000
+[51,   200] train loss: 0.000
+[51,   250] train loss: 0.000
+[51,   300] train loss: 0.000
+[51,   350] train loss: 0.000
+ - 295s - loss: 1.2041e-04 - acc: 1.0000
+[51] test loss: 0.995 accuracy: 0.878
+Epoch 53/100
+[52,    50] train loss: 0.000
+[52,   100] train loss: 0.000
+[52,   150] train loss: 0.000
+[52,   200] train loss: 0.000
+[52,   250] train loss: 0.000
+[52,   300] train loss: 0.000
+[52,   350] train loss: 0.000
+ - 296s - loss: 9.6605e-05 - acc: 1.0000
+[52] test loss: 1.036 accuracy: 0.877
+Epoch 54/100
+[53,    50] train loss: 0.000
+[53,   100] train loss: 0.000
+[53,   150] train loss: 0.000
+[53,   200] train loss: 0.000
+[53,   250] train loss: 0.000
+[53,   300] train loss: 0.000
+[53,   350] train loss: 0.000
+ - 296s - loss: 7.0260e-05 - acc: 1.0000
+[53] test loss: 1.064 accuracy: 0.878
+Epoch 55/100
+[54,    50] train loss: 0.000
+[54,   100] train loss: 0.000
+[54,   150] train loss: 0.000
+[54,   200] train loss: 0.000
+[54,   250] train loss: 0.000
+[54,   300] train loss: 0.000
+[54,   350] train loss: 0.000
+ - 295s - loss: 5.4280e-05 - acc: 1.0000
+[54] test loss: 1.081 accuracy: 0.877
+Epoch 56/100
+[55,    50] train loss: 0.000
+[55,   100] train loss: 0.000
+[55,   150] train loss: 0.000
+[55,   200] train loss: 0.000
+[55,   250] train loss: 0.000
+[55,   300] train loss: 0.000
+[55,   350] train loss: 0.000
+ - 294s - loss: 4.2234e-05 - acc: 1.0000
+[55] test loss: 1.115 accuracy: 0.878
+Epoch 57/100
+[56,    50] train loss: 0.000
+[56,   100] train loss: 0.000
+[56,   150] train loss: 0.000
+[56,   200] train loss: 0.000
+[56,   250] train loss: 0.000
+[56,   300] train loss: 0.000
+[56,   350] train loss: 0.000
+ - 294s - loss: 3.3099e-05 - acc: 1.0000
+[56] test loss: 1.128 accuracy: 0.878
+Epoch 58/100
+[57,    50] train loss: 0.000
+[57,   100] train loss: 0.000
+[57,   150] train loss: 0.000
+[57,   200] train loss: 0.000
+[57,   250] train loss: 0.000
+[57,   300] train loss: 0.000
+[57,   350] train loss: 0.000
+ - 294s - loss: 2.6008e-05 - acc: 1.0000
+[57] test loss: 1.150 accuracy: 0.878
+Epoch 59/100
+[58,    50] train loss: 0.000
+[58,   100] train loss: 0.000
+[58,   150] train loss: 0.000
+[58,   200] train loss: 0.000
+[58,   250] train loss: 0.000
+[58,   300] train loss: 0.000
+[58,   350] train loss: 0.000
+ - 295s - loss: 0.0096 - acc: 0.9977
+[58] test loss: 0.870 accuracy: 0.848
+Epoch 60/100
+[59,    50] train loss: 0.108
+[59,   100] train loss: 0.051
+[59,   150] train loss: 0.057
+[59,   200] train loss: 0.048
+[59,   250] train loss: 0.049
+[59,   300] train loss: 0.047
+[59,   350] train loss: 0.056
+ - 296s - loss: 0.0572 - acc: 0.9817
+[59] test loss: 0.618 accuracy: 0.876
+
+Epoch 00060: saving model to /home/wahab/DLBench_Addl/IMDB/weights_GPU_Keras_IMDB.hdf5
+Epoch 61/100
+[60,    50] train loss: 0.014
+[60,   100] train loss: 0.007
+[60,   150] train loss: 0.006
+[60,   200] train loss: 0.006
+[60,   250] train loss: 0.006
+[60,   300] train loss: 0.007
+[60,   350] train loss: 0.013
+ - 294s - loss: 0.0078 - acc: 0.9980
+[60] test loss: 0.686 accuracy: 0.877
+Epoch 62/100
+[61,    50] train loss: 0.007
+[61,   100] train loss: 0.002
+[61,   150] train loss: 0.002
+[61,   200] train loss: 0.002
+[61,   250] train loss: 0.002
+[61,   300] train loss: 0.002
+[61,   350] train loss: 0.004
+ - 294s - loss: 0.0031 - acc: 0.9995
+[61] test loss: 0.750 accuracy: 0.876
+Epoch 63/100
+[62,    50] train loss: 0.007
+[62,   100] train loss: 0.036
+[62,   150] train loss: 0.019

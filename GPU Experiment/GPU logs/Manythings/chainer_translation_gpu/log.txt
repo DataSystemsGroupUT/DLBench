@@ -1,0 +1,1524 @@
+
+Batch: 0 loss: variable(9.281859)
+Batch: 0 acc: 0.0
+
+Batch: 300 loss: variable(8.309957)
+Batch: 300 acc: 0.46114361442251317
+
+Batch: 600 loss: variable(5.928229)
+Batch: 600 acc: 0.5027963504453362
+
+Perplexity : 57.31886
+Test Loss : 3644.7454
+Test Acc : 0.5390875
+Epoch 1
+Time since beginning  0:01:17.133825
+
+Batch: 0 loss: variable(5.8602843)
+Batch: 0 acc: 0.5261948529411765
+
+Batch: 300 loss: variable(4.316349)
+Batch: 300 acc: 0.538453317373461
+Epoch 1
+
+Batch: 0 loss: variable(9.322898)
+Batch: 0 acc: 0.0
+
+Batch: 300 loss: variable(8.366148)
+Batch: 300 acc: 0.42667059556380693
+
+Batch: 600 loss: variable(6.018836)
+Batch: 600 acc: 0.48842615249094645
+
+Perplexity : 60.6218
+Test Loss : 3695.1812
+Test Acc : 0.5390867647058823
+Time since beginning  0:01:15.487740
+Epoch 2
+
+Batch: 0 loss: variable(5.9472876)
+Batch: 0 acc: 0.5261948529411765
+
+Batch: 300 loss: variable(4.341962)
+Batch: 300 acc: 0.538453317373461
+
+Batch: 600 loss: variable(3.4290335)
+Batch: 600 acc: 0.5389997981305668
+
+Perplexity : 11.327226
+Test Loss : 2185.075
+Test Acc : 0.5390867647058823
+Time since beginning  0:02:29.543363
+Epoch 3
+
+Batch: 0 loss: variable(3.5307631)
+Batch: 0 acc: 0.5261948529411765
+
+Batch: 300 loss: variable(3.1145437)
+Batch: 300 acc: 0.538453317373461
+
+Batch: 600 loss: variable(2.8137538)
+Batch: 600 acc: 0.5389997981305668
+
+Perplexity : 7.6268964
+Test Loss : 1829.0039
+Test Acc : 0.5390867647058823
+Time since beginning  0:03:42.287639
+Epoch 4
+
+Batch: 0 loss: variable(2.9632287)
+Batch: 0 acc: 0.5261948529411765
+
+Batch: 300 loss: variable(2.7755327)
+Batch: 300 acc: 0.538453317373461
+
+Batch: 600 loss: variable(2.5605543)
+Batch: 600 acc: 0.5389997981305668
+
+Perplexity : 6.4114947
+Test Loss : 1672.7323
+Test Acc : 0.5390867647058823
+Time since beginning  0:04:54.961689
+Epoch 5
+
+Batch: 0 loss: variable(2.7103698)
+Batch: 0 acc: 0.5261948529411765
+
+Batch: 300 loss: variable(2.5589776)
+Batch: 300 acc: 0.5384716386554622
+
+Batch: 600 loss: variable(2.36955)
+Batch: 600 acc: 0.542604390966037
+
+Perplexity : 5.6169415
+Test Loss : 1553.6256
+Test Acc : 0.5648360294117647
+Time since beginning  0:06:08.360379
+Epoch 6
+
+Batch: 0 loss: variable(2.5164683)
+Batch: 0 acc: 0.5500919117647058
+
+Batch: 300 loss: variable(2.3836777)
+Batch: 300 acc: 0.5806624975571624
+
+Batch: 600 loss: variable(2.206604)
+Batch: 600 acc: 0.5998565503572477
+
+Perplexity : 5.0065436
+Test Loss : 1450.0604
+Test Acc : 0.6615705882352941
+Time since beginning  0:07:22.184683
+Epoch 7
+
+Batch: 0 loss: variable(2.346647)
+Batch: 0 acc: 0.6470588235294118
+
+Batch: 300 loss: variable(2.2227983)
+Batch: 300 acc: 0.6749575556966972
+
+Batch: 600 loss: variable(2.0542374)
+Batch: 600 acc: 0.6833525007340706
+
+Perplexity : 4.492342
+Test Loss : 1352.5
+Test Acc : 0.6976573529411765
+Time since beginning  0:08:35.973959
+Epoch 8
+
+Batch: 0 loss: variable(2.18585)
+Batch: 0 acc: 0.6934742647058824
+
+Batch: 300 loss: variable(2.0726607)
+Batch: 300 acc: 0.7047632279656049
+
+Batch: 600 loss: variable(1.9145358)
+Batch: 600 acc: 0.715599613389449
+
+Perplexity : 4.065662
+Test Loss : 1262.6578
+Test Acc : 0.7341220588235294
+Time since beginning  0:09:49.753541
+Epoch 9
+
+Batch: 0 loss: variable(2.0369515)
+Batch: 0 acc: 0.7265625
+
+Batch: 300 loss: variable(1.9346817)
+Batch: 300 acc: 0.7369812023646668
+
+Batch: 600 loss: variable(1.7858342)
+Batch: 600 acc: 0.7401596297836939
+
+Perplexity : 3.7056854
+Test Loss : 1179.198
+Test Acc : 0.7473794117647059
+Time since beginning  0:11:03.149803
+Epoch 10
+
+Batch: 0 loss: variable(1.8976766)
+Batch: 0 acc: 0.7440257352941176
+
+Batch: 300 loss: variable(1.8069974)
+Batch: 300 acc: 0.7519817520031268
+
+Batch: 600 loss: variable(1.668199)
+Batch: 600 acc: 0.7566280463932661
+
+Perplexity : 3.4023943
+Test Loss : 1102.3274
+Test Acc : 0.7664330882352941
+Time since beginning  0:12:19.844352
+Epoch 11
+
+Batch: 0 loss: variable(1.7689923)
+Batch: 0 acc: 0.7637867647058824
+
+Batch: 300 loss: variable(1.6896265)
+Batch: 300 acc: 0.7695060582372484
+
+Batch: 600 loss: variable(1.5604316)
+Batch: 600 acc: 0.7742426837623568
+
+Perplexity : 3.144615
+Test Loss : 1031.3992
+Test Acc : 0.78465
+Time since beginning  0:13:33.536262
+Epoch 12
+
+Batch: 0 loss: variable(1.6500455)
+Batch: 0 acc: 0.7830882352941176
+
+Batch: 300 loss: variable(1.5807182)
+Batch: 300 acc: 0.7909587526871213
+
+Batch: 600 loss: variable(1.4615697)
+Batch: 600 acc: 0.797459962562396
+
+Perplexity : 2.923837
+Test Loss : 965.8665
+Test Acc : 0.8095808823529411
+Time since beginning  0:14:47.960927
+Epoch 13
+
+Batch: 0 loss: variable(1.539939)
+Batch: 0 acc: 0.8056066176470589
+
+Batch: 300 loss: variable(1.4795789)
+Batch: 300 acc: 0.8147748925151456
+
+Batch: 600 loss: variable(1.3709658)
+Batch: 600 acc: 0.8194254979446022
+
+Perplexity : 2.733537
+Test Loss : 905.27985
+Test Acc : 0.8273360294117647
+Time since beginning  0:16:01.918813
+Epoch 14
+
+Batch: 0 loss: variable(1.4379587)
+Batch: 0 acc: 0.8285845588235294
+
+Batch: 300 loss: variable(1.3853458)
+Batch: 300 acc: 0.8288517441860465
+
+Batch: 600 loss: variable(1.2879632)
+Batch: 600 acc: 0.8310108153078203
+
+Perplexity : 2.568471
+Test Loss : 849.2077
+Test Acc : 0.8359992647058824
+Time since beginning  0:17:15.265431
+Epoch 15
+
+Batch: 0 loss: variable(1.3434612)
+Batch: 0 acc: 0.8377757352941176
+
+Batch: 300 loss: variable(1.297864)
+Batch: 300 acc: 0.8395055696697283
+
+Batch: 600 loss: variable(1.2121941)
+Batch: 600 acc: 0.8431405684153861
+
+Perplexity : 2.4253125
+Test Loss : 797.5785
+Test Acc : 0.8506036764705882
+Time since beginning  0:18:29.144917
+Epoch 16
+
+Batch: 0 loss: variable(1.2563263)
+Batch: 0 acc: 0.8575367647058824
+
+Batch: 300 loss: variable(1.2172564)
+Batch: 300 acc: 0.8533152359781122
+
+Batch: 600 loss: variable(1.143294)
+Batch: 600 acc: 0.8559554541450524
+
+Perplexity : 2.3011725
+Test Loss : 750.27826
+Test Acc : 0.8610080882352941
+Time since beginning  0:19:43.591293
+Epoch 17
+
+Batch: 0 loss: variable(1.1766974)
+Batch: 0 acc: 0.8671875
+
+Batch: 300 loss: variable(1.1433934)
+Batch: 300 acc: 0.8629201680672269
+
+Batch: 600 loss: variable(1.0805258)
+Batch: 600 acc: 0.8651282788489773
+
+Perplexity : 2.1929748
+Test Loss : 706.9229
+Test Acc : 0.8697154411764706
+Time since beginning  0:20:57.510982
+Epoch 18
+
+Batch: 0 loss: variable(1.1042205)
+Batch: 0 acc: 0.8759191176470589
+
+Batch: 300 loss: variable(1.075845)
+Batch: 300 acc: 0.8713784932577682
+
+Batch: 600 loss: variable(1.0230725)
+Batch: 600 acc: 0.8737620204071646
+
+Perplexity : 2.098109
+Test Loss : 667.112
+Test Acc : 0.8787860294117648
+Time since beginning  0:22:11.600411
+Epoch 19
+
+Batch: 0 loss: variable(1.0383962)
+Batch: 0 acc: 0.8855698529411765
+
+Batch: 300 loss: variable(1.014107)
+Batch: 300 acc: 0.8808108999413718
+
+Batch: 600 loss: variable(0.9702391)
+Batch: 600 acc: 0.8832865873054713
+
+Perplexity : 2.0144403
+Test Loss : 630.47644
+Test Acc : 0.8884154411764705
+Time since beginning  0:23:25.649774
+Epoch 20
+
+Batch: 0 loss: variable(0.97866285)
+Batch: 0 acc: 0.8929227941176471
+
+Batch: 300 loss: variable(0.95762813)
+Batch: 300 acc: 0.8901120041039672
+
+Batch: 600 loss: variable(0.92144257)
+Batch: 600 acc: 0.8922017226191641
+
+Perplexity : 1.9402031
+Test Loss : 596.6736
+Test Acc : 0.8961845588235294
+Time since beginning  0:24:41.768635
+Epoch 21
+
+Batch: 0 loss: variable(0.9244)
+Batch: 0 acc: 0.8984375
+
+Batch: 300 loss: variable(0.90584654)
+Batch: 300 acc: 0.897577926519445
+
+Batch: 600 loss: variable(0.87621135)
+Batch: 600 acc: 0.8992747993540178
+
+Perplexity : 1.8739421
+Test Loss : 565.3917
+Test Acc : 0.9028919117647058
+Time since beginning  0:25:56.093537
+Epoch 22
+
+Batch: 0 loss: variable(0.87494713)
+Batch: 0 acc: 0.9053308823529411
+
+Batch: 300 loss: variable(0.8582212)
+Batch: 300 acc: 0.9044163450263827
+
+Batch: 600 loss: variable(0.834175)
+Batch: 600 acc: 0.9061047151805813
+
+Perplexity : 1.8144869
+Test Loss : 536.36646
+Test Acc : 0.909522794117647
+Time since beginning  0:27:09.562037
+Epoch 23
+
+Batch: 0 loss: variable(0.8296675)
+Batch: 0 acc: 0.9122242647058824
+
+Batch: 300 loss: variable(0.8142684)
+Batch: 300 acc: 0.9106180989837795
+
+Batch: 600 loss: variable(0.7949975)
+Batch: 600 acc: 0.9120766859156308
+
+Perplexity : 1.7608404
+Test Loss : 509.34882
+Test Acc : 0.9151448529411764
+Time since beginning  0:28:23.646560
+Epoch 24
+
+Batch: 0 loss: variable(0.7879584)
+Batch: 0 acc: 0.9177389705882353
+
+Batch: 300 loss: variable(0.77352524)
+Batch: 300 acc: 0.9161770812976353
+
+Batch: 600 loss: variable(0.7583599)
+Batch: 600 acc: 0.9175378658118821
+
+Perplexity : 1.7121853
+Test Loss : 484.1234
+Test Acc : 0.9204404411764706
+Time since beginning  0:29:37.558045
+Epoch 25
+
+Batch: 0 loss: variable(0.7493121)
+Batch: 0 acc: 0.9237132352941176
+
+Batch: 300 loss: variable(0.73561805)
+Batch: 300 acc: 0.9214658247019738
+
+Batch: 600 loss: variable(0.72401214)
+Batch: 600 acc: 0.9227635313692865
+
+Perplexity : 1.6679013
+Test Loss : 460.53317
+Test Acc : 0.9253095588235294
+Time since beginning  0:30:51.050847
+Epoch 26
+
+Batch: 0 loss: variable(0.71334267)
+Batch: 0 acc: 0.9260110294117647
+
+Batch: 300 loss: variable(0.7002792)
+Batch: 300 acc: 0.9261224838772718
+
+Batch: 600 loss: variable(0.69174534)
+Batch: 600 acc: 0.9272979470490359
+
+Perplexity : 1.6274828
+Test Loss : 438.44876
+Test Acc : 0.929635294117647
+Time since beginning  0:32:04.962553
+Epoch 27
+
+Batch: 0 loss: variable(0.6797344)
+Batch: 0 acc: 0.9306066176470589
+
+Batch: 300 loss: variable(0.667275)
+Batch: 300 acc: 0.9303180574555403
+
+Batch: 600 loss: variable(0.6613788)
+Batch: 600 acc: 0.9315502043163355
+
+Perplexity : 1.590501
+Test Loss : 417.7563
+Test Acc : 0.9339058823529411
+Time since beginning  0:33:19.175845
+Epoch 28
+
+Batch: 0 loss: variable(0.648236)
+Batch: 0 acc: 0.9352022058823529
+
+Batch: 300 loss: variable(0.6363926)
+Batch: 300 acc: 0.9346113445378151
+
+Batch: 600 loss: variable(0.6327296)
+Batch: 600 acc: 0.9359538636586082
+
+Perplexity : 1.5565854
+Test Loss : 398.35205
+Test Acc : 0.9383411764705882
+Time since beginning  0:34:33.009261
+Epoch 29
+
+Batch: 0 loss: variable(0.6186536)
+Batch: 0 acc: 0.9393382352941176
+
+Batch: 300 loss: variable(0.6074692)
+Batch: 300 acc: 0.9389901309360954
+
+Batch: 600 loss: variable(0.6056422)
+Batch: 600 acc: 0.9401717113634139
+
+Perplexity : 1.5253999
+Test Loss : 380.13303
+Test Acc : 0.9420919117647059
+Time since beginning  0:35:47.338896
+Epoch 30
+
+Batch: 0 loss: variable(0.59081256)
+Batch: 0 acc: 0.9425551470588235
+
+Batch: 300 loss: variable(0.5803532)
+Batch: 300 acc: 0.9424543800078171
+
+Batch: 600 loss: variable(0.57998925)
+Batch: 600 acc: 0.9435706114808652
+
+Perplexity : 1.4966604
+Test Loss : 363.01004
+Test Acc : 0.9452816176470589
+Time since beginning  0:37:03.741070
+Epoch 31
+
+Batch: 0 loss: variable(0.5645654)
+Batch: 0 acc: 0.9453125
+
+Batch: 300 loss: variable(0.55491525)
+Batch: 300 acc: 0.9455888460035177
+
+Batch: 600 loss: variable(0.5556959)
+Batch: 600 acc: 0.9467852292747382
+
+Perplexity : 1.4701335
+Test Loss : 346.91107
+Test Acc : 0.9484786764705883
+Time since beginning  0:38:17.626603
+Epoch 32
+
+Batch: 0 loss: variable(0.5398014)
+Batch: 0 acc: 0.9480698529411765
+
+Batch: 300 loss: variable(0.5310458)
+Batch: 300 acc: 0.9486683481532148
+
+Batch: 600 loss: variable(0.5326774)
+Batch: 600 acc: 0.9497727439561515
+
+Perplexity : 1.4456083
+Test Loss : 331.7662
+Test Acc : 0.9514095588235294
+Time since beginning  0:39:31.951094
+Epoch 33
+
+Batch: 0 loss: variable(0.51643366)
+Batch: 0 acc: 0.9512867647058824
+
+Batch: 300 loss: variable(0.50861424)
+Batch: 300 acc: 0.9516455564784053
+
+Batch: 600 loss: variable(0.5108403)
+Batch: 600 acc: 0.9527197318195165
+
+Perplexity : 1.4228859
+Test Loss : 317.50363
+Test Acc : 0.95425
+Time since beginning  0:40:45.346081
+Epoch 34
+
+Batch: 0 loss: variable(0.49437732)
+Batch: 0 acc: 0.9549632352941176
+
+Batch: 300 loss: variable(0.487497)
+Batch: 300 acc: 0.954499096150088
+
+Batch: 600 loss: variable(0.49011052)
+Batch: 600 acc: 0.9554097949495938
+
+Perplexity : 1.4017876
+Test Loss : 304.0551
+Test Acc : 0.9566220588235295
+Time since beginning  0:41:58.769347
+Epoch 35
+
+Batch: 0 loss: variable(0.47354838)
+Batch: 0 acc: 0.9568014705882353
+
+Batch: 300 loss: variable(0.46758538)
+Batch: 300 acc: 0.9566869625757279
+
+Batch: 600 loss: variable(0.4704137)
+Batch: 600 acc: 0.9575951844964276
+
+Perplexity : 1.382158
+Test Loss : 291.35968
+Test Acc : 0.9588301470588235
+Time since beginning  0:43:12.319080
+Epoch 36
+
+Batch: 0 loss: variable(0.45386583)
+Batch: 0 acc: 0.9581801470588235
+
+Batch: 300 loss: variable(0.4487865)
+Batch: 300 acc: 0.9589435338088724
+
+Batch: 600 loss: variable(0.45167884)
+Batch: 600 acc: 0.9597247540863267
+
+Perplexity : 1.3638617
+Test Loss : 279.3631
+Test Acc : 0.9607610294117647
+Time since beginning  0:44:25.807814
+Epoch 37
+
+Batch: 0 loss: variable(0.43525326)
+Batch: 0 acc: 0.9604779411764706
+
+Batch: 300 loss: variable(0.43102756)
+Batch: 300 acc: 0.9608932235684972
+
+Batch: 600 loss: variable(0.43384546)
+Batch: 600 acc: 0.9616608654693158
+
+Perplexity : 1.346781
+Test Loss : 268.0175
+Test Acc : 0.9627544117647059
+Time since beginning  0:45:38.988160
+Epoch 38
+
+Batch: 0 loss: variable(0.41764054)
+Batch: 0 acc: 0.9627757352941176
+
+Batch: 300 loss: variable(0.41425058)
+Batch: 300 acc: 0.9629009307211257
+
+Batch: 600 loss: variable(0.41686007)
+Batch: 600 acc: 0.9635120999314868
+
+Perplexity : 1.3308103
+Test Loss : 257.27826
+Test Acc : 0.9644522058823529
+Time since beginning  0:46:53.067767
+Epoch 39
+
+Batch: 0 loss: variable(0.40096205)
+Batch: 0 acc: 0.9646139705882353
+
+Batch: 300 loss: variable(0.3984061)
+Batch: 300 acc: 0.9645162570842291
+
+Batch: 600 loss: variable(0.40067124)
+Batch: 600 acc: 0.9651454071645297
+
+Perplexity : 1.3158567
+Test Loss : 247.10542
+Test Acc : 0.9659669117647058
+Time since beginning  0:48:07.106725
+Epoch 40
+
+Batch: 0 loss: variable(0.38515458)
+Batch: 0 acc: 0.9664522058823529
+
+Batch: 300 loss: variable(0.3834443)
+Batch: 300 acc: 0.9660048612468243
+
+Batch: 600 loss: variable(0.38522798)
+Batch: 600 acc: 0.9666280769795439
+
+Perplexity : 1.3018352
+Test Loss : 237.46123
+Test Acc : 0.9673595588235294
+Time since beginning  0:49:23.030555
+Epoch 41
+
+Batch: 0 loss: variable(0.37015685)
+Batch: 0 acc: 0.9682904411764706
+
+Batch: 300 loss: variable(0.36930993)
+Batch: 300 acc: 0.9674552960719172
+
+Batch: 600 loss: variable(0.37046328)
+Batch: 600 acc: 0.9680595147792894
+
+Perplexity : 1.2886667
+Test Loss : 228.30864
+Test Acc : 0.9687823529411764
+Time since beginning  0:50:36.534148
+Epoch 42
+
+Batch: 0 loss: variable(0.35590327)
+Batch: 0 acc: 0.9705882352941176
+
+Batch: 300 loss: variable(0.35594586)
+Batch: 300 acc: 0.968812597713504
+
+Batch: 600 loss: variable(0.35637408)
+Batch: 600 acc: 0.9693479617304492
+
+Perplexity : 1.2762865
+Test Loss : 219.61812
+Test Acc : 0.9700676470588235
+Time since beginning  0:51:50.775351
+Epoch 43
+
+Batch: 0 loss: variable(0.34236303)
+Batch: 0 acc: 0.9724264705882353
+
+Batch: 300 loss: variable(0.34328607)
+Batch: 300 acc: 0.9701683725815907
+
+Batch: 600 loss: variable(0.34291792)
+Batch: 600 acc: 0.9706731122149359
+
+Perplexity : 1.2646343
+Test Loss : 211.36133
+Test Acc : 0.9713904411764706
+Time since beginning  0:53:04.749648
+Epoch 44
+
+Batch: 0 loss: variable(0.3294755)
+Batch: 0 acc: 0.9738051470588235
+
+Batch: 300 loss: variable(0.33127668)
+Batch: 300 acc: 0.9714432284541724
+
+Batch: 600 loss: variable(0.33005506)
+Batch: 600 acc: 0.9719615591660957
+
+Perplexity : 1.2536532
+Test Loss : 203.51024
+Test Acc : 0.9725867647058823
+Time since beginning  0:54:18.129525
+Epoch 45
+
+Batch: 0 loss: variable(0.31719422)
+Batch: 0 acc: 0.9747242647058824
+
+Batch: 300 loss: variable(0.3198627)
+Batch: 300 acc: 0.9725684605237443
+
+Batch: 600 loss: variable(0.31775758)
+Batch: 600 acc: 0.9731146618381129
+
+Perplexity : 1.2432939
+Test Loss : 196.04047
+Test Acc : 0.9737485294117647
+Time since beginning  0:55:30.627141
+Epoch 46
+
+Batch: 0 loss: variable(0.30548048)
+Batch: 0 acc: 0.9751838235294118
+
+Batch: 300 loss: variable(0.3089935)
+Batch: 300 acc: 0.9737517099863201
+
+Batch: 600 loss: variable(0.3060049)
+Batch: 600 acc: 0.9742172971518058
+
+Perplexity : 1.2335113
+Test Loss : 188.92914
+Test Acc : 0.9748492647058824
+Time since beginning  0:56:44.137082
+Epoch 47
+
+Batch: 0 loss: variable(0.29430112)
+Batch: 0 acc: 0.9761029411764706
+
+Batch: 300 loss: variable(0.2986248)
+Batch: 300 acc: 0.9749471736368966
+
+Batch: 600 loss: variable(0.29478166)
+Batch: 600 acc: 0.975372693794656
+
+Perplexity : 1.2242668
+Test Loss : 182.1568
+Test Acc : 0.9759463235294118
+Time since beginning  0:57:58.063140
+Epoch 48
+
+Batch: 0 loss: variable(0.2836263)
+Batch: 0 acc: 0.9770220588235294
+
+Batch: 300 loss: variable(0.2887188)
+Batch: 300 acc: 0.9760067544459644
+
+Batch: 600 loss: variable(0.2840681)
+Batch: 600 acc: 0.9764049806694725
+
+Perplexity : 1.215522
+Test Loss : 175.70349
+Test Acc : 0.9769617647058824
+Time since beginning  0:59:11.643397
+Epoch 49
+
+Batch: 0 loss: variable(0.27342713)
+Batch: 0 acc: 0.9774816176470589
+
+Batch: 300 loss: variable(0.27923864)
+Batch: 300 acc: 0.977014424956029
+
+Batch: 600 loss: variable(0.27384192)
+Batch: 600 acc: 0.9774189157776255
+
+Perplexity : 1.2072449
+Test Loss : 169.55226
+Test Acc : 0.9779117647058824
+Time since beginning  1:00:25.478151
+Epoch 50
+
+Batch: 0 loss: variable(0.26367882)
+Batch: 0 acc: 0.9779411764705882
+
+Batch: 300 loss: variable(0.27015498)
+Batch: 300 acc: 0.9779243819620872
+
+Batch: 600 loss: variable(0.26407793)
+Batch: 600 acc: 0.9783089764608006
+
+Perplexity : 1.1994028
+Test Loss : 163.68533
+Test Acc : 0.9787985294117647
+Time since beginning  1:01:41.707066
+Epoch 51
+
+Batch: 0 loss: variable(0.25435725)
+Batch: 0 acc: 0.9779411764705882
+
+Batch: 300 loss: variable(0.26144183)
+Batch: 300 acc: 0.978828231874145
+
+Batch: 600 loss: variable(0.2547552)
+Batch: 600 acc: 0.9791822146912009
+
+Perplexity : 1.1919669
+Test Loss : 158.08675
+Test Acc : 0.9796463235294117
+Time since beginning  1:02:55.056546
+Epoch 52
+
+Batch: 0 loss: variable(0.24544051)
+Batch: 0 acc: 0.9784007352941176
+
+Batch: 300 loss: variable(0.2530773)
+Batch: 300 acc: 0.9796801714871995
+
+Batch: 600 loss: variable(0.2458553)
+Batch: 600 acc: 0.9800156907604972
+
+Perplexity : 1.1849098
+Test Loss : 152.741
+Test Acc : 0.9804588235294117
+Time since beginning  1:04:08.797433
+Epoch 53
+
+Batch: 0 loss: variable(0.23690881)
+Batch: 0 acc: 0.9797794117647058
+
+Batch: 300 loss: variable(0.24504325)
+Batch: 300 acc: 0.9804893614422513
+
+Batch: 600 loss: variable(0.23735936)
+Batch: 600 acc: 0.9807742304492513
+
+Perplexity : 1.1782064
+Test Loss : 147.63365
+Test Acc : 0.9811963235294118
+Time since beginning  1:05:22.458929
+Epoch 54
+
+Batch: 0 loss: variable(0.22874245)
+Batch: 0 acc: 0.9797794117647058
+
+Batch: 300 loss: variable(0.23732328)
+Batch: 300 acc: 0.9812359536837991
+
+Batch: 600 loss: variable(0.22924827)
+Batch: 600 acc: 0.9815174769991191
+
+Perplexity : 1.1718329
+Test Loss : 142.75056
+Test Acc : 0.9819558823529412
+Time since beginning  1:06:36.300691
+Epoch 55
+
+Batch: 0 loss: variable(0.22092354)
+Batch: 0 acc: 0.9811580882352942
+
+Batch: 300 loss: variable(0.22990331)
+Batch: 300 acc: 0.9819672781903459
+
+Batch: 600 loss: variable(0.22150463)
+Batch: 600 acc: 0.9822400778114907
+
+Perplexity : 1.1657681
+Test Loss : 138.07922
+Test Acc : 0.9826132352941176
+Time since beginning  1:07:49.614226
+Epoch 56
+
+Batch: 0 loss: variable(0.21343629)
+Batch: 0 acc: 0.9816176470588235
+
+Batch: 300 loss: variable(0.22277129)
+Batch: 300 acc: 0.9826207372483877
+
+Batch: 600 loss: variable(0.21411324)
+Batch: 600 acc: 0.9828839189585984
+
+Perplexity : 1.1599919
+Test Loss : 133.60754
+Test Acc : 0.9832375
+Time since beginning  1:09:01.922293
+Epoch 57
+
+Batch: 0 loss: variable(0.20626603)
+Batch: 0 acc: 0.9834558823529411
+
+Batch: 300 loss: variable(0.2159159)
+Batch: 300 acc: 0.9832512947039281
+
+Batch: 600 loss: variable(0.2070598)
+Batch: 600 acc: 0.9834979384848781
+
+Perplexity : 1.1544865
+Test Loss : 129.32483
+Test Acc : 0.9838816176470588
+Time since beginning  1:10:14.478250
+Epoch 58
+
+Batch: 0 loss: variable(0.19939938)
+Batch: 0 acc: 0.9839154411764706
+
+Batch: 300 loss: variable(0.2093271)
+Batch: 300 acc: 0.9839108608559703
+
+Batch: 600 loss: variable(0.20032944)
+Batch: 600 acc: 0.9841333684055985
+
+Perplexity : 1.1492348
+Test Loss : 125.22028
+Test Acc : 0.9845154411764706
+Time since beginning  1:11:28.218241
+Epoch 59
+
+Batch: 0 loss: variable(0.192824)
+Batch: 0 acc: 0.984375
+
+Batch: 300 loss: variable(0.20299429)
+Batch: 300 acc: 0.9845795876490131
+
+Batch: 600 loss: variable(0.1939069)
+Batch: 600 acc: 0.9847932673485368
+
+Perplexity : 1.1442214
+Test Loss : 121.28453
+Test Acc : 0.9851433823529412
+Time since beginning  1:12:41.983028
+Epoch 60
+
+Batch: 0 loss: variable(0.1865289)
+Batch: 0 acc: 0.984375
+
+Batch: 300 loss: variable(0.19690683)
+Batch: 300 acc: 0.9852712160445574
+
+Batch: 600 loss: variable(0.18777837)
+Batch: 600 acc: 0.9854371084956445
+
+Perplexity : 1.1394325
+Test Loss : 117.50887
+Test Acc : 0.9857713235294118
+Time since beginning  1:13:57.717715
+Epoch 61
+
+Batch: 0 loss: variable(0.18050483)
+Batch: 0 acc: 0.9857536764705882
+
+Batch: 300 loss: variable(0.19105364)
+Batch: 300 acc: 0.9858910860855971
+
+Batch: 600 loss: variable(0.18192872)
+Batch: 600 acc: 0.9860365995399824
+
+Perplexity : 1.1348544
+Test Loss : 113.88453
+Test Acc : 0.9863433823529412
+Time since beginning  1:15:11.267844
+Epoch 62
+
+Batch: 0 loss: variable(0.17474167)
+Batch: 0 acc: 0.9857536764705882
+
+Batch: 300 loss: variable(0.18542302)
+Batch: 300 acc: 0.9864422513191323
+
+Batch: 600 loss: variable(0.17634358)
+Batch: 600 acc: 0.9866055043065479
+
+Perplexity : 1.1304748
+Test Loss : 110.40356
+Test Acc : 0.9868735294117648
+Time since beginning  1:16:25.626235
+Epoch 63
+
+Batch: 0 loss: variable(0.16922913)
+Batch: 0 acc: 0.9871323529411765
+
+Batch: 300 loss: variable(0.18000399)
+Batch: 300 acc: 0.9869109707836623
+
+Batch: 600 loss: variable(0.17101002)
+Batch: 600 acc: 0.987094120093961
+
+Perplexity : 1.1262822
+Test Loss : 107.058624
+Test Acc : 0.9873367647058824
+Time since beginning  1:17:39.068596
+Epoch 64
+
+Batch: 0 loss: variable(0.16395628)
+Batch: 0 acc: 0.9880514705882353
+
+Batch: 300 loss: variable(0.17478675)
+Batch: 300 acc: 0.9873812170216923
+
+Batch: 600 loss: variable(0.1659166)
+Batch: 600 acc: 0.9875628548008222
+
+Perplexity : 1.1222657
+Test Loss : 103.842545
+Test Acc : 0.9878117647058824
+Time since beginning  1:18:52.184713
+Epoch 65
+
+Batch: 0 loss: variable(0.15891112)
+Batch: 0 acc: 0.9885110294117647
+
+Batch: 300 loss: variable(0.16976203)
+Batch: 300 acc: 0.9878056600547196
+
+Batch: 600 loss: variable(0.16105327)
+Batch: 600 acc: 0.9880117084271313
+
+Perplexity : 1.1184155
+Test Loss : 100.748695
+Test Acc : 0.9882404411764706
+Time since beginning  1:20:05.384264
+Epoch 66
+
+Batch: 0 loss: variable(0.15408154)
+Batch: 0 acc: 0.9889705882352942
+
+Batch: 300 loss: variable(0.16492045)
+Batch: 300 acc: 0.98828048661325
+
+Batch: 600 loss: variable(0.15640731)
+Batch: 600 acc: 0.9884789138201038
+
+Perplexity : 1.1147221
+Test Loss : 97.77094
+Test Acc : 0.988714705882353
+Time since beginning  1:21:18.964920
+Epoch 67
+
+Batch: 0 loss: variable(0.14945507)
+Batch: 0 acc: 0.9889705882352942
+
+Batch: 300 loss: variable(0.160252)
+Batch: 300 acc: 0.988733938342779
+
+Batch: 600 loss: variable(0.15196456)
+Batch: 600 acc: 0.9889239441616913
+
+Perplexity : 1.1111773
+Test Loss : 94.90355
+Test Acc : 0.9891544117647059
+Time since beginning  1:22:32.929684
+Epoch 68
+
+Batch: 0 loss: variable(0.14501986)
+Batch: 0 acc: 0.9889705882352942
+
+Batch: 300 loss: variable(0.15574744)
+Batch: 300 acc: 0.989187390072308
+
+Batch: 600 loss: variable(0.14771125)
+Batch: 600 acc: 0.9893620925907801
+
+Perplexity : 1.1077724
+Test Loss : 92.14079
+Test Acc : 0.9895926470588235
+Time since beginning  1:23:46.018958
+Epoch 69
+
+Batch: 0 loss: variable(0.14076363)
+Batch: 0 acc: 0.9894301470588235
+
+Batch: 300 loss: variable(0.1513984)
+Batch: 300 acc: 0.9896087795583349
+
+Batch: 600 loss: variable(0.14363462)
+Batch: 600 acc: 0.9897696547420965
+
+Perplexity : 1.1045004
+Test Loss : 89.47778
+Test Acc : 0.9899955882352941
+Time since beginning  1:25:00.176982
+Epoch 70
+
+Batch: 0 loss: variable(0.1366742)
+Batch: 0 acc: 0.9903492647058824
+
+Batch: 300 loss: variable(0.14719598)
+Batch: 300 acc: 0.9900103209888607
+
+Batch: 600 loss: variable(0.13972285)
+Batch: 600 acc: 0.9901473952725849
+
+Perplexity : 1.1013544
+Test Loss : 86.90994
+Test Acc : 0.9903845588235294
+Time since beginning  1:26:15.740004
+Epoch 71
+
+Batch: 0 loss: variable(0.13274176)
+Batch: 0 acc: 0.9908088235294118
+
+Batch: 300 loss: variable(0.14313322)
+Batch: 300 acc: 0.990405755325386
+
+Batch: 600 loss: variable(0.13596484)
+Batch: 600 acc: 0.9905335470294607
+
+Perplexity : 1.0983282
+Test Loss : 84.43298
+Test Acc : 0.9907779411764706
+Time since beginning  1:27:29.692182
+Epoch 72
+
+Batch: 0 loss: variable(0.12895721)
+Batch: 0 acc: 0.9908088235294118
+
+Batch: 300 loss: variable(0.13920416)
+Batch: 300 acc: 0.9908347786789135
+
+Batch: 600 loss: variable(0.1323514)
+Batch: 600 acc: 0.9909380505529999
+
+Perplexity : 1.0954156
+Test Loss : 82.04247
+Test Acc : 0.9911404411764706
+Time since beginning  1:28:42.952330
+Epoch 73
+
+Batch: 0 loss: variable(0.12531112)
+Batch: 0 acc: 0.9917279411764706
+
+Batch: 300 loss: variable(0.13540281)
+Batch: 300 acc: 0.9911828830369357
+
+Batch: 600 loss: variable(0.12887374)
+Batch: 600 acc: 0.9912882634334932
+
+Perplexity : 1.0926111
+Test Loss : 79.734634
+Test Acc : 0.9915058823529411
+Time since beginning  1:29:56.854784
+Epoch 74
+
+Batch: 0 loss: variable(0.12179445)
+Batch: 0 acc: 0.9926470588235294
+
+Batch: 300 loss: variable(0.1317233)
+Batch: 300 acc: 0.9915569425444597
+
+Batch: 600 loss: variable(0.1255232)
+Batch: 600 acc: 0.9916415349417638
+
+Perplexity : 1.0899088
+Test Loss : 77.50546
+Test Acc : 0.9918485294117647
+Time since beginning  1:31:10.514083
+Epoch 75
+
+Batch: 0 loss: variable(0.11839881)
+Batch: 0 acc: 0.9931066176470589
+
+Batch: 300 loss: variable(0.12815984)
+Batch: 300 acc: 0.9918867256204807
+
+Batch: 600 loss: variable(0.1222919)
+Batch: 600 acc: 0.9919848659097582
+
+Perplexity : 1.0873044
+Test Loss : 75.35165
+Test Acc : 0.9922125
+Time since beginning  1:32:23.488863
+Epoch 76
+
+Batch: 0 loss: variable(0.11511685)
+Batch: 0 acc: 0.9931066176470589
+
+Batch: 300 loss: variable(0.12470638)
+Batch: 300 acc: 0.9922333032050029
+
+Batch: 600 loss: variable(0.11917254)
+Batch: 600 acc: 0.9923519012430263
+
+Perplexity : 1.0847927
+Test Loss : 73.26968
+Test Acc : 0.9925345588235294
+Time since beginning  1:33:36.788691
+Epoch 77
+
+Batch: 0 loss: variable(0.1119423)
+Batch: 0 acc: 0.9940257352941176
+
+Batch: 300 loss: variable(0.12135775)
+Batch: 300 acc: 0.9925111759820208
+
+Batch: 600 loss: variable(0.11615805)
+Batch: 600 acc: 0.9926516467651952
+
+Perplexity : 1.0823698
+Test Loss : 71.25672
+Test Acc : 0.9928294117647058
+Time since beginning  1:34:50.719406
+Epoch 78
+
+Batch: 0 loss: variable(0.1088687)
+Batch: 0 acc: 0.9944852941176471
+
+Batch: 300 loss: variable(0.11811008)
+Batch: 300 acc: 0.992827218096541
+
+Batch: 600 loss: variable(0.11324204)
+Batch: 600 acc: 0.9929414517470881
+
+Perplexity : 1.0800312
+Test Loss : 69.309456
+Test Acc : 0.9931080882352942
+Time since beginning  1:36:04.132557
+Epoch 79
+
+Batch: 0 loss: variable(0.10588904)
+Batch: 0 acc: 0.9944852941176471
+
+Batch: 300 loss: variable(0.11496064)
+Batch: 300 acc: 0.9931279924760602
+
+Batch: 600 loss: variable(0.11041927)
+Batch: 600 acc: 0.9932174929039835
+
+Perplexity : 1.077773
+Test Loss : 67.42524
+Test Acc : 0.9933845588235294
+Time since beginning  1:37:17.907884
+Epoch 80
+
+Batch: 0 loss: variable(0.10299885)
+Batch: 0 acc: 0.9944852941176471
+
+Batch: 300 loss: variable(0.11190697)
+Batch: 300 acc: 0.9933860171975767
+
+Batch: 600 loss: variable(0.10768525)
+Batch: 600 acc: 0.9934996513164334
+
+Perplexity : 1.0755918
+Test Loss : 65.601524
+Test Acc : 0.9936389705882352
+Time since beginning  1:38:33.959852
+Epoch 81
+
+Batch: 0 loss: variable(0.10019486)
+Batch: 0 acc: 0.9944852941176471
+
+Batch: 300 loss: variable(0.10894573)
+Batch: 300 acc: 0.9936318277310925
+
+Batch: 600 loss: variable(0.10503595)
+Batch: 600 acc: 0.9937542820788882
+
+Perplexity : 1.0734841
+Test Loss : 63.83562
+Test Acc : 0.9939058823529412
+Time since beginning  1:39:47.596447
+Epoch 82
+
+Batch: 0 loss: variable(0.09747323)
+Batch: 0 acc: 0.9949448529411765
+
+Batch: 300 loss: variable(0.10607193)
+Batch: 300 acc: 0.9938883256791089
+
+Batch: 600 loss: variable(0.10246684)
+Batch: 600 acc: 0.9940058542135656
+
+Perplexity : 1.0714465
+Test Loss : 62.12534
+Test Acc : 0.9941360294117647
+Time since beginning  1:41:01.720881
+Epoch 83
+
+Batch: 0 loss: variable(0.09482972)
+Batch: 0 acc: 0.9954044117647058
+
+Batch: 300 loss: variable(0.10328069)
+Batch: 300 acc: 0.9941203952511237
+
+Batch: 600 loss: variable(0.09997328)
+Batch: 600 acc: 0.9942298986982481
+
+Perplexity : 1.0694762
+Test Loss : 60.46837
+Test Acc : 0.9943647058823529
+Time since beginning  1:42:14.117971
+Epoch 84
+
+Batch: 0 loss: variable(0.09226071)
+Batch: 0 acc: 0.9954044117647058
+
+Batch: 300 loss: variable(0.10056876)
+Batch: 300 acc: 0.9943326167676373
+
+Batch: 600 loss: variable(0.09755109)
+Batch: 600 acc: 0.9944615897523735
+
+Perplexity : 1.06757
+Test Loss : 58.86238
+Test Acc : 0.9945955882352941
+Time since beginning  1:43:27.185835
+Epoch 85
+
+Batch: 0 loss: variable(0.08976314)
+Batch: 0 acc: 0.9954044117647058
+
+Batch: 300 loss: variable(0.09793377)
+Batch: 300 acc: 0.9945707934336525
+
+Batch: 600 loss: variable(0.095198)
+Batch: 600 acc: 0.9946848695801116
+
+Perplexity : 1.0657256
+Test Loss : 57.30564
+Test Acc : 0.9948125
+Time since beginning  1:44:40.577329
+Epoch 86
+
+Batch: 0 loss: variable(0.08733571)
+Batch: 0 acc: 0.9958639705882353
+
+Batch: 300 loss: variable(0.09537582)
+Batch: 300 acc: 0.9948150771936681
+
+Batch: 600 loss: variable(0.09291061)
+Batch: 600 acc: 0.9949058554370167
+
+Perplexity : 1.0639402
+Test Loss : 55.796253
+Test Acc : 0.9950213235294117
+Time since beginning  1:45:53.810930
+Epoch 87
+
+Batch: 0 loss: variable(0.08497507)
+Batch: 0 acc: 0.9958639705882353
+
+Batch: 300 loss: variable(0.09288959)
+Batch: 300 acc: 0.9950502003126832
+
+Batch: 600 loss: variable(0.0906863)
+Batch: 600 acc: 0.9951199593814232
+
+Perplexity : 1.062211
+Test Loss : 54.3319
+Test Acc : 0.9952198529411764
+Time since beginning  1:47:07.546907
+Epoch 88
+
+Batch: 0 loss: variable(0.08267707)
+Batch: 0 acc: 0.9958639705882353
+
+Batch: 300 loss: variable(0.09047385)
+Batch: 300 acc: 0.9952486808676959
+
+Batch: 600 loss: variable(0.08852191)
+Batch: 600 acc: 0.9953202995008319
+
+Perplexity : 1.0605346
+Test Loss : 52.90995
+Test Acc : 0.9954139705882353
+Time since beginning  1:48:21.089687
+Epoch 89
+
+Batch: 0 loss: variable(0.08043837)
+Batch: 0 acc: 0.9958639705882353
+
+Batch: 300 loss: variable(0.08812393)
+Batch: 300 acc: 0.9954242598202071
+
+Batch: 600 loss: variable(0.08641451)
+Batch: 600 acc: 0.9955084051091319
+
+Perplexity : 1.0589104
+Test Loss : 51.530212
+Test Acc : 0.9956066176470588
+Time since beginning  1:49:34.315045
+Epoch 90
+
+Batch: 0 loss: variable(0.0782611)
+Batch: 0 acc: 0.9958639705882353
+
+Batch: 300 loss: variable(0.08583567)
+Batch: 300 acc: 0.9956319010162205
+
+Batch: 600 loss: variable(0.08436216)
+Batch: 600 acc: 0.995709509885485
+
+Perplexity : 1.0573369
+Test Loss : 50.19154
+Test Acc : 0.9958051470588235
+Time since beginning  1:50:50.768127
+Epoch 91
+
+Batch: 0 loss: variable(0.07614513)
+Batch: 0 acc: 0.9958639705882353
+
+Batch: 300 loss: variable(0.0836089)
+Batch: 300 acc: 0.9958273280242329
+
+Batch: 600 loss: variable(0.08236343)
+Batch: 600 acc: 0.9958945568660076
+
+Perplexity : 1.0558102
+Test Loss : 48.890778
+Test Acc : 0.9959904411764706
+Time since beginning  1:52:04.181375
+Epoch 92
+
+Batch: 0 loss: variable(0.07408599)
+Batch: 0 acc: 0.9958639705882353
+
+Batch: 300 loss: variable(0.08144131)
+Batch: 300 acc: 0.9960197014852452
+
+Batch: 600 loss: variable(0.08041589)
+Batch: 600 acc: 0.9960826624743075
+
+Perplexity : 1.0543284
+Test Loss : 47.626373
+Test Acc : 0.9961691176470588
+Time since beginning  1:53:17.298125
+Epoch 93
+
+Batch: 0 loss: variable(0.07208153)
+Batch: 0 acc: 0.9958639705882353
+
+Batch: 300 loss: variable(0.07932775)
+Batch: 300 acc: 0.9962258159077585
+
+Batch: 600 loss: variable(0.07852588)
+Batch: 600 acc: 0.9962707680826074
+
+Perplexity : 1.0528902
+Test Loss : 46.397503
+Test Acc : 0.9963352941176471
+Time since beginning  1:54:29.988914
+Epoch 94
+
+Batch: 0 loss: variable(0.07013028)
+Batch: 0 acc: 0.9958639705882353
+
+Batch: 300 loss: variable(0.07728704)
+Batch: 300 acc: 0.9963708593902677
+
+Batch: 600 loss: variable(0.07676854)
+Batch: 600 acc: 0.9964275227561906
+
+Perplexity : 1.0515132
+Test Loss : 45.219364
+Test Acc : 0.9964904411764706
+Time since beginning  1:55:42.917128
+Epoch 95
+
+Batch: 0 loss: variable(0.0682559)
+Batch: 0 acc: 0.9958639705882353
+
+Batch: 300 loss: variable(0.07536828)
+Batch: 300 acc: 0.9965265902872777
+
+Batch: 600 loss: variable(0.07497665)
+Batch: 600 acc: 0.9965804541450524
+
+Perplexity : 1.0501962
+Test Loss : 44.091156
+Test Acc : 0.9966161764705882
+Time since beginning  1:56:56.216604
+Epoch 96
+
+Batch: 0 loss: variable(0.06648184)
+Batch: 0 acc: 0.9958639705882353
+
+Batch: 300 loss: variable(0.07340117)
+Batch: 300 acc: 0.9967113298807895
+
+Batch: 600 loss: variable(0.07319567)
+Batch: 600 acc: 0.9967387381325242
+
+Perplexity : 1.04888
+Test Loss : 42.962128
+Test Acc : 0.9967919117647058
+Time since beginning  1:58:09.938566
+Epoch 97
+
+Batch: 0 loss: variable(0.06467497)
+Batch: 0 acc: 0.9963235294117647
+
+Batch: 300 loss: variable(0.07148109)
+Batch: 300 acc: 0.9968685875512996
+
+Batch: 600 loss: variable(0.07145979)
+Batch: 600 acc: 0.9968977867769404
+
+Perplexity : 1.0475893
+Test Loss : 41.853718
+Test Acc : 0.9969477941176471
+Time since beginning  1:59:23.617332
+Epoch 98
+
+Batch: 0 loss: variable(0.06291405)
+Batch: 0 acc: 0.9963235294117647
+
+Batch: 300 loss: variable(0.0696191)
+Batch: 300 acc: 0.9970212649013094
+
+Batch: 600 loss: variable(0.06976303)
+Batch: 600 acc: 0.9970377189977488
+
+Perplexity : 1.0463378
+Test Loss : 40.77759
+Test Acc : 0.9970720588235295
+Time since beginning  2:00:37.175922
+Epoch 99
+
+Batch: 0 loss: variable(0.06121058)
+Batch: 0 acc: 0.9963235294117647
+
+Batch: 300 loss: variable(0.06780837)
+Batch: 300 acc: 0.9971143980848153
+
+Batch: 600 loss: variable(0.06811641)
+Batch: 600 acc: 0.9971424769991191
+
+Perplexity : 1.0451242
+Test Loss : 39.732845
+Test Acc : 0.9971713235294117
+Time since beginning  2:01:50.523139
+Epoch 100
+
+Batch: 0 loss: variable(0.05955959)
+Batch: 0 acc: 0.9963235294117647
+
+Batch: 300 loss: variable(0.06604475)
+Batch: 300 acc: 0.9971983706273206
+
+Batch: 600 loss: variable(0.06651597)
+Batch: 600 acc: 0.9972319418616032
+
+Perplexity : 1.0439485
+Test Loss : 38.719597
+Test Acc : 0.9972610294117648
+Time since beginning  2:03:06.998577
+
+
+Total Time Consumed  2:03:06.998577
