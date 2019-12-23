@@ -1,0 +1,533 @@
+[1,   150] train loss: 0.663
+[1,   300] train loss: 0.594
+
+
+[1] test loss: 0.457
+[1] accuracy: 79.211
+
+
+
+Time since beginning  0:08:57.024533
+[2,   150] train loss: 0.435
+[2,   300] train loss: 0.424
+
+
+[2] test loss: 0.419
+[2] accuracy: 80.421
+
+
+
+Time since beginning  0:17:53.529079
+[1,   150] train loss: 0.663
+[1,   300] train loss: 0.604
+
+
+[1] test loss: 0.553
+[1] accuracy: 71.060
+
+
+
+Time since beginning  0:08:57.997326
+[1,   150] train loss: 0.663
+[1,   300] train loss: 0.592
+
+
+[1] test loss: 0.787
+[1] accuracy: 57.417
+
+
+
+Time since beginning  0:09:09.663580
+[2,   150] train loss: 0.520
+[2,   300] train loss: 0.438
+
+
+[2] test loss: 0.389
+[2] accuracy: 83.413
+
+
+
+Time since beginning  0:18:19.798779
+[3,   150] train loss: 0.344
+[3,   300] train loss: 0.413
+
+
+[3] test loss: 0.406
+[3] accuracy: 81.393
+
+
+
+Time since beginning  0:27:30.867297
+[4,   150] train loss: 0.323
+[4,   300] train loss: 0.350
+
+
+[4] test loss: 0.349
+[4] accuracy: 85.561
+
+
+
+Time since beginning  0:36:40.660874
+[5,   150] train loss: 0.300
+[5,   300] train loss: 0.278
+
+
+[5] test loss: 0.316
+[5] accuracy: 86.900
+
+
+
+Time since beginning  0:45:48.498399
+[6,   150] train loss: 0.257
+[6,   300] train loss: 0.244
+
+
+[6] test loss: 0.310
+[6] accuracy: 87.662
+
+
+
+Time since beginning  0:54:58.095795
+[7,   150] train loss: 0.226
+[7,   300] train loss: 0.215
+
+
+[7] test loss: 0.324
+[7] accuracy: 87.767
+
+
+
+Time since beginning  1:04:03.020159
+[8,   150] train loss: 0.186
+[8,   300] train loss: 0.192
+
+
+[8] test loss: 0.310
+[8] accuracy: 87.729
+
+
+
+Time since beginning  1:13:09.046483
+[9,   150] train loss: 0.168
+[9,   300] train loss: 0.184
+
+
+[9] test loss: 0.313
+[9] accuracy: 87.386
+
+
+
+Time since beginning  1:22:14.656119
+[10,   150] train loss: 0.167
+[10,   300] train loss: 0.156
+
+
+[10] test loss: 0.328
+[10] accuracy: 88.053
+
+
+
+Time since beginning  1:31:19.115343
+[11,   150] train loss: 0.146
+[11,   300] train loss: 0.148
+
+
+[11] test loss: 0.333
+[11] accuracy: 87.976
+
+
+
+Time since beginning  1:40:22.351877
+[12,   150] train loss: 0.117
+[12,   300] train loss: 0.126
+
+
+[12] test loss: 0.361
+[12] accuracy: 87.481
+
+
+
+Time since beginning  1:49:28.643353
+[13,   150] train loss: 0.100
+[13,   300] train loss: 0.102
+
+
+[13] test loss: 0.399
+[13] accuracy: 87.514
+
+
+
+Time since beginning  1:58:36.709275
+[14,   150] train loss: 0.090
+[14,   300] train loss: 0.110
+
+
+[14] test loss: 0.371
+[14] accuracy: 87.776
+
+
+
+Time since beginning  2:07:41.812976
+[15,   150] train loss: 0.072
+[15,   300] train loss: 0.093
+
+
+[15] test loss: 0.430
+[15] accuracy: 87.629
+
+
+
+Time since beginning  2:16:48.115456
+[16,   150] train loss: 0.072
+[16,   300] train loss: 0.066
+
+
+[16] test loss: 0.440
+[16] accuracy: 87.424
+
+
+
+Time since beginning  2:25:55.912530
+[17,   150] train loss: 0.056
+[17,   300] train loss: 0.058
+
+
+[17] test loss: 0.473
+[17] accuracy: 87.333
+
+
+
+Time since beginning  2:35:01.770780
+[18,   150] train loss: 0.042
+[18,   300] train loss: 0.129
+
+
+[18] test loss: 0.574
+[18] accuracy: 86.295
+
+
+
+Time since beginning  2:44:06.427592
+[19,   150] train loss: 0.086
+[19,   300] train loss: 0.061
+
+
+[19] test loss: 0.475
+[19] accuracy: 87.419
+
+
+
+Time since beginning  2:53:16.664144
+[20,   150] train loss: 0.040
+[20,   300] train loss: 0.031
+
+
+[20] test loss: 0.534
+[20] accuracy: 87.381
+
+
+
+Time since beginning  3:02:23.562252
+[21,   150] train loss: 0.031
+[21,   300] train loss: 0.024
+
+
+[21] test loss: 0.542
+[21] accuracy: 87.338
+
+
+
+Time since beginning  3:11:29.505345
+[22,   150] train loss: 0.024
+[22,   300] train loss: 0.021
+
+
+[22] test loss: 0.623
+[22] accuracy: 87.333
+
+
+
+Time since beginning  3:20:36.098276
+[23,   150] train loss: 0.011
+[23,   300] train loss: 0.031
+
+
+[23] test loss: 0.597
+[23] accuracy: 85.947
+
+
+
+Time since beginning  3:29:44.428095
+[24,   150] train loss: 0.034
+[24,   300] train loss: 0.042
+
+
+[24] test loss: 0.573
+[24] accuracy: 86.828
+
+
+
+Time since beginning  3:38:56.860658
+[25,   150] train loss: 0.020
+[25,   300] train loss: 0.020
+
+
+[25] test loss: 0.695
+[25] accuracy: 87.343
+
+
+
+Time since beginning  3:48:08.045965
+[26,   150] train loss: 0.023
+[26,   300] train loss: 0.012
+
+
+[26] test loss: 0.712
+[26] accuracy: 87.433
+
+
+
+Time since beginning  3:57:18.169901
+[27,   150] train loss: 0.005
+[27,   300] train loss: 0.010
+
+
+[27] test loss: 0.770
+[27] accuracy: 85.952
+
+
+
+Time since beginning  4:06:29.994197
+[28,   150] train loss: 0.064
+[28,   300] train loss: 0.022
+
+
+[28] test loss: 0.635
+[28] accuracy: 87.109
+
+
+
+Time since beginning  4:15:39.397403
+[29,   150] train loss: 0.008
+[29,   300] train loss: 0.005
+
+
+[29] test loss: 0.745
+[29] accuracy: 87.581
+
+
+
+Time since beginning  4:24:50.092379
+[30,   150] train loss: 0.005
+[30,   300] train loss: 0.020
+
+
+[30] test loss: 0.699
+[30] accuracy: 86.585
+
+
+
+Time since beginning  4:33:57.300625
+[31,   150] train loss: 0.005
+[31,   300] train loss: 0.004
+
+
+[31] test loss: 0.746
+[31] accuracy: 85.771
+
+
+
+Time since beginning  4:43:04.980509
+[32,   150] train loss: 0.021
+[32,   300] train loss: 0.021
+
+
+[32] test loss: 0.738
+[32] accuracy: 87.233
+
+
+
+Time since beginning  4:52:16.375793
+[33,   150] train loss: 0.006
+[33,   300] train loss: 0.006
+
+
+[33] test loss: 0.756
+[33] accuracy: 86.309
+
+
+
+Time since beginning  5:01:21.335677
+[34,   150] train loss: 0.012
+[34,   300] train loss: 0.020
+
+
+[34] test loss: 0.739
+[34] accuracy: 86.876
+
+
+
+Time since beginning  5:10:26.200466
+[35,   150] train loss: 0.005
+[35,   300] train loss: 0.005
+
+
+[35] test loss: 0.772
+[35] accuracy: 86.900
+
+
+
+Time since beginning  5:19:30.360994
+[36,   150] train loss: 0.002
+[36,   300] train loss: 0.016
+
+
+[36] test loss: 0.701
+[36] accuracy: 87.486
+
+
+
+Time since beginning  5:28:33.755597
+[37,   150] train loss: 0.013
+[37,   300] train loss: 0.025
+
+
+[37] test loss: 0.736
+[37] accuracy: 86.962
+
+
+
+Time since beginning  5:37:37.998392
+[38,   150] train loss: 0.033
+[38,   300] train loss: 0.015
+
+
+[38] test loss: 0.741
+[38] accuracy: 87.433
+
+
+
+Time since beginning  5:46:45.228800
+[39,   150] train loss: 0.005
+[39,   300] train loss: 0.002
+
+
+[39] test loss: 0.783
+[39] accuracy: 87.443
+
+
+
+Time since beginning  5:55:49.902414
+[40,   150] train loss: 0.001
+[40,   300] train loss: 0.001
+
+
+[40] test loss: 0.838
+[40] accuracy: 87.686
+
+
+
+Time since beginning  6:04:57.339031
+[41,   150] train loss: 0.001
+[41,   300] train loss: 0.001
+
+
+[41] test loss: 0.877
+[41] accuracy: 87.695
+
+
+
+Time since beginning  6:14:03.029655
+[42,   150] train loss: 0.000
+[42,   300] train loss: 0.000
+
+
+[42] test loss: 0.918
+[42] accuracy: 87.648
+
+
+
+Time since beginning  6:23:09.952853
+[43,   150] train loss: 0.000
+[43,   300] train loss: 0.000
+
+
+[43] test loss: 0.949
+[43] accuracy: 87.700
+
+
+
+Time since beginning  6:32:16.733118
+[44,   150] train loss: 0.000
+[44,   300] train loss: 0.000
+
+
+[44] test loss: 0.980
+[44] accuracy: 87.633
+
+
+
+Time since beginning  6:41:21.760222
+[45,   150] train loss: 0.000
+[45,   300] train loss: 0.000
+
+
+[45] test loss: 1.012
+[45] accuracy: 87.667
+
+
+
+Time since beginning  6:50:26.900041
+[46,   150] train loss: 0.000
+[46,   300] train loss: 0.000
+
+
+[46] test loss: 1.034
+[46] accuracy: 87.648
+
+
+
+Time since beginning  6:59:36.722183
+[47,   150] train loss: 0.000
+[47,   300] train loss: 0.000
+
+
+[47] test loss: 1.063
+[47] accuracy: 87.586
+
+
+
+Time since beginning  7:08:43.084238
+[48,   150] train loss: 0.000
+[48,   300] train loss: 0.000
+
+
+[48] test loss: 1.093
+[48] accuracy: 87.638
+
+
+
+Time since beginning  7:17:48.430531
+[49,   150] train loss: 0.000
+[49,   300] train loss: 0.000
+
+
+[49] test loss: 1.108
+[49] accuracy: 87.529
+
+
+
+Time since beginning  7:26:55.268667
+[50,   150] train loss: 0.000
+[50,   300] train loss: 0.000
+
+
+[50] test loss: 1.148
+[50] accuracy: 87.591
+
+
+
+Time since beginning  7:35:52.740474
+
+
+Total Time Consumed  7:35:52.740474

@@ -1,0 +1,252 @@
+[1,  5000] train loss: 6.281
+[1,  5000] train accu: 0.110
+[1] test loss: 5.939 perplexity: 379.703
+[1] test accu: 0.144
+Time since beginning  0:19:40.559180
+[2,  5000] train loss: 5.795
+[2,  5000] train accu: 0.158
+[2] test loss: 5.756 perplexity: 315.948
+[2] test accu: 0.164
+Time since beginning  0:39:38.759129
+[3,  5000] train loss: 5.631
+[3,  5000] train accu: 0.174
+[3] test loss: 5.658 perplexity: 286.475
+[3] test accu: 0.172
+Time since beginning  0:59:47.084087
+[4,  5000] train loss: 5.522
+[4,  5000] train accu: 0.184
+[4] test loss: 5.595 perplexity: 269.090
+[4] test accu: 0.178
+Time since beginning  1:19:43.413376
+[5,  5000] train loss: 5.443
+[5,  5000] train accu: 0.191
+[5] test loss: 5.552 perplexity: 257.839
+[5] test accu: 0.183
+Time since beginning  1:39:56.267077
+[6,  5000] train loss: 5.379
+[6,  5000] train accu: 0.197
+[6] test loss: 5.531 perplexity: 252.518
+[6] test accu: 0.185
+Time since beginning  1:59:48.727342
+[7,  5000] train loss: 5.326
+[7,  5000] train accu: 0.202
+[7] test loss: 5.515 perplexity: 248.454
+[7] test accu: 0.188
+Time since beginning  2:19:32.424517
+[8,  5000] train loss: 5.282
+[8,  5000] train accu: 0.206
+[8] test loss: 5.507 perplexity: 246.396
+[8] test accu: 0.189
+Time since beginning  2:38:52.576837
+[9,  5000] train loss: 5.242
+[9,  5000] train accu: 0.210
+[9] test loss: 5.501 perplexity: 245.022
+[9] test accu: 0.191
+Time since beginning  2:58:45.409566
+[10,  5000] train loss: 5.209
+[10,  5000] train accu: 0.214
+[10] test loss: 5.503 perplexity: 245.481
+[10] test accu: 0.192
+Time since beginning  3:18:50.553898
+[11,  5000] train loss: 5.178
+[11,  5000] train accu: 0.217
+[11] test loss: 5.504 perplexity: 245.741
+[11] test accu: 0.193
+Time since beginning  3:39:00.006555
+[12,  5000] train loss: 5.151
+[12,  5000] train accu: 0.220
+[12] test loss: 5.508 perplexity: 246.745
+[12] test accu: 0.194
+Time since beginning  3:59:07.885985
+[13,  5000] train loss: 5.125
+[13,  5000] train accu: 0.222
+[13] test loss: 5.515 perplexity: 248.376
+[13] test accu: 0.194
+Time since beginning  4:19:11.170929
+[14,  5000] train loss: 5.102
+[14,  5000] train accu: 0.225
+[14] test loss: 5.525 perplexity: 250.987
+[14] test accu: 0.194
+Time since beginning  4:39:33.762224
+[15,  5000] train loss: 5.081
+[15,  5000] train accu: 0.227
+[15] test loss: 5.539 perplexity: 254.476
+[15] test accu: 0.194
+Time since beginning  4:59:05.078977
+[16,  5000] train loss: 5.061
+[16,  5000] train accu: 0.229
+[16] test loss: 5.557 perplexity: 259.096
+[16] test accu: 0.194
+Time since beginning  5:18:14.834175
+[17,  5000] train loss: 5.044
+[17,  5000] train accu: 0.231
+[17] test loss: 5.569 perplexity: 262.186
+[17] test accu: 0.195
+Time since beginning  5:37:54.404276
+[18,  5000] train loss: 5.027
+[18,  5000] train accu: 0.232
+[18] test loss: 5.569 perplexity: 262.203
+[18] test accu: 0.195
+Time since beginning  5:58:24.686282
+[19,  5000] train loss: 5.012
+[19,  5000] train accu: 0.234
+[19] test loss: 5.586 perplexity: 266.702
+[19] test accu: 0.195
+Time since beginning  6:18:22.509720
+[20,  5000] train loss: 4.997
+[20,  5000] train accu: 0.235
+[20] test loss: 5.594 perplexity: 268.940
+[20] test accu: 0.196
+Time since beginning  6:38:17.884069
+[21,  5000] train loss: 4.983
+[21,  5000] train accu: 0.237
+[21] test loss: 5.605 perplexity: 271.775
+[21] test accu: 0.194
+Time since beginning  6:58:13.619714
+[22,  5000] train loss: 4.969
+[22,  5000] train accu: 0.238
+[22] test loss: 5.617 perplexity: 275.126
+[22] test accu: 0.195
+Time since beginning  7:18:18.278933
+[23,  5000] train loss: 4.955
+[23,  5000] train accu: 0.239
+[23] test loss: 5.626 perplexity: 277.575
+[23] test accu: 0.195
+Time since beginning  7:38:13.768102
+[24,  5000] train loss: 4.944
+[24,  5000] train accu: 0.240
+[24] test loss: 5.644 perplexity: 282.715
+[24] test accu: 0.195
+Time since beginning  7:58:07.916867
+[25,  5000] train loss: 4.933
+[25,  5000] train accu: 0.242
+[25] test loss: 5.653 perplexity: 285.273
+[25] test accu: 0.195
+Time since beginning  8:17:48.003370
+[26,  5000] train loss: 4.921
+[26,  5000] train accu: 0.243
+[26] test loss: 5.653 perplexity: 285.055
+[26] test accu: 0.195
+Time since beginning  8:37:23.742710
+[27,  5000] train loss: 4.911
+[27,  5000] train accu: 0.244
+[27] test loss: 5.672 perplexity: 290.697
+[27] test accu: 0.195
+Time since beginning  8:56:29.744594
+[28,  5000] train loss: 4.902
+[28,  5000] train accu: 0.245
+[28] test loss: 5.670 perplexity: 290.089
+[28] test accu: 0.196
+Time since beginning  9:15:31.695768
+[29,  5000] train loss: 4.894
+[29,  5000] train accu: 0.245
+[29] test loss: 5.687 perplexity: 294.881
+[29] test accu: 0.195
+Time since beginning  9:34:35.317630
+[30,  5000] train loss: 4.885
+[30,  5000] train accu: 0.246
+[30] test loss: 5.695 perplexity: 297.234
+[30] test accu: 0.195
+Time since beginning  9:53:32.849950
+[31,  5000] train loss: 4.876
+[31,  5000] train accu: 0.247
+[31] test loss: 5.717 perplexity: 303.858
+[31] test accu: 0.195
+Time since beginning  10:12:23.842760
+[32,  5000] train loss: 4.869
+[32,  5000] train accu: 0.248
+[32] test loss: 5.715 perplexity: 303.268
+[32] test accu: 0.194
+Time since beginning  10:31:15.526793
+[33,  5000] train loss: 4.861
+[33,  5000] train accu: 0.249
+[33] test loss: 5.731 perplexity: 308.351
+[33] test accu: 0.195
+Time since beginning  10:50:07.343664
+[34,  5000] train loss: 4.853
+[34,  5000] train accu: 0.249
+[34] test loss: 5.737 perplexity: 309.999
+[34] test accu: 0.194
+Time since beginning  11:08:56.895752
+[35,  5000] train loss: 4.847
+[35,  5000] train accu: 0.250
+[35] test loss: 5.736 perplexity: 309.732
+[35] test accu: 0.195
+Time since beginning  11:27:44.101673
+[36,  5000] train loss: 4.839
+[36,  5000] train accu: 0.251
+[36] test loss: 5.756 perplexity: 316.064
+[36] test accu: 0.194
+Time since beginning  11:46:31.686612
+[37,  5000] train loss: 4.834
+[37,  5000] train accu: 0.251
+[37] test loss: 5.755 perplexity: 315.686
+[37] test accu: 0.195
+Time since beginning  12:05:22.284926
+[38,  5000] train loss: 4.825
+[38,  5000] train accu: 0.252
+[38] test loss: 5.763 perplexity: 318.374
+[38] test accu: 0.196
+Time since beginning  12:24:09.932900
+[39,  5000] train loss: 4.820
+[39,  5000] train accu: 0.253
+[39] test loss: 5.758 perplexity: 316.731
+[39] test accu: 0.196
+Time since beginning  12:42:59.005457
+[40,  5000] train loss: 4.811
+[40,  5000] train accu: 0.254
+[40] test loss: 5.748 perplexity: 313.653
+[40] test accu: 0.197
+Time since beginning  13:01:56.026771
+[41,  5000] train loss: 4.800
+[41,  5000] train accu: 0.255
+[41] test loss: 5.729 perplexity: 307.573
+[41] test accu: 0.198
+Time since beginning  13:20:42.846047
+[42,  5000] train loss: 4.790
+[42,  5000] train accu: 0.257
+[42] test loss: 5.720 perplexity: 304.910
+[42] test accu: 0.199
+Time since beginning  13:39:28.516363
+[43,  5000] train loss: 4.777
+[43,  5000] train accu: 0.258
+[43] test loss: 5.728 perplexity: 307.425
+[43] test accu: 0.199
+Time since beginning  13:58:16.298010
+[44,  5000] train loss: 4.765
+[44,  5000] train accu: 0.260
+[44] test loss: 5.743 perplexity: 312.095
+[44] test accu: 0.200
+Time since beginning  14:17:09.328040
+[45,  5000] train loss: 4.756
+[45,  5000] train accu: 0.260
+[45] test loss: 5.743 perplexity: 311.971
+[45] test accu: 0.200
+Time since beginning  14:36:02.086605
+[46,  5000] train loss: 4.748
+[46,  5000] train accu: 0.261
+[46] test loss: 5.760 perplexity: 317.477
+[46] test accu: 0.200
+Time since beginning  14:54:50.456846
+[47,  5000] train loss: 4.742
+[47,  5000] train accu: 0.262
+[47] test loss: 5.765 perplexity: 318.927
+[47] test accu: 0.200
+Time since beginning  15:13:46.964091
+[48,  5000] train loss: 4.735
+[48,  5000] train accu: 0.263
+[48] test loss: 5.777 perplexity: 322.884
+[48] test accu: 0.200
+Time since beginning  15:32:55.689578
+[49,  5000] train loss: 4.729
+[49,  5000] train accu: 0.263
+[49] test loss: 5.776 perplexity: 322.489
+[49] test accu: 0.199
+Time since beginning  15:52:08.876317
+[50,  5000] train loss: 4.721
+[50,  5000] train accu: 0.264
+[50] test loss: 5.776 perplexity: 322.595
+[50] test accu: 0.200
+Time since beginning  16:11:21.845374
+[51,  5000] train loss: 4.716
+[51,  5000] train accu: 0.264
