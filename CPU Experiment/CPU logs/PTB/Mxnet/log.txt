@@ -1,0 +1,1053 @@
+[1,  1000] train loss: 6.730
+[1,  1000] train acc: 0.066
+[1,  2000] train loss: 6.460
+[1,  2000] train acc: 0.086
+[1,  3000] train loss: 6.363
+[1,  3000] train acc: 0.095
+[1,  4000] train loss: 6.253
+[1,  4000] train acc: 0.105
+[1,  5000] train loss: 6.186
+[1,  5000] train acc: 0.112
+[1,  6000] train loss: 6.104
+[1,  6000] train acc: 0.118
+[1,  7000] train loss: 6.131
+[1,  7000] train acc: 0.115
+[1,  8000] train loss: 6.038
+[1,  8000] train acc: 0.124
+[1,  9000] train loss: 5.997
+[1,  9000] train acc: 0.127
+[1] test loss: 6.067 perplexity: 431.473
+[1] test acc: 0.100 
+Time since beginning:  0:15:18.667945
+[2,  1000] train loss: 6.019
+[2,  1000] train acc: 0.126
+[2,  2000] train loss: 6.017
+[2,  2000] train acc: 0.125
+[2,  3000] train loss: 6.017
+[2,  3000] train acc: 0.125
+[2,  4000] train loss: 5.960
+[2,  4000] train acc: 0.131
+[2,  5000] train loss: 5.913
+[2,  5000] train acc: 0.136
+[2,  6000] train loss: 5.855
+[2,  6000] train acc: 0.141
+[2,  7000] train loss: 5.923
+[2,  7000] train acc: 0.135
+[2,  8000] train loss: 5.839
+[2,  8000] train acc: 0.144
+[2,  9000] train loss: 5.814
+[2,  9000] train acc: 0.148
+[2] test loss: 5.887 perplexity: 360.469
+[2] test acc: 0.123 
+Time since beginning:  0:31:00.710674
+[3,  1000] train loss: 5.859
+[3,  1000] train acc: 0.144
+[3,  2000] train loss: 5.866
+[3,  2000] train acc: 0.141
+[3,  3000] train loss: 5.876
+[3,  3000] train acc: 0.140
+[3,  4000] train loss: 5.833
+[3,  4000] train acc: 0.145
+[3,  5000] train loss: 5.785
+[3,  5000] train acc: 0.150
+[3,  6000] train loss: 5.736
+[3,  6000] train acc: 0.154
+[3,  7000] train loss: 5.815
+[3,  7000] train acc: 0.147
+[3,  8000] train loss: 5.733
+[3,  8000] train acc: 0.156
+[3,  9000] train loss: 5.713
+[3,  9000] train acc: 0.159
+[3] test loss: 5.783 perplexity: 324.606
+[3] test acc: 0.139 
+Time since beginning:  0:46:35.299711
+[4,  1000] train loss: 5.769
+[4,  1000] train acc: 0.153
+[4,  2000] train loss: 5.780
+[4,  2000] train acc: 0.149
+[4,  3000] train loss: 5.791
+[4,  3000] train acc: 0.148
+[4,  4000] train loss: 5.755
+[4,  4000] train acc: 0.153
+[4,  5000] train loss: 5.705
+[4,  5000] train acc: 0.159
+[4,  6000] train loss: 5.659
+[4,  6000] train acc: 0.161
+[4,  7000] train loss: 5.747
+[4,  7000] train acc: 0.153
+[4,  8000] train loss: 5.666
+[4,  8000] train acc: 0.162
+[4,  9000] train loss: 5.644
+[4,  9000] train acc: 0.165
+[4] test loss: 5.726 perplexity: 306.884
+[4] test acc: 0.145 
+Time since beginning:  1:02:08.963602
+[5,  1000] train loss: 5.706
+[5,  1000] train acc: 0.159
+[5,  2000] train loss: 5.721
+[5,  2000] train acc: 0.155
+[5,  3000] train loss: 5.732
+[5,  3000] train acc: 0.153
+[5,  4000] train loss: 5.701
+[5,  4000] train acc: 0.157
+[5,  5000] train loss: 5.647
+[5,  5000] train acc: 0.164
+[5,  6000] train loss: 5.605
+[5,  6000] train acc: 0.166
+[5,  7000] train loss: 5.695
+[5,  7000] train acc: 0.158
+[5,  8000] train loss: 5.615
+[5,  8000] train acc: 0.167
+[5,  9000] train loss: 5.591
+[5,  9000] train acc: 0.170
+[5] test loss: 5.684 perplexity: 294.254
+[5] test acc: 0.155 
+Time since beginning:  1:17:50.192830
+[6,  1000] train loss: 5.658
+[6,  1000] train acc: 0.163
+[6,  2000] train loss: 5.674
+[6,  2000] train acc: 0.158
+[6,  3000] train loss: 5.685
+[6,  3000] train acc: 0.157
+[6,  4000] train loss: 5.658
+[6,  4000] train acc: 0.160
+[6,  5000] train loss: 5.602
+[6,  5000] train acc: 0.167
+[6,  6000] train loss: 5.559
+[6,  6000] train acc: 0.169
+[6,  7000] train loss: 5.655
+[6,  7000] train acc: 0.161
+[6,  8000] train loss: 5.574
+[6,  8000] train acc: 0.170
+[6,  9000] train loss: 5.548
+[6,  9000] train acc: 0.173
+[6] test loss: 5.656 perplexity: 285.909
+[6] test acc: 0.157 
+Time since beginning:  1:33:37.345621
+[7,  1000] train loss: 5.618
+[7,  1000] train acc: 0.165
+[7,  2000] train loss: 5.637
+[7,  2000] train acc: 0.162
+[7,  3000] train loss: 5.646
+[7,  3000] train acc: 0.161
+[7,  4000] train loss: 5.621
+[7,  4000] train acc: 0.163
+[7,  5000] train loss: 5.561
+[7,  5000] train acc: 0.171
+[7,  6000] train loss: 5.522
+[7,  6000] train acc: 0.173
+[7,  7000] train loss: 5.619
+[7,  7000] train acc: 0.163
+[7,  8000] train loss: 5.537
+[7,  8000] train acc: 0.173
+[7,  9000] train loss: 5.514
+[7,  9000] train acc: 0.176
+[7] test loss: 5.636 perplexity: 280.230
+[7] test acc: 0.160 
+Time since beginning:  1:49:38.735202
+[8,  1000] train loss: 5.582
+[8,  1000] train acc: 0.169
+[8,  2000] train loss: 5.602
+[8,  2000] train acc: 0.164
+[8,  3000] train loss: 5.614
+[8,  3000] train acc: 0.164
+[8,  4000] train loss: 5.590
+[8,  4000] train acc: 0.166
+[8,  5000] train loss: 5.531
+[8,  5000] train acc: 0.174
+[8,  6000] train loss: 5.493
+[8,  6000] train acc: 0.176
+[8,  7000] train loss: 5.591
+[8,  7000] train acc: 0.166
+[8,  8000] train loss: 5.509
+[8,  8000] train acc: 0.176
+[8,  9000] train loss: 5.479
+[8,  9000] train acc: 0.179
+[8] test loss: 5.627 perplexity: 277.786
+[8] test acc: 0.162 
+Time since beginning:  2:05:20.833377
+[9,  1000] train loss: 5.554
+[9,  1000] train acc: 0.171
+[9,  2000] train loss: 5.573
+[9,  2000] train acc: 0.167
+[9,  3000] train loss: 5.587
+[9,  3000] train acc: 0.166
+[9,  4000] train loss: 5.560
+[9,  4000] train acc: 0.169
+[9,  5000] train loss: 5.501
+[9,  5000] train acc: 0.176
+[9,  6000] train loss: 5.462
+[9,  6000] train acc: 0.178
+[9,  7000] train loss: 5.562
+[9,  7000] train acc: 0.169
+[9,  8000] train loss: 5.481
+[9,  8000] train acc: 0.178
+[9,  9000] train loss: 5.451
+[9,  9000] train acc: 0.180
+[9] test loss: 5.619 perplexity: 275.647
+[9] test acc: 0.164 
+Time since beginning:  2:21:07.139763
+[10,  1000] train loss: 5.524
+[10,  1000] train acc: 0.173
+[10,  2000] train loss: 5.545
+[10,  2000] train acc: 0.169
+[10,  3000] train loss: 5.560
+[10,  3000] train acc: 0.168
+[10,  4000] train loss: 5.535
+[10,  4000] train acc: 0.171
+[10,  5000] train loss: 5.474
+[10,  5000] train acc: 0.178
+[10,  6000] train loss: 5.437
+[10,  6000] train acc: 0.181
+[10,  7000] train loss: 5.537
+[10,  7000] train acc: 0.171
+[10,  8000] train loss: 5.461
+[10,  8000] train acc: 0.180
+[10,  9000] train loss: 5.431
+[10,  9000] train acc: 0.183
+[10] test loss: 5.615 perplexity: 274.562
+[10] test acc: 0.165 
+Time since beginning:  2:36:55.610369
+[11,  1000] train loss: 5.503
+[11,  1000] train acc: 0.175
+[11,  2000] train loss: 5.526
+[11,  2000] train acc: 0.171
+[11,  3000] train loss: 5.540
+[11,  3000] train acc: 0.170
+[11,  4000] train loss: 5.515
+[11,  4000] train acc: 0.173
+[11,  5000] train loss: 5.451
+[11,  5000] train acc: 0.180
+[11,  6000] train loss: 5.415
+[11,  6000] train acc: 0.183
+[11,  7000] train loss: 5.516
+[11,  7000] train acc: 0.173
+[11,  8000] train loss: 5.434
+[11,  8000] train acc: 0.183
+[11,  9000] train loss: 5.403
+[11,  9000] train acc: 0.185
+[11] test loss: 5.613 perplexity: 273.914
+[11] test acc: 0.166 
+Time since beginning:  2:52:45.050454
+[12,  1000] train loss: 5.478
+[12,  1000] train acc: 0.177
+[12,  2000] train loss: 5.503
+[12,  2000] train acc: 0.173
+[12,  3000] train loss: 5.515
+[12,  3000] train acc: 0.172
+[12,  4000] train loss: 5.494
+[12,  4000] train acc: 0.175
+[12,  5000] train loss: 5.429
+[12,  5000] train acc: 0.182
+[12,  6000] train loss: 5.391
+[12,  6000] train acc: 0.185
+[12,  7000] train loss: 5.493
+[12,  7000] train acc: 0.175
+[12,  8000] train loss: 5.411
+[12,  8000] train acc: 0.184
+[12,  9000] train loss: 5.380
+[12,  9000] train acc: 0.187
+[12] test loss: 5.615 perplexity: 274.575
+[12] test acc: 0.167 
+Time since beginning:  3:08:38.487220
+[13,  1000] train loss: 5.457
+[13,  1000] train acc: 0.179
+[13,  2000] train loss: 5.482
+[13,  2000] train acc: 0.176
+[13,  3000] train loss: 5.493
+[13,  3000] train acc: 0.174
+[13,  4000] train loss: 5.474
+[13,  4000] train acc: 0.176
+[13,  5000] train loss: 5.406
+[13,  5000] train acc: 0.184
+[13,  6000] train loss: 5.370
+[13,  6000] train acc: 0.186
+[13,  7000] train loss: 5.476
+[13,  7000] train acc: 0.176
+[13,  8000] train loss: 5.392
+[13,  8000] train acc: 0.187
+[13,  9000] train loss: 5.359
+[13,  9000] train acc: 0.189
+[13] test loss: 5.617 perplexity: 275.184
+[13] test acc: 0.167 
+Time since beginning:  3:24:22.187318
+[14,  1000] train loss: 5.436
+[14,  1000] train acc: 0.181
+[14,  2000] train loss: 5.462
+[14,  2000] train acc: 0.177
+[14,  3000] train loss: 5.474
+[14,  3000] train acc: 0.176
+[14,  4000] train loss: 5.453
+[14,  4000] train acc: 0.178
+[14,  5000] train loss: 5.386
+[14,  5000] train acc: 0.186
+[14,  6000] train loss: 5.351
+[14,  6000] train acc: 0.188
+[14,  7000] train loss: 5.456
+[14,  7000] train acc: 0.178
+[14,  8000] train loss: 5.372
+[14,  8000] train acc: 0.188
+[14,  9000] train loss: 5.338
+[14,  9000] train acc: 0.191
+[14] test loss: 5.625 perplexity: 277.397
+[14] test acc: 0.167 
+Time since beginning:  3:40:22.453077
+[15,  1000] train loss: 5.417
+[15,  1000] train acc: 0.182
+[15,  2000] train loss: 5.443
+[15,  2000] train acc: 0.179
+[15,  3000] train loss: 5.455
+[15,  3000] train acc: 0.177
+[15,  4000] train loss: 5.436
+[15,  4000] train acc: 0.179
+[15,  5000] train loss: 5.368
+[15,  5000] train acc: 0.187
+[15,  6000] train loss: 5.333
+[15,  6000] train acc: 0.189
+[15,  7000] train loss: 5.437
+[15,  7000] train acc: 0.180
+[15,  8000] train loss: 5.354
+[15,  8000] train acc: 0.190
+[15,  9000] train loss: 5.321
+[15,  9000] train acc: 0.193
+[15] test loss: 5.637 perplexity: 280.484
+[15] test acc: 0.168 
+Time since beginning:  3:56:52.162271
+[16,  1000] train loss: 5.397
+[16,  1000] train acc: 0.184
+[16,  2000] train loss: 5.425
+[16,  2000] train acc: 0.180
+[16,  3000] train loss: 5.438
+[16,  3000] train acc: 0.179
+[16,  4000] train loss: 5.420
+[16,  4000] train acc: 0.181
+[16,  5000] train loss: 5.349
+[16,  5000] train acc: 0.189
+[16,  6000] train loss: 5.315
+[16,  6000] train acc: 0.191
+[16,  7000] train loss: 5.421
+[16,  7000] train acc: 0.181
+[16,  8000] train loss: 5.337
+[16,  8000] train acc: 0.191
+[16,  9000] train loss: 5.301
+[16,  9000] train acc: 0.195
+[16] test loss: 5.654 perplexity: 285.397
+[16] test acc: 0.167 
+Time since beginning:  4:13:01.156202
+[17,  1000] train loss: 5.379
+[17,  1000] train acc: 0.187
+[17,  2000] train loss: 5.409
+[17,  2000] train acc: 0.182
+[17,  3000] train loss: 5.421
+[17,  3000] train acc: 0.180
+[17,  4000] train loss: 5.404
+[17,  4000] train acc: 0.182
+[17,  5000] train loss: 5.334
+[17,  5000] train acc: 0.190
+[17,  6000] train loss: 5.299
+[17,  6000] train acc: 0.192
+[17,  7000] train loss: 5.404
+[17,  7000] train acc: 0.182
+[17,  8000] train loss: 5.322
+[17,  8000] train acc: 0.193
+[17,  9000] train loss: 5.287
+[17,  9000] train acc: 0.196
+[17] test loss: 5.665 perplexity: 288.647
+[17] test acc: 0.168 
+Time since beginning:  4:29:07.851911
+[18,  1000] train loss: 5.364
+[18,  1000] train acc: 0.187
+[18,  2000] train loss: 5.391
+[18,  2000] train acc: 0.184
+[18,  3000] train loss: 5.405
+[18,  3000] train acc: 0.182
+[18,  4000] train loss: 5.389
+[18,  4000] train acc: 0.183
+[18,  5000] train loss: 5.319
+[18,  5000] train acc: 0.192
+[18,  6000] train loss: 5.283
+[18,  6000] train acc: 0.193
+[18,  7000] train loss: 5.389
+[18,  7000] train acc: 0.184
+[18,  8000] train loss: 5.308
+[18,  8000] train acc: 0.194
+[18,  9000] train loss: 5.270
+[18,  9000] train acc: 0.198
+[18] test loss: 5.676 perplexity: 291.882
+[18] test acc: 0.169 
+Time since beginning:  4:45:00.530474
+[19,  1000] train loss: 5.348
+[19,  1000] train acc: 0.189
+[19,  2000] train loss: 5.378
+[19,  2000] train acc: 0.185
+[19,  3000] train loss: 5.392
+[19,  3000] train acc: 0.183
+[19,  4000] train loss: 5.372
+[19,  4000] train acc: 0.185
+[19,  5000] train loss: 5.302
+[19,  5000] train acc: 0.193
+[19,  6000] train loss: 5.269
+[19,  6000] train acc: 0.195
+[19,  7000] train loss: 5.376
+[19,  7000] train acc: 0.185
+[19,  8000] train loss: 5.293
+[19,  8000] train acc: 0.195
+[19,  9000] train loss: 5.257
+[19,  9000] train acc: 0.198
+[19] test loss: 5.700 perplexity: 298.891
+[19] test acc: 0.169 
+Time since beginning:  5:00:45.583297
+[20,  1000] train loss: 5.333
+[20,  1000] train acc: 0.190
+[20,  2000] train loss: 5.362
+[20,  2000] train acc: 0.186
+[20,  3000] train loss: 5.376
+[20,  3000] train acc: 0.184
+[20,  4000] train loss: 5.361
+[20,  4000] train acc: 0.185
+[20,  5000] train loss: 5.286
+[20,  5000] train acc: 0.194
+[20,  6000] train loss: 5.256
+[20,  6000] train acc: 0.197
+[20,  7000] train loss: 5.361
+[20,  7000] train acc: 0.186
+[20,  8000] train loss: 5.280
+[20,  8000] train acc: 0.197
+[20,  9000] train loss: 5.243
+[20,  9000] train acc: 0.199
+[20] test loss: 5.712 perplexity: 302.492
+[20] test acc: 0.168 
+Time since beginning:  5:16:54.902725
+[21,  1000] train loss: 5.319
+[21,  1000] train acc: 0.191
+[21,  2000] train loss: 5.349
+[21,  2000] train acc: 0.187
+[21,  3000] train loss: 5.364
+[21,  3000] train acc: 0.185
+[21,  4000] train loss: 5.346
+[21,  4000] train acc: 0.187
+[21,  5000] train loss: 5.276
+[21,  5000] train acc: 0.195
+[21,  6000] train loss: 5.240
+[21,  6000] train acc: 0.198
+[21,  7000] train loss: 5.351
+[21,  7000] train acc: 0.187
+[21,  8000] train loss: 5.269
+[21,  8000] train acc: 0.197
+[21,  9000] train loss: 5.228
+[21,  9000] train acc: 0.201
+[21] test loss: 5.726 perplexity: 306.742
+[21] test acc: 0.169 
+Time since beginning:  5:32:36.058703
+[22,  1000] train loss: 5.306
+[22,  1000] train acc: 0.192
+[22,  2000] train loss: 5.338
+[22,  2000] train acc: 0.188
+[22,  3000] train loss: 5.352
+[22,  3000] train acc: 0.186
+[22,  4000] train loss: 5.335
+[22,  4000] train acc: 0.188
+[22,  5000] train loss: 5.267
+[22,  5000] train acc: 0.196
+[22,  6000] train loss: 5.230
+[22,  6000] train acc: 0.199
+[22,  7000] train loss: 5.339
+[22,  7000] train acc: 0.188
+[22,  8000] train loss: 5.255
+[22,  8000] train acc: 0.199
+[22,  9000] train loss: 5.218
+[22,  9000] train acc: 0.202
+[22] test loss: 5.741 perplexity: 311.288
+[22] test acc: 0.169 
+Time since beginning:  5:48:12.213069
+[23,  1000] train loss: 5.295
+[23,  1000] train acc: 0.193
+[23,  2000] train loss: 5.325
+[23,  2000] train acc: 0.189
+[23,  3000] train loss: 5.341
+[23,  3000] train acc: 0.187
+[23,  4000] train loss: 5.325
+[23,  4000] train acc: 0.189
+[23,  5000] train loss: 5.254
+[23,  5000] train acc: 0.198
+[23,  6000] train loss: 5.219
+[23,  6000] train acc: 0.199
+[23,  7000] train loss: 5.328
+[23,  7000] train acc: 0.189
+[23,  8000] train loss: 5.244
+[23,  8000] train acc: 0.200
+[23,  9000] train loss: 5.207
+[23,  9000] train acc: 0.203
+[23] test loss: 5.754 perplexity: 315.435
+[23] test acc: 0.168 
+Time since beginning:  6:04:19.159995
+[24,  1000] train loss: 5.283
+[24,  1000] train acc: 0.194
+[24,  2000] train loss: 5.314
+[24,  2000] train acc: 0.190
+[24,  3000] train loss: 5.329
+[24,  3000] train acc: 0.189
+[24,  4000] train loss: 5.313
+[24,  4000] train acc: 0.190
+[24,  5000] train loss: 5.239
+[24,  5000] train acc: 0.199
+[24,  6000] train loss: 5.209
+[24,  6000] train acc: 0.201
+[24,  7000] train loss: 5.315
+[24,  7000] train acc: 0.191
+[24,  8000] train loss: 5.233
+[24,  8000] train acc: 0.200
+[24,  9000] train loss: 5.197
+[24,  9000] train acc: 0.204
+[24] test loss: 5.768 perplexity: 319.856
+[24] test acc: 0.168 
+Time since beginning:  6:20:34.551309
+[25,  1000] train loss: 5.274
+[25,  1000] train acc: 0.195
+[25,  2000] train loss: 5.303
+[25,  2000] train acc: 0.191
+[25,  3000] train loss: 5.319
+[25,  3000] train acc: 0.189
+[25,  4000] train loss: 5.303
+[25,  4000] train acc: 0.191
+[25,  5000] train loss: 5.231
+[25,  5000] train acc: 0.199
+[25,  6000] train loss: 5.198
+[25,  6000] train acc: 0.202
+[25,  7000] train loss: 5.306
+[25,  7000] train acc: 0.192
+[25,  8000] train loss: 5.224
+[25,  8000] train acc: 0.201
+[25,  9000] train loss: 5.184
+[25,  9000] train acc: 0.205
+[25] test loss: 5.786 perplexity: 325.813
+[25] test acc: 0.168 
+Time since beginning:  6:36:44.030076
+[26,  1000] train loss: 5.264
+[26,  1000] train acc: 0.196
+[26,  2000] train loss: 5.294
+[26,  2000] train acc: 0.192
+[26,  3000] train loss: 5.309
+[26,  3000] train acc: 0.190
+[26,  4000] train loss: 5.295
+[26,  4000] train acc: 0.192
+[26,  5000] train loss: 5.224
+[26,  5000] train acc: 0.200
+[26,  6000] train loss: 5.190
+[26,  6000] train acc: 0.202
+[26,  7000] train loss: 5.298
+[26,  7000] train acc: 0.192
+[26,  8000] train loss: 5.217
+[26,  8000] train acc: 0.202
+[26,  9000] train loss: 5.177
+[26,  9000] train acc: 0.206
+[26] test loss: 5.795 perplexity: 328.812
+[26] test acc: 0.168 
+Time since beginning:  6:52:59.076397
+[27,  1000] train loss: 5.254
+[27,  1000] train acc: 0.197
+[27,  2000] train loss: 5.284
+[27,  2000] train acc: 0.193
+[27,  3000] train loss: 5.299
+[27,  3000] train acc: 0.191
+[27,  4000] train loss: 5.284
+[27,  4000] train acc: 0.193
+[27,  5000] train loss: 5.213
+[27,  5000] train acc: 0.201
+[27,  6000] train loss: 5.180
+[27,  6000] train acc: 0.203
+[27,  7000] train loss: 5.287
+[27,  7000] train acc: 0.193
+[27,  8000] train loss: 5.205
+[27,  8000] train acc: 0.202
+[27,  9000] train loss: 5.164
+[27,  9000] train acc: 0.207
+[27] test loss: 5.808 perplexity: 332.799
+[27] test acc: 0.168 
+Time since beginning:  7:09:03.733101
+[28,  1000] train loss: 5.246
+[28,  1000] train acc: 0.197
+[28,  2000] train loss: 5.276
+[28,  2000] train acc: 0.193
+[28,  3000] train loss: 5.290
+[28,  3000] train acc: 0.191
+[28,  4000] train loss: 5.274
+[28,  4000] train acc: 0.194
+[28,  5000] train loss: 5.202
+[28,  5000] train acc: 0.202
+[28,  6000] train loss: 5.170
+[28,  6000] train acc: 0.204
+[28,  7000] train loss: 5.281
+[28,  7000] train acc: 0.193
+[28,  8000] train loss: 5.196
+[28,  8000] train acc: 0.203
+[28,  9000] train loss: 5.158
+[28,  9000] train acc: 0.207
+[28] test loss: 5.822 perplexity: 337.512
+[28] test acc: 0.167 
+Time since beginning:  7:25:16.420935
+[29,  1000] train loss: 5.239
+[29,  1000] train acc: 0.198
+[29,  2000] train loss: 5.266
+[29,  2000] train acc: 0.194
+[29,  3000] train loss: 5.281
+[29,  3000] train acc: 0.192
+[29,  4000] train loss: 5.266
+[29,  4000] train acc: 0.194
+[29,  5000] train loss: 5.194
+[29,  5000] train acc: 0.203
+[29,  6000] train loss: 5.162
+[29,  6000] train acc: 0.204
+[29,  7000] train loss: 5.273
+[29,  7000] train acc: 0.193
+[29,  8000] train loss: 5.187
+[29,  8000] train acc: 0.204
+[29,  9000] train loss: 5.149
+[29,  9000] train acc: 0.207
+[29] test loss: 5.839 perplexity: 343.520
+[29] test acc: 0.168 
+Time since beginning:  7:41:34.632047
+[30,  1000] train loss: 5.229
+[30,  1000] train acc: 0.199
+[30,  2000] train loss: 5.258
+[30,  2000] train acc: 0.194
+[30,  3000] train loss: 5.274
+[30,  3000] train acc: 0.194
+[30,  4000] train loss: 5.259
+[30,  4000] train acc: 0.194
+[30,  5000] train loss: 5.189
+[30,  5000] train acc: 0.203
+[30,  6000] train loss: 5.155
+[30,  6000] train acc: 0.205
+[30,  7000] train loss: 5.265
+[30,  7000] train acc: 0.194
+[30,  8000] train loss: 5.180
+[30,  8000] train acc: 0.204
+[30,  9000] train loss: 5.140
+[30,  9000] train acc: 0.208
+[30] test loss: 5.864 perplexity: 351.965
+[30] test acc: 0.168 
+Time since beginning:  7:57:54.098810
+[31,  1000] train loss: 5.223
+[31,  1000] train acc: 0.199
+[31,  2000] train loss: 5.252
+[31,  2000] train acc: 0.195
+[31,  3000] train loss: 5.266
+[31,  3000] train acc: 0.194
+[31,  4000] train loss: 5.251
+[31,  4000] train acc: 0.195
+[31,  5000] train loss: 5.179
+[31,  5000] train acc: 0.204
+[31,  6000] train loss: 5.146
+[31,  6000] train acc: 0.206
+[31,  7000] train loss: 5.258
+[31,  7000] train acc: 0.195
+[31,  8000] train loss: 5.173
+[31,  8000] train acc: 0.205
+[31,  9000] train loss: 5.134
+[31,  9000] train acc: 0.209
+[31] test loss: 5.861 perplexity: 350.917
+[31] test acc: 0.168 
+Time since beginning:  8:14:23.547221
+[32,  1000] train loss: 5.212
+[32,  1000] train acc: 0.201
+[32,  2000] train loss: 5.244
+[32,  2000] train acc: 0.196
+[32,  3000] train loss: 5.260
+[32,  3000] train acc: 0.195
+[32,  4000] train loss: 5.246
+[32,  4000] train acc: 0.196
+[32,  5000] train loss: 5.171
+[32,  5000] train acc: 0.205
+[32,  6000] train loss: 5.142
+[32,  6000] train acc: 0.207
+[32,  7000] train loss: 5.250
+[32,  7000] train acc: 0.196
+[32,  8000] train loss: 5.164
+[32,  8000] train acc: 0.206
+[32,  9000] train loss: 5.129
+[32,  9000] train acc: 0.210
+[32] test loss: 5.876 perplexity: 356.438
+[32] test acc: 0.168 
+Time since beginning:  8:30:56.274530
+[33,  1000] train loss: 5.207
+[33,  1000] train acc: 0.201
+[33,  2000] train loss: 5.240
+[33,  2000] train acc: 0.196
+[33,  3000] train loss: 5.253
+[33,  3000] train acc: 0.196
+[33,  4000] train loss: 5.236
+[33,  4000] train acc: 0.197
+[33,  5000] train loss: 5.167
+[33,  5000] train acc: 0.205
+[33,  6000] train loss: 5.136
+[33,  6000] train acc: 0.207
+[33,  7000] train loss: 5.244
+[33,  7000] train acc: 0.196
+[33,  8000] train loss: 5.155
+[33,  8000] train acc: 0.207
+[33,  9000] train loss: 5.122
+[33,  9000] train acc: 0.210
+[33] test loss: 5.886 perplexity: 359.894
+[33] test acc: 0.168 
+Time since beginning:  8:47:16.396005
+[34,  1000] train loss: 5.200
+[34,  1000] train acc: 0.201
+[34,  2000] train loss: 5.232
+[34,  2000] train acc: 0.197
+[34,  3000] train loss: 5.248
+[34,  3000] train acc: 0.196
+[34,  4000] train loss: 5.232
+[34,  4000] train acc: 0.197
+[34,  5000] train loss: 5.157
+[34,  5000] train acc: 0.206
+[34,  6000] train loss: 5.127
+[34,  6000] train acc: 0.208
+[34,  7000] train loss: 5.237
+[34,  7000] train acc: 0.197
+[34,  8000] train loss: 5.151
+[34,  8000] train acc: 0.207
+[34,  9000] train loss: 5.113
+[34,  9000] train acc: 0.211
+[34] test loss: 5.897 perplexity: 364.122
+[34] test acc: 0.168 
+Time since beginning:  9:03:22.110461
+[35,  1000] train loss: 5.193
+[35,  1000] train acc: 0.202
+[35,  2000] train loss: 5.225
+[35,  2000] train acc: 0.198
+[35,  3000] train loss: 5.236
+[35,  3000] train acc: 0.197
+[35,  4000] train loss: 5.224
+[35,  4000] train acc: 0.197
+[35,  5000] train loss: 5.151
+[35,  5000] train acc: 0.207
+[35,  6000] train loss: 5.122
+[35,  6000] train acc: 0.208
+[35,  7000] train loss: 5.232
+[35,  7000] train acc: 0.198
+[35,  8000] train loss: 5.144
+[35,  8000] train acc: 0.208
+[35,  9000] train loss: 5.109
+[35,  9000] train acc: 0.212
+[35] test loss: 5.898 perplexity: 364.251
+[35] test acc: 0.168 
+Time since beginning:  9:19:42.044482
+[36,  1000] train loss: 5.188
+[36,  1000] train acc: 0.203
+[36,  2000] train loss: 5.215
+[36,  2000] train acc: 0.199
+[36,  3000] train loss: 5.229
+[36,  3000] train acc: 0.197
+[36,  4000] train loss: 5.217
+[36,  4000] train acc: 0.198
+[36,  5000] train loss: 5.145
+[36,  5000] train acc: 0.207
+[36,  6000] train loss: 5.115
+[36,  6000] train acc: 0.209
+[36,  7000] train loss: 5.224
+[36,  7000] train acc: 0.199
+[36,  8000] train loss: 5.137
+[36,  8000] train acc: 0.209
+[36,  9000] train loss: 5.100
+[36,  9000] train acc: 0.213
+[36] test loss: 5.898 perplexity: 364.323
+[36] test acc: 0.169 
+Time since beginning:  9:36:05.827815
+[37,  1000] train loss: 5.183
+[37,  1000] train acc: 0.203
+[37,  2000] train loss: 5.208
+[37,  2000] train acc: 0.200
+[37,  3000] train loss: 5.223
+[37,  3000] train acc: 0.198
+[37,  4000] train loss: 5.211
+[37,  4000] train acc: 0.199
+[37,  5000] train loss: 5.136
+[37,  5000] train acc: 0.208
+[37,  6000] train loss: 5.105
+[37,  6000] train acc: 0.209
+[37,  7000] train loss: 5.212
+[37,  7000] train acc: 0.199
+[37,  8000] train loss: 5.129
+[37,  8000] train acc: 0.210
+[37,  9000] train loss: 5.094
+[37,  9000] train acc: 0.213
+[37] test loss: 5.890 perplexity: 361.271
+[37] test acc: 0.170 
+Time since beginning:  9:52:33.373456
+[38,  1000] train loss: 5.178
+[38,  1000] train acc: 0.204
+[38,  2000] train loss: 5.198
+[38,  2000] train acc: 0.201
+[38,  3000] train loss: 5.215
+[38,  3000] train acc: 0.199
+[38,  4000] train loss: 5.198
+[38,  4000] train acc: 0.200
+[38,  5000] train loss: 5.120
+[38,  5000] train acc: 0.209
+[38,  6000] train loss: 5.097
+[38,  6000] train acc: 0.211
+[38,  7000] train loss: 5.201
+[38,  7000] train acc: 0.201
+[38,  8000] train loss: 5.117
+[38,  8000] train acc: 0.211
+[38,  9000] train loss: 5.085
+[38,  9000] train acc: 0.214
+[38] test loss: 5.898 perplexity: 364.406
+[38] test acc: 0.170 
+Time since beginning:  10:09:01.530833
+[39,  1000] train loss: 5.164
+[39,  1000] train acc: 0.205
+[39,  2000] train loss: 5.188
+[39,  2000] train acc: 0.202
+[39,  3000] train loss: 5.202
+[39,  3000] train acc: 0.200
+[39,  4000] train loss: 5.189
+[39,  4000] train acc: 0.202
+[39,  5000] train loss: 5.112
+[39,  5000] train acc: 0.210
+[39,  6000] train loss: 5.089
+[39,  6000] train acc: 0.211
+[39,  7000] train loss: 5.193
+[39,  7000] train acc: 0.201
+[39,  8000] train loss: 5.106
+[39,  8000] train acc: 0.212
+[39,  9000] train loss: 5.074
+[39,  9000] train acc: 0.216
+[39] test loss: 5.910 perplexity: 368.692
+[39] test acc: 0.171 
+Time since beginning:  10:25:46.566141
+[40,  1000] train loss: 5.154
+[40,  1000] train acc: 0.206
+[40,  2000] train loss: 5.176
+[40,  2000] train acc: 0.203
+[40,  3000] train loss: 5.195
+[40,  3000] train acc: 0.201
+[40,  4000] train loss: 5.177
+[40,  4000] train acc: 0.203
+[40,  5000] train loss: 5.102
+[40,  5000] train acc: 0.211
+[40,  6000] train loss: 5.080
+[40,  6000] train acc: 0.212
+[40,  7000] train loss: 5.185
+[40,  7000] train acc: 0.202
+[40,  8000] train loss: 5.097
+[40,  8000] train acc: 0.212
+[40,  9000] train loss: 5.064
+[40,  9000] train acc: 0.216
+[40] test loss: 5.924 perplexity: 373.937
+[40] test acc: 0.171 
+Time since beginning:  10:42:34.858525
+[41,  1000] train loss: 5.146
+[41,  1000] train acc: 0.207
+[41,  2000] train loss: 5.169
+[41,  2000] train acc: 0.204
+[41,  3000] train loss: 5.184
+[41,  3000] train acc: 0.202
+[41,  4000] train loss: 5.170
+[41,  4000] train acc: 0.203
+[41,  5000] train loss: 5.095
+[41,  5000] train acc: 0.212
+[41,  6000] train loss: 5.073
+[41,  6000] train acc: 0.213
+[41,  7000] train loss: 5.177
+[41,  7000] train acc: 0.203
+[41,  8000] train loss: 5.091
+[41,  8000] train acc: 0.213
+[41,  9000] train loss: 5.056
+[41,  9000] train acc: 0.217
+[41] test loss: 5.927 perplexity: 374.947
+[41] test acc: 0.171 
+Time since beginning:  10:59:07.845689
+[42,  1000] train loss: 5.140
+[42,  1000] train acc: 0.207
+[42,  2000] train loss: 5.161
+[42,  2000] train acc: 0.204
+[42,  3000] train loss: 5.177
+[42,  3000] train acc: 0.202
+[42,  4000] train loss: 5.164
+[42,  4000] train acc: 0.204
+[42,  5000] train loss: 5.089
+[42,  5000] train acc: 0.212
+[42,  6000] train loss: 5.062
+[42,  6000] train acc: 0.214
+[42,  7000] train loss: 5.169
+[42,  7000] train acc: 0.204
+[42,  8000] train loss: 5.084
+[42,  8000] train acc: 0.213
+[42,  9000] train loss: 5.050
+[42,  9000] train acc: 0.218
+[42] test loss: 5.936 perplexity: 378.394
+[42] test acc: 0.171 
+Time since beginning:  11:15:34.954067
+[43,  1000] train loss: 5.134
+[43,  1000] train acc: 0.208
+[43,  2000] train loss: 5.154
+[43,  2000] train acc: 0.205
+[43,  3000] train loss: 5.171
+[43,  3000] train acc: 0.203
+[43,  4000] train loss: 5.155
+[43,  4000] train acc: 0.205
+[43,  5000] train loss: 5.079
+[43,  5000] train acc: 0.213
+[43,  6000] train loss: 5.055
+[43,  6000] train acc: 0.214
+[43,  7000] train loss: 5.163
+[43,  7000] train acc: 0.204
+[43,  8000] train loss: 5.076
+[43,  8000] train acc: 0.214
+[43,  9000] train loss: 5.043
+[43,  9000] train acc: 0.218
+[43] test loss: 5.954 perplexity: 385.357
+[43] test acc: 0.171 
+Time since beginning:  11:32:06.803336
+[44,  1000] train loss: 5.127
+[44,  1000] train acc: 0.208
+[44,  2000] train loss: 5.147
+[44,  2000] train acc: 0.206
+[44,  3000] train loss: 5.167
+[44,  3000] train acc: 0.203
+[44,  4000] train loss: 5.151
+[44,  4000] train acc: 0.205
+[44,  5000] train loss: 5.077
+[44,  5000] train acc: 0.213
+[44,  6000] train loss: 5.051
+[44,  6000] train acc: 0.215
+[44,  7000] train loss: 5.155
+[44,  7000] train acc: 0.205
+[44,  8000] train loss: 5.073
+[44,  8000] train acc: 0.215
+[44,  9000] train loss: 5.036
+[44,  9000] train acc: 0.219
+[44] test loss: 5.970 perplexity: 391.686
+[44] test acc: 0.171 
+Time since beginning:  11:48:38.393041
+[45,  1000] train loss: 5.122
+[45,  1000] train acc: 0.209
+[45,  2000] train loss: 5.145
+[45,  2000] train acc: 0.206
+[45,  3000] train loss: 5.160
+[45,  3000] train acc: 0.204
+[45,  4000] train loss: 5.146
+[45,  4000] train acc: 0.205
+[45,  5000] train loss: 5.069
+[45,  5000] train acc: 0.214
+[45,  6000] train loss: 5.044
+[45,  6000] train acc: 0.215
+[45,  7000] train loss: 5.151
+[45,  7000] train acc: 0.206
+[45,  8000] train loss: 5.063
+[45,  8000] train acc: 0.216
+[45,  9000] train loss: 5.028
+[45,  9000] train acc: 0.220
+[45] test loss: 5.976 perplexity: 393.921
+[45] test acc: 0.172 
+Time since beginning:  12:05:09.248411
+[46,  1000] train loss: 5.117
+[46,  1000] train acc: 0.209
+[46,  2000] train loss: 5.135
+[46,  2000] train acc: 0.207
+[46,  3000] train loss: 5.155
+[46,  3000] train acc: 0.204
+[46,  4000] train loss: 5.141
+[46,  4000] train acc: 0.206
+[46,  5000] train loss: 5.062
+[46,  5000] train acc: 0.214
+[46,  6000] train loss: 5.040
+[46,  6000] train acc: 0.216
+[46,  7000] train loss: 5.145
+[46,  7000] train acc: 0.206
+[46,  8000] train loss: 5.061
+[46,  8000] train acc: 0.215
+[46,  9000] train loss: 5.024
+[46,  9000] train acc: 0.220
+[46] test loss: 5.978 perplexity: 394.573
+[46] test acc: 0.171 
+Time since beginning:  12:21:38.600935
+[47,  1000] train loss: 5.110
+[47,  1000] train acc: 0.210
+[47,  2000] train loss: 5.130
+[47,  2000] train acc: 0.207
+[47,  3000] train loss: 5.150
+[47,  3000] train acc: 0.205
+[47,  4000] train loss: 5.132
+[47,  4000] train acc: 0.207
+[47,  5000] train loss: 5.056
+[47,  5000] train acc: 0.215
+[47,  6000] train loss: 5.034
+[47,  6000] train acc: 0.217
+[47,  7000] train loss: 5.136
+[47,  7000] train acc: 0.206
+[47,  8000] train loss: 5.051
+[47,  8000] train acc: 0.217
+[47,  9000] train loss: 5.020
+[47,  9000] train acc: 0.220
+[47] test loss: 5.993 perplexity: 400.627
+[47] test acc: 0.171 
+Time since beginning:  12:38:14.235421
+[48,  1000] train loss: 5.103
+[48,  1000] train acc: 0.211
+[48,  2000] train loss: 5.123
+[48,  2000] train acc: 0.207
+[48,  3000] train loss: 5.144
+[48,  3000] train acc: 0.205
+[48,  4000] train loss: 5.127
+[48,  4000] train acc: 0.208
+[48,  5000] train loss: 5.051
+[48,  5000] train acc: 0.215
+[48,  6000] train loss: 5.026
+[48,  6000] train acc: 0.217
+[48,  7000] train loss: 5.129
+[48,  7000] train acc: 0.207
+[48,  8000] train loss: 5.048
+[48,  8000] train acc: 0.216
+[48,  9000] train loss: 5.013
+[48,  9000] train acc: 0.221
+[48] test loss: 5.997 perplexity: 402.276
+[48] test acc: 0.171 
+Time since beginning:  12:54:46.968164
+[49,  1000] train loss: 5.100
+[49,  1000] train acc: 0.211
+[49,  2000] train loss: 5.119
+[49,  2000] train acc: 0.207
+[49,  3000] train loss: 5.139
+[49,  3000] train acc: 0.205
+[49,  4000] train loss: 5.123
+[49,  4000] train acc: 0.207
+[49,  5000] train loss: 5.046
+[49,  5000] train acc: 0.215
+[49,  6000] train loss: 5.025
+[49,  6000] train acc: 0.217
+[49,  7000] train loss: 5.129
+[49,  7000] train acc: 0.206
+[49,  8000] train loss: 5.042
+[49,  8000] train acc: 0.217
+[49,  9000] train loss: 5.006
+[49,  9000] train acc: 0.221
+[49] test loss: 6.010 perplexity: 407.510
+[49] test acc: 0.170 
+Time since beginning:  13:11:17.247792
+[50,  1000] train loss: 5.093
+[50,  1000] train acc: 0.212
+[50,  2000] train loss: 5.114
+[50,  2000] train acc: 0.208
+[50,  3000] train loss: 5.133
+[50,  3000] train acc: 0.206
+[50,  4000] train loss: 5.118
+[50,  4000] train acc: 0.207
+[50,  5000] train loss: 5.041
+[50,  5000] train acc: 0.216
+[50,  6000] train loss: 5.019
+[50,  6000] train acc: 0.218
+[50,  7000] train loss: 5.122
+[50,  7000] train acc: 0.207
+[50,  8000] train loss: 5.039
+[50,  8000] train acc: 0.218
+[50,  9000] train loss: 5.000
+[50,  9000] train acc: 0.222
+[50] test loss: 6.008 perplexity: 406.727
+[50] test acc: 0.170 
+Time since beginning:  13:27:49.709494
+
+
+Total Time Consumed  13:27:49.709524
