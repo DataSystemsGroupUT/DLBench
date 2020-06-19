@@ -14,7 +14,7 @@
   4- [SVHN](http://ufldl.stanford.edu/housenumbers/) <br />
   
 
-## The LSTM Experiments comparing those frameworks over 4 datasets:
+## The LSTM Experiments comparing those frameworks over 3 datasets:
   1- [PTB](https://corochann.com/penn-tree-bank-ptb-dataset-introduction-1456.html) <br />
   2- [Manythings](https://www.manythings.org/anki/) <br />
   3- [IMDB](https://keras.io/api/datasets/imdb/) <br />
